@@ -17,7 +17,7 @@ publishDir = "docs"
 
 
 [author]
-  name = "Saran Sai"
+  name = "PIF & Co."
 
 [blackfriday]
   # hrefTargetBlank = true
