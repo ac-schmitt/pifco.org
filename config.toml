@@ -1,4 +1,4 @@
-baseURL = "https://ac-schmitt.github.io/pifco.org/"
+baseURL = "https://pifco.org/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 pluralizelisttitles = false # no automatic english plurals for titles
