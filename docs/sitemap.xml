@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ac-schmitt.github.io/pifco.org/about/</loc>
     <lastmod>1492-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://ac-schmitt.github.io/pifco.org/</loc>
     <lastmod>1492-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/companie/</loc>
+    <loc>https://ac-schmitt.github.io/pifco.org/companie/</loc>
     <lastmod>1491-01-01T18:40:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/companie/pifco/</loc>
+    <loc>https://ac-schmitt.github.io/pifco.org/companie/pifco/</loc>
     <lastmod>1491-01-01T18:40:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ac-schmitt.github.io/pifco.org/tags/</loc>
   </url>
   
 </urlset>
