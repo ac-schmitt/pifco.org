@@ -73,11 +73,16 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    name = "Die Companie"
-    url = "companie/"
+    name = "Postsachen"
+    url = "posts/"
     weight = 10
+
+  [[menu.main]]
+    name = "Die Companie"
+    url = "pifco/"
+    weight = 20
 
   [[menu.main]]
     name = "Erscheinungsvermerk"
     url = "about/"
-    weight = 20
+    weight = 30
