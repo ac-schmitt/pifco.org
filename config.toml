@@ -60,15 +60,11 @@ publishDir = "docs"
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/fohleireih"
 
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/"
+    name = "email"
+    url = "mailto:fohleireih@pifco.org"
 
 [menu]
 
