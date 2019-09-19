@@ -1,6 +1,6 @@
 baseURL = "https://pifco.org/"
-languageCode = "de-de"
-defaultContentLanguage = "de"
+languageCode = "en-us"
+defaultContentLanguage = "en"
 pluralizelisttitles = false # no automatic english plurals for titles
 title = "Phineas, Ilominar, Fohleireih & Co."
 theme = "hermit"

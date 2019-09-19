@@ -1,6 +1,6 @@
 ---
 title: "Fliegendes Blatt über Waterdeep"
-date: 1489-04-14T12:51:12+02:00
+date: 1486-04-14T12:51:12+02:00
 draft: false
 toc: false
 images:
@@ -20,7 +20,7 @@ Sei Dir über die Umstände dieser Stadt bewusst. Ihrer Geschichte, ihren Gesetz
 
 ### Eine kurze Geschichte
 
-Wir schreiben das Jahr 1489 DR, die Zeit des Umbruchs ist vorüber. Die Götter sitzen wieder an ihren Plätzen und der Staub der Veränderung hat sich erneut gelegt. Unruhige Zeiten liegen hinter der Stadt der Prächtigen.
+Wir schreiben das Jahr 1486 DR, die Zeit des Umbruchs ist vorüber. Die Götter sitzen wieder an ihren Plätzen und der Staub der Veränderung hat sich erneut gelegt. Unruhige Zeiten liegen hinter der Stadt der Prächtigen.
 
 * 1479 DR - Lord Dagult Neverember ist Open Lord von Waterdeep.
 * 1395 DR - Der sogenannte _faulende Fluch (Putrescent Anathema)_ trifft Waterdeep und tötet Tausende in der Stadt und im Umland. Die schlimmsten Auswirkungen der _Zauberpest (Spellplague)_ enden und die Magie wird wieder beherrschbar.
