@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Phineas, Ilominar, Fohleireih &amp; Co.</title>
+		<title>Postsachen on Phineas, Ilominar, Fohleireih &amp; Co.</title>
 		<link>https://pifco.org/posts/</link>
-		<description>Recent content in Posts on Phineas, Ilominar, Fohleireih &amp; Co.</description>
+		<description>Recent content in Postsachen on Phineas, Ilominar, Fohleireih &amp; Co.</description>
 		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
+		<language>de-de</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Thu, 19 Sep 1489 21:37:08 +0200</lastBuildDate>
 		<atom:link href="https://pifco.org/posts/index.xml" rel="self" type="application/rss+xml" />

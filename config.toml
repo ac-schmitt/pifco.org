@@ -1,6 +1,6 @@
 baseURL = "https://pifco.org/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "de-de"
+defaultContentLanguage = "de"
 pluralizelisttitles = false # no automatic english plurals for titles
 title = "Phineas, Ilominar, Fohleireih & Co."
 theme = "hermit"
@@ -29,10 +29,10 @@ publishDir = "docs"
   # Categories are disabled by default.
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "2. 1. 2006"
+  dateformShort   = "2. 1."
+  dateformNum     = "02.01.2006"
+  dateformNumTime = "02.01.2006 15:04 -0700"
 
   # Metadata mostly used in document's head
   # description = ""
