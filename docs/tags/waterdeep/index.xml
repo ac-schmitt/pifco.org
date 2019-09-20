@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>waterdeep on Phineas, Ilominar, Fohleireih &amp; Co.</title>
+    <title>Waterdeep on Phineas, Ilominar, Fohleireih &amp; Co.</title>
     <link>https://pifco.org/tags/waterdeep/</link>
-    <description>Recent content in waterdeep on Phineas, Ilominar, Fohleireih &amp; Co.</description>
+    <description>Recent content in Waterdeep on Phineas, Ilominar, Fohleireih &amp; Co.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 13 Feb 1486 21:24:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 1489 14:21:55 +0200</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/waterdeep/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kult der Drachen</title>
+      <link>https://pifco.org/posts/kult-der-drachen/</link>
+      <pubDate>Thu, 10 Jan 1489 14:21:55 +0200</pubDate>
+      
+      <guid>https://pifco.org/posts/kult-der-drachen/</guid>
+      <description>Immer mehr beunruhigende Berichte kamen in den letzten Tagen über den neu erstarkten Kult der Drachen in Waterdeep an. Im vergangenen Jahr erschien es noch wie eine lästige Sache, mit denen die Flammende Faust schon fertig werden würde.
+Doch es erscheint es so, als ob der Kult auch im Norden, hinter Luskan und in den Gegenden um Silbrigmond herum sein Unwesen treibt. Unterstützt dabei von weißen Drachen. Aus dem Nebelwald erreichten uns Berichte über Angriffe von grünen Drachen.</description>
+    </item>
     
     <item>
       <title>Neue Lokalität</title>
