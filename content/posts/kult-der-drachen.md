@@ -3,7 +3,8 @@ title: "Kult der Drachen"
 date: 1489-01-10T14:21:55+02:00
 draft: false
 toc: false
-images:
+images: 
+  - https://i.imgur.com/zqAcO6X.png
 tags: 
   - Waterdeep
   - Kult der Drachen
@@ -11,7 +12,7 @@ tags:
 
 Immer mehr beunruhigende Berichte kamen in den letzten Tagen über den neu erstarkten Kult der Drachen in Waterdeep an. Im vergangenen Jahr erschien es noch wie eine lästige Sache, mit denen die Flammende Faust schon fertig werden würde.
 
-![Flaming Fist](https://i.imgur.com/zqAcO6X.png?1)
+![Flaming Fist](https://i.imgur.com/zqAcO6X.png)
 
 Doch es erscheint es so, als ob der Kult auch im Norden, hinter Luskan und in den Gegenden um Silbrigmond herum sein Unwesen treibt. Unterstützt dabei von weißen Drachen. Aus dem Nebelwald erreichten uns Berichte über Angriffe von grünen Drachen. Die Handelsstraße zwischen Waterdeep und Baldurs Tor wird dem vernehmen nach immer wieder von blauen Drachen angegriffen. Und immer mit dabei die Kultisten in ihren violetten Roben.
 

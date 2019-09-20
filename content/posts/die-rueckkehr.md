@@ -4,6 +4,7 @@ date: 1489-09-19T21:37:08+02:00
 draft: false
 toc: false
 images:
+  - https://i.imgur.com/qqMWjxq.png?1
 tags: 
   - Logbuch
   - Kult der Drachen
