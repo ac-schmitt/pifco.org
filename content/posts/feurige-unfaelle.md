@@ -1,7 +1,7 @@
 ---
 title: "Feurige Unfälle"
 date: 1489-05-22T17:31:09+02:00
-draft: true
+draft: false
 toc: false
 images:
   - https://i.imgur.com/Bw2AXvc.jpg
