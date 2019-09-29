@@ -1,7 +1,7 @@
 ---
 title: "Steuern"
 date: 1487-01-16T20:30:49+02:00
-draft: true
+draft: false
 toc: false
 images:
   - https://i.imgur.com/BZ7fhj6.jpg
