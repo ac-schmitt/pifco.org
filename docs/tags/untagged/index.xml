@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Phineas, Ilominar, Fohleireih &amp; Co.</title>
+    <link>https://pifco.org/tags/untagged/</link>
+    <description>Recent content in untagged on Phineas, Ilominar, Fohleireih &amp; Co.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 22:24:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://pifco.org/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dummypost</title>
+      <link>https://pifco.org/posts/dummypost/</link>
+      <pubDate>Tue, 01 Oct 2019 22:24:34 +0200</pubDate>
+      
+      <guid>https://pifco.org/posts/dummypost/</guid>
+      <description>Das ist nur ein Stellvertreter-Posting um den rss-feed zu testen.</description>
+    </item>
+    
+  </channel>
+</rss>

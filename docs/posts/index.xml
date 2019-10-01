@@ -6,8 +6,20 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de-de</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Thu, 19 Sep 1489 21:37:08 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 01 Oct 2019 22:24:34 +0200</lastBuildDate>
 		<atom:link href="https://pifco.org/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Dummypost</title>
+			<link>https://pifco.org/posts/dummypost/</link>
+			<pubDate>Tue, 01 Oct 2019 22:24:34 +0200</pubDate>
+			
+			<guid>https://pifco.org/posts/dummypost/</guid>
+			<description>&lt;p&gt;Das ist nur ein Stellvertreter-Posting um den rss-feed zu testen.&lt;/p&gt;
+</description>
+			<content type="html"><![CDATA[<p>Das ist nur ein Stellvertreter-Posting um den rss-feed zu testen.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Die Rückkehr</title>
@@ -17,7 +29,7 @@
 			<guid>https://pifco.org/posts/die-rueckkehr/</guid>
 			<description>&lt;p&gt;Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qqMWjxq.png?1&#34; alt=&#34;Imgur&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qqMWjxq.png?1&#34; alt=&#34;Lady Laeral&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vielleicht ist es aber den edlen Recken aus dem fernen Süden gar nicht so unrecht gewesen, dass nicht sie es waren, auf denen all die Aufmerksamkeit der Bevölkerung der Stadt der Prächtigen gerichtet war. So konnten sie leichter die beträchtlichen Reichtümer an Land schaffen, die sie den Klauen von Arauthator, dem alten, weißen Tod, entrissen hatten.&lt;/p&gt;
 
@@ -31,7 +43,7 @@
 </description>
 			<content type="html"><![CDATA[<p>Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.</p>
 
-<p><img src="https://i.imgur.com/qqMWjxq.png?1" alt="Imgur" /></p>
+<p><img src="https://i.imgur.com/qqMWjxq.png?1" alt="Lady Laeral" /></p>
 
 <p>Vielleicht ist es aber den edlen Recken aus dem fernen Süden gar nicht so unrecht gewesen, dass nicht sie es waren, auf denen all die Aufmerksamkeit der Bevölkerung der Stadt der Prächtigen gerichtet war. So konnten sie leichter die beträchtlichen Reichtümer an Land schaffen, die sie den Klauen von Arauthator, dem alten, weißen Tod, entrissen hatten.</p>
 
