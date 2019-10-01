@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 22:24:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 22:50:52 +0200</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dummypost</title>
-      <link>https://pifco.org/posts/dummypost/</link>
-      <pubDate>Tue, 01 Oct 2019 22:24:34 +0200</pubDate>
+      <title>Dummypost2</title>
+      <link>https://pifco.org/posts/dummypost2/</link>
+      <pubDate>Tue, 01 Oct 2019 22:50:52 +0200</pubDate>
       
-      <guid>https://pifco.org/posts/dummypost/</guid>
-      <description>Das ist nur ein Stellvertreter-Posting um den rss-feed zu testen.</description>
+      <guid>https://pifco.org/posts/dummypost2/</guid>
+      <description>Second test post.</description>
     </item>
     
   </channel>
