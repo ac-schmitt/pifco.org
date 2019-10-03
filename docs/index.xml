@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 09 Sep 1492 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 13:18:10 +0200</lastBuildDate>
     
 	<atom:link href="https://pifco.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dummypost3</title>
+      <link>https://pifco.org/posts/dummypost3/</link>
+      <pubDate>Thu, 03 Oct 2019 13:18:10 +0200</pubDate>
+      
+      <guid>https://pifco.org/posts/dummypost3/</guid>
+      <description>3rd dummypost for rss to pdf testing</description>
+    </item>
     
     <item>
       <title>Erscheinungsvermerk</title>

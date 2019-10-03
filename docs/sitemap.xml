@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pifco.org/about/</loc>
-    <lastmod>1492-09-09T00:00:00+00:00</lastmod>
+    <loc>https://pifco.org/posts/dummypost3/</loc>
+    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pifco.org/</loc>
+    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/posts/</loc>
+    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/tags/</loc>
+    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/tags/untagged/</loc>
+    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/about/</loc>
     <lastmod>1492-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,16 +49,6 @@
   
   <url>
     <loc>https://pifco.org/tags/logbuch/</loc>
-    <lastmod>1489-09-19T21:37:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pifco.org/posts/</loc>
-    <lastmod>1489-09-19T21:37:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pifco.org/tags/</loc>
     <lastmod>1489-09-19T21:37:08+02:00</lastmod>
   </url>
   
