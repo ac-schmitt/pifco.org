@@ -6,32 +6,8 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>de-de</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Thu, 03 Oct 2019 13:55:03 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Sep 1489 21:37:08 +0200</lastBuildDate>
 		<atom:link href="https://pifco.org/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Dummypost4</title>
-			<link>https://pifco.org/posts/dummypost4/</link>
-			<pubDate>Thu, 03 Oct 2019 13:55:03 +0200</pubDate>
-			
-			<guid>https://pifco.org/posts/dummypost4/</guid>
-			<description>&lt;p&gt;4th try with a pdflyer.com as conversion api provider&lt;/p&gt;
-</description>
-			<content type="html"><![CDATA[<p>4th try with a pdflyer.com as conversion api provider</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Dummypost3</title>
-			<link>https://pifco.org/posts/dummypost3/</link>
-			<pubDate>Thu, 03 Oct 2019 13:18:10 +0200</pubDate>
-			
-			<guid>https://pifco.org/posts/dummypost3/</guid>
-			<description>&lt;p&gt;3rd dummypost for rss to pdf testing&lt;/p&gt;
-</description>
-			<content type="html"><![CDATA[<p>3rd dummypost for rss to pdf testing</p>
-]]></content>
-		</item>
 		
 		<item>
 			<title>Die Rückkehr</title>
