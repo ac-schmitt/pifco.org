@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pifco.org/posts/dummypost3/</loc>
-    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+    <loc>https://pifco.org/posts/dummypost4/</loc>
+    <lastmod>2019-10-03T13:55:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pifco.org/</loc>
-    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+    <lastmod>2019-10-03T13:55:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pifco.org/posts/</loc>
-    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+    <lastmod>2019-10-03T13:55:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pifco.org/tags/</loc>
-    <lastmod>2019-10-03T13:18:10+02:00</lastmod>
+    <lastmod>2019-10-03T13:55:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://pifco.org/tags/untagged/</loc>
+    <lastmod>2019-10-03T13:55:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/posts/dummypost3/</loc>
     <lastmod>2019-10-03T13:18:10+02:00</lastmod>
   </url>
   
