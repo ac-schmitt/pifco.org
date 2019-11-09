@@ -18,6 +18,6 @@ Der Kampf dort wird von Prinz Alagarthas angeführt, der mit seinen Waldläufern
 
 ![Angriff eines grünen Drachen](https://i.imgur.com/rY43O0F.jpg)
 
-Inzwischen, so heisst es, seien über die Hälfte der waldelefischen Siedlungen zerstört und geplündert und Tausende auf der Flucht. Die Emerald Enclave und die waldelfischen Kämpfern sind in die Defensive gedrängt. Die Kultisten greifen immer wieder auch die Flüchtlinge an und die Verteidiger des Nebelwaldes sind gezwungen sich auf den Schutz der Vertriebenen zu konzentrieren. Derweil treiben die Drachen weitestgehend ungestört ihr Unwesen mitten im Herzen der Allianz der Lords. Ob die Rückkehr von Lady Laeral daran etwas ändern kann?
+Inzwischen, so heisst es, seien über die Hälfte der waldelefischen Siedlungen zerstört und geplündert und Tausende auf der Flucht. Die Emerald Enclave und die waldelfischen Kämpfer sind in die Defensive gedrängt. Die Kultisten greifen immer wieder auch die Flüchtlinge an und die Verteidiger des Nebelwaldes sind gezwungen sich auf den Schutz der Vertriebenen zu konzentrieren. Derweil treiben die Drachen weitestgehend ungestört ihr Unwesen mitten im Herzen der Allianz der Lords. Ob die Rückkehr von Lady Laeral daran etwas ändern kann?
 
 _-Fohleireih_
