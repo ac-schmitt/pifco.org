@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 27 Oct 1489 13:39:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 1489 12:23:20 +0100</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kult der Drachen</title>
+      <link>https://pifco.org/tags/kult-der-drachen/</link>
+      <pubDate>Sat, 09 Nov 1489 12:23:20 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/kult-der-drachen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwertküste</title>
+      <link>https://pifco.org/tags/schwertk%C3%BCste/</link>
+      <pubDate>Sat, 09 Nov 1489 12:23:20 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/schwertk%C3%BCste/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>homebrew</title>
@@ -22,20 +40,11 @@
     </item>
     
     <item>
-      <title>Waterdeep</title>
+      <title>waterdeep</title>
       <link>https://pifco.org/tags/waterdeep/</link>
       <pubDate>Sun, 27 Oct 1489 13:39:54 +0100</pubDate>
       
       <guid>https://pifco.org/tags/waterdeep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kult der Drachen</title>
-      <link>https://pifco.org/tags/kult-der-drachen/</link>
-      <pubDate>Thu, 19 Sep 1489 21:37:08 +0200</pubDate>
-      
-      <guid>https://pifco.org/tags/kult-der-drachen/</guid>
       <description></description>
     </item>
     
