@@ -8,6 +8,7 @@ images:
 tags: 
   - Kult der Drachen
   - Schwertküste
+  - Nebelwald
 ---
 
 Uns erreichte bereits vor einigen Tagen die [Kunde]({{< ref "die-rueckkehr.md" >}}) von heftigen, kriegerischen Auseinandersetzungen im Nebelwald zwischen dem Kult der Drachen und den dort lebenden Waldelfen. Heute nun sind einige hundert waldelfische Flüchtlinge in _Nachtstein_ angekommen und haben im _Wald von Ardeep_ ihr Lager aufgeschlagen, etwa 2 Tagesreisen südöstlich von Waterdeep.
