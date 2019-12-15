@@ -9,6 +9,12 @@ tags:
   - encyclopaedia
 ---
 
+Gegenüber den Geschichten aus den Zeiten vor der Zauberpest hat sich die Stadt der Prächtigen schon sehr verändert. Sichtbares Zeichen dafür sind die wandelnden Statuen der Stadt.
+
+Früher war Waterdeep für eine riesige, fast 30 Meter große, steinerne Statue bekannt, die einen kahlköpfigen Menschen darstellte, der auf das Meer hinaus sah. Später sollte dieser Golem helfen, einen Angriff der Sahuagin abzuwehren. Der berühmte Khelben Arunsun transformierte die Statue daraufhin in eben ein solches Wesen und sie diente fortan als Erinnerungstätte an den Angriff aus dem Meer.
+
+Was so gut wie niemand wusste, diese eine Statue war nicht die Einzige ihrer Art in der Stadt. Sieben andere Statuen standen in der Ätherebene Wache um Waterdeep vor Angriffen von dort zu verteidigen. Während der Zauberpest erschienen sechs von ihnen amoklaufend und außer Kontrolle geraten in der Stadt. 
+
 Over a century ago, just one of these eight behemoth
 statues stood visible at the northern foot of Mount Waterdeep,
 on a bluff call ed Gull Leap. Ninety feet tall, it
