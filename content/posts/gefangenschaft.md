@@ -25,13 +25,13 @@ Diese entschlossen sich nach üblicher, längerer Diskussion erstmal Pause zu ma
 
 Während der Wache des Arvandor bemerkte er eine Gestalt oder einen Felsen in Form einer Gestalt, die unweit ihres Lagerplatzes im Wald zu hocken schien. Yona schickte ihren, inzwischen als Echse Lizzi verwandelten, Familiar zu der Person oder dem Fels und tatsächlich: es war ein schurkenhafter Mensch, in schwarzer, dunkler Rüstung gehüllt und mit Insignien des Kultes der Drachen versehen. Bevor sich die zaghaften Helden von Greenest entscheiden konnten, was zu tun sei, war die Gestalt wieder wie vom Erdboden verschwunden und der neue Tag näherte sich mit schnellen Schritten.
 
-"Mir wäre es wohler, wenn ich wüsste wer das ist" - Arvandor
+> "Mir wäre es wohler, wenn ich wüsste wer das ist" - Arvandor
 
 Dank eines brillanten Einfalls des Tashenell erkundeten er und Yona von außen die Höhle unter sich. Und zwar taten sie dies, in dem sie die Lizzi der Yona in die Höhle schickten und von der Oberfläche und in Sicherheit die mentale Verbindung zur Echse aufrecht erhielten. Sie entdeckte eine Gruppe von 3 Ettin, die Gruppe der Elfen, die Tashi bereits gesehen hatte und außerdem noch einen weiteren schwarzgewandeten Kultisten in einem Höhlenraum, der wie eine Messe ausgerüstet war. In der größten Kaverne der Höhle hinter dem Wasserfall war ein kleiner, unterirdischer See, in dem sich das Wasser, das von außen in die Höhle lief, sammelte. Die Nebenräume, also dort wo sich die Elfen und die Kultisten aufhielten, waren durchaus gemütlich eingerichtet, die Elfen lagerten am Schrein der Eldath auf einem Felsvorsprung über der zentralen Kaverne. Nur der Lagerplatz der Ettins hatte einen klassischen, höhligen Charakter.
 
 Bevor Lizzie noch tiefer in den Außenposten des Kultes vordringen konnte, löste sie eine Falle aus und wurde auf der Stelle getötet. Jetzt hieß es für die Bezwinger von Arauthator zu handeln und so entschlossen sie sich allesamt in die Höhle vorzudringen.
 
-"Keiner ist so blöd - wie wir" - Tashenell
+> "Keiner ist so blöd - wie wir" - Tashenell
 
 Tashenell und Yona schlichen als Vorhut voraus, der Mann und Oba hintendrein und als Nachhut Arvandor und Halvan. Yona verbarg sich mit einem Unsichtbarkeitszauber, verlor jedoch beim Abstieg in die Höhle den Halt und schlug hart am Boden auf. Doch schienen sie nicht bemerkt worden zu sein und so schlichen sie tiefer hinein in die Dunkelheit. Das gleiche Schicksal ereilte den Mann und Oba und auch sie rutschten auf dem felsigen und matschigen Untergrund aus und polterten in die Tiefe. Jetzt sträubten sich Tashenell die Nackenhaare. Er befand sich wenige Meter vor den herabgestürzten Gefährten und drehte sich langsam zu ihnen um. Oben an der hohen Decke, bislang unbemerkt von den Gefährten, da war er: der riesige, grüne Drache Chuth. Und der zögert nicht lange. 
 
