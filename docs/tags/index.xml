@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 15 Dec 1489 09:44:39 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 1489 21:42:57 +0100</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>encyclopaedia</title>
-      <link>https://pifco.org/tags/encyclopaedia/</link>
-      <pubDate>Sun, 15 Dec 1489 09:44:39 +0100</pubDate>
-      
-      <guid>https://pifco.org/tags/encyclopaedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kult der Drachen</title>
       <link>https://pifco.org/tags/kult-der-drachen/</link>
-      <pubDate>Mon, 11 Nov 1489 07:41:37 +0100</pubDate>
+      <pubDate>Mon, 23 Dec 1489 21:42:57 +0100</pubDate>
       
       <guid>https://pifco.org/tags/kult-der-drachen/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Nebelwald</title>
       <link>https://pifco.org/tags/nebelwald/</link>
-      <pubDate>Mon, 11 Nov 1489 07:41:37 +0100</pubDate>
+      <pubDate>Mon, 23 Dec 1489 21:42:57 +0100</pubDate>
       
       <guid>https://pifco.org/tags/nebelwald/</guid>
       <description></description>
@@ -42,9 +33,18 @@
     <item>
       <title>Schwertküste</title>
       <link>https://pifco.org/tags/schwertk%C3%BCste/</link>
-      <pubDate>Mon, 11 Nov 1489 07:41:37 +0100</pubDate>
+      <pubDate>Mon, 23 Dec 1489 21:42:57 +0100</pubDate>
       
       <guid>https://pifco.org/tags/schwertk%C3%BCste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encyclopaedia</title>
+      <link>https://pifco.org/tags/encyclopaedia/</link>
+      <pubDate>Sun, 15 Dec 1489 09:44:39 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/encyclopaedia/</guid>
       <description></description>
     </item>
     
