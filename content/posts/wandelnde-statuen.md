@@ -5,8 +5,8 @@ draft: true
 toc: false
 images:
 tags: 
-  - waterdeep
-  - encyclopaedia
+  - Waterdeep
+  - Encyclopaedia
 ---
 
 Gegenüber den Geschichten aus den Zeiten vor der Zauberpest hat sich die Stadt der Prächtigen schon sehr verändert. Sichtbares Zeichen dafür sind die wandelnden Statuen der Stadt.

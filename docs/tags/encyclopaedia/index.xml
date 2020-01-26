@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>encyclopaedia on Phineas, Ilominar, Fohleireih &amp; Co.</title>
+    <title>Encyclopaedia on Phineas, Ilominar, Fohleireih &amp; Co.</title>
     <link>https://pifco.org/tags/encyclopaedia/</link>
-    <description>Recent content in encyclopaedia on Phineas, Ilominar, Fohleireih &amp; Co.</description>
+    <description>Recent content in Encyclopaedia on Phineas, Ilominar, Fohleireih &amp; Co.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 15 Dec 1489 09:44:39 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 1490 13:05:15 +0100</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/encyclopaedia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kultgeschichte</title>
+      <link>https://pifco.org/posts/kultgeschichte/</link>
+      <pubDate>Sun, 26 Jan 1490 13:05:15 +0100</pubDate>
+      
+      <guid>https://pifco.org/posts/kultgeschichte/</guid>
+      <description>Das dominierende politische Thema dieser Tage in Waterdeep ist natürlich die Rückkehr von Lady Laeral. Doch ihre Rückkehr steht ganz im Zeichen des Kampfes gegen den Kult der Drachen, der bereits vor langer Zeit besiegt schien und doch in den vergangenen Jahren zu neuer Stärke gefunden hat.
+Dieser neu geformte Kult der Drachen hat sich gegenüber alten Zeiten gewandelt und reformiert. Und diese neue Ausrichtung dürfte auch einer der Gründe für den Erfolg des Kultes sein.</description>
+    </item>
     
     <item>
       <title>Drachen</title>
