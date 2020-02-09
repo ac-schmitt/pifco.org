@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 26 Jan 1490 13:05:15 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 1490 11:05:48 +0100</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Encyclopaedia</title>
+      <title>Kult der Drachen</title>
+      <link>https://pifco.org/tags/kult-der-drachen/</link>
+      <pubDate>Sun, 09 Feb 1490 11:05:48 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/kult-der-drachen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logbuch</title>
+      <link>https://pifco.org/tags/logbuch/</link>
+      <pubDate>Sun, 09 Feb 1490 11:05:48 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/logbuch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retter von Greenest</title>
+      <link>https://pifco.org/tags/retter-von-greenest/</link>
+      <pubDate>Sun, 09 Feb 1490 11:05:48 +0100</pubDate>
+      
+      <guid>https://pifco.org/tags/retter-von-greenest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encyclopaedia</title>
       <link>https://pifco.org/tags/encyclopaedia/</link>
       <pubDate>Sun, 26 Jan 1490 13:05:15 +0100</pubDate>
       
@@ -22,16 +49,7 @@
     </item>
     
     <item>
-      <title>Kult der Drachen</title>
-      <link>https://pifco.org/tags/kult-der-drachen/</link>
-      <pubDate>Sun, 26 Jan 1490 13:05:15 +0100</pubDate>
-      
-      <guid>https://pifco.org/tags/kult-der-drachen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Waterdeep</title>
+      <title>waterdeep</title>
       <link>https://pifco.org/tags/waterdeep/</link>
       <pubDate>Sun, 26 Jan 1490 13:05:15 +0100</pubDate>
       
@@ -67,15 +85,6 @@
     </item>
     
     <item>
-      <title>Logbuch</title>
-      <link>https://pifco.org/tags/logbuch/</link>
-      <pubDate>Thu, 19 Sep 1489 21:37:08 +0200</pubDate>
-      
-      <guid>https://pifco.org/tags/logbuch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wirtschaft</title>
       <link>https://pifco.org/tags/wirtschaft/</link>
       <pubDate>Tue, 04 Oct 1487 19:51:27 +0200</pubDate>
@@ -90,15 +99,6 @@
       <pubDate>Wed, 14 Apr 1486 12:51:12 +0200</pubDate>
       
       <guid>https://pifco.org/tags/gastbeitrag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PIFco</title>
-      <link>https://pifco.org/tags/pifco/</link>
-      <pubDate>Wed, 14 Apr 1486 12:51:12 +0200</pubDate>
-      
-      <guid>https://pifco.org/tags/pifco/</guid>
       <description></description>
     </item>
     
