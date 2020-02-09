@@ -6,9 +6,11 @@ toc: false
 images:
   - https://i.imgur.com/GnURUIJ.png
 tags: 
+  - Logbuch
   - Kult der Drachen
   - Schwertküste
   - Nebelwald
+  - Retter von Greenest
 ---
 
 Die ungleichen Retter von Greenest und Bezwinger von Arauthator näherten sich der Kultstätte von Eldath, der Göttin der Wasserfälle. Ihre Vermutung erschien richtig zu sein, dass sich dort der Kult verbarg, um von diesem Ort aus den Süden des Nebelwaldes mit Angst und Terror zu überziehen.
