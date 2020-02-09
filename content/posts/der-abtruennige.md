@@ -11,7 +11,7 @@ tags:
   - Retter von Greenest
 ---
 
-Die Bezwinger von Arauthator hatten sich dem Kult ergeben. Gefesselt und geknebelt, mit Stricken um den Hälsen, wurden ihnen die Habseligkeiten abgenommen und anschließend erneut in die große Kaverne geführt. 
+Die Bezwinger von Arauthator hatten sich dem Kult ergeben. Gefesselt und geknebelt, mit Stricken um den Hälsen, wurden ihnen die Habseligkeiten abgenommen nur ums sie anschließend erneut in die große Kaverne geführt. 
 
 Alle, bis auf Arvandor und Yona. Die Halblingsfrau war bereits seit der Kapitulation der Gesandten des Rates verschwunden und hielt sich zusammen mit dem riesigen, grünen Drachen Cuth in dessen Hort auf. Arvandor hingegen wurde von dem elfischen Reiter des Drachen zu einer Unterredung an das andere Ende der domartigen Kaverne gebeten. Und damit außerhalb der Hör- und Sichtweite der übrigen, hilflosen Retter von Greenest.
 
