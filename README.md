@@ -18,7 +18,7 @@ I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](la
 
 Most Images are stored and fetched from imgur.com. Images in the repo are mainly the site icons.
 
-To create an image look that uses the background color of the site, I am using a background layer with color code 494f5c and a foreground layer with HSV-Value mode. I am using this especially for the maps, e.g. [Jadetänzer Map Section](https://i.imgur.com/MxODAZs.png).
+To create an image look that uses the background color of the site, I am using a background layer with color code 494f5c and a foreground layer with HSV-Value or Luminanz mode. I am using this especially for the maps, e.g. [Jadetänzer Map Section](https://i.imgur.com/MxODAZs.png). Location marker is a 16px round pencil with a 5px border around the original "dot".
 
 ### Homebrew Maps
 
