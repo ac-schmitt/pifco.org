@@ -62,6 +62,6 @@ Nur wenige Angreifer konnten von der Festungsbesatzung abgeschossen werden. Zwei
 
 Tashenell schrie durch den Wind zu Lysaleth so schnell wie möglich wieder auf den großen Marktplatz nach Waterdeep zurückzukehren und zu landen. Unter dem Jubel der Bevölkerung verkündete der Mann aus dem Süden, dass die Retter von Greenest erneut einen großen Sieg errungen und den Kult der Drachen zum wiederholten Male zurückgeschlagen hatten!
 
-Mit den metallischen Drachen, den Riesen und den vereinten Kräften der Allianz der Schwertküste war es jetzt doch nur noch eine Frage der Zeit, bis die Festung des Kultes an der Nordspitze der Abendrotberge fallen und die Bedrohung ein für alle Mal beseitigt werde würde!
+Die auf der Festung verbliebenen Bezwinger von Arauthator sammelten sich, nachdem Säure und Gift in ihrer Wirkung nachgelassen hatte. Alle waren einigermaßen wohlauf. Alle bis auf Oba Zok. Niemand hatte den Tiefling nach dem Angriff mehr gesehen und er ward nirgends mehr auf Skyreach Castle zu finden. Wurde er von einem Drachen gefressen? In Säure aufgelöst? War es dem Kult nun doch gelungen einen der Helden von Greenest zu besiegen?
 
-
+Doch mit den metallischen Drachen, den Riesen und den vereinten Kräften der Allianz der Schwertküste war es jetzt trotzdem nur noch eine Frage der Zeit, bis die Festung des Kultes an der Nordspitze der Abendrotberge fallen und die Bedrohung ein für alle Mal beseitigt werde würde!
