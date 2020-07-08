@@ -47,7 +47,6 @@ Während der folgenden Sitzungspause näherte sich Lord Dagult den beiden Sonder
 
 Nach der Pause stimmte der Rat dem Bündnis mit den metallischen Drachen zu. Sir Isteval betonte die Verdienste der Helden von Greenest im Kampf gegen den Kult der Drachen und begrüßte Bündnis und Verhandlungsergebnis ausdrücklich. Er werde Nachricht senden und die Armeen von Cormyr an der Landesgrenze sammeln lassen, damit die Allianz gemeinsam gegen den Feind in den Abendrotbergen ziehen könne.
 
-
 ## Skyreach über Waterdeep
 
 6 Tage später erreichte die fliegende Festung an der Küste und von Norden her kommend Waterdeep.  König Blagothkus konnte in der Kürze der Zeit immerhin fast zwei Dutzend Wolkenriesen, dreissig Steinriesen und nahezu hundert Oger und Halb-Oger an Bord der Festung nehmen.
@@ -65,3 +64,5 @@ Tashenell schrie durch den Wind zu Lysaleth so schnell wie möglich wieder auf d
 Die auf der Festung verbliebenen Bezwinger von Arauthator sammelten sich, nachdem Säure und Gift in ihrer Wirkung nachgelassen hatten. Alle waren einigermaßen wohlauf. Alle bis auf Oba Zok. Niemand hatte den Tiefling nach dem Angriff mehr gesehen und er ward nirgends mehr auf Skyreach Castle zu finden. Wurde er von einem Drachen gefressen? In Säure aufgelöst? War es dem Kult nun doch gelungen einen der Helden von Greenest zu besiegen?
 
 Doch mit den metallischen Drachen, den Riesen und den vereinten Kräften der Allianz der Schwertküste war es jetzt trotzdem nur noch eine Frage der Zeit, bis die Festung des Kultes an der Nordspitze der Abendrotberge fallen und die Bedrohung ein für alle Mal beseitigt werde würde!
+
+_-Fohleireih_
