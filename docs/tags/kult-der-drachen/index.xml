@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 05 Jul 1490 19:40:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 1490 21:31:56 +0200</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/kult-der-drachen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Irrwege</title>
+      <link>https://pifco.org/posts/irrwege/</link>
+      <pubDate>Sat, 19 Jul 1490 21:31:56 +0200</pubDate>
+      
+      <guid>https://pifco.org/posts/irrwege/</guid>
+      <description>Waterdeep feierte die Helden von Greenest! Die Bedrohung der Schwertküste durch den Kult der Drachen wurde zwar nochmals mehr als deutlich in die Erinnerung der Bevölkerung gerufen, als eine Hundertschaft schwarzer und grüner Drachen Skyreach Castle nur wenige Meilen nördlich von der Stadt der Prächtigen angegriffen hatten. Doch den Riesen der fliegenden Festung und den Kämpfern der Allianz gelang es schnell die Angreifer zurück durch ihre Portale zu jagen.
+Die hohen Abgesandten des elfischen und des zwergischen Volkes verkündeten Tags darauf in der Öffentlichkeit ihr Bedauern über die zurückliegenden Vorfälle zwischen ihren Völkern und den sogenannten metallischen Drachen.</description>
+    </item>
     
     <item>
       <title>Bündnisse</title>
@@ -96,16 +106,6 @@ Der Anführer der Waldelfen aus dem Nebelwald, König Melandrach, ist ob dieser 
       
       <guid>https://pifco.org/posts/die-rueckkehr/</guid>
       <description>Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.</description>
-    </item>
-    
-    <item>
-      <title>Kult der Drachen</title>
-      <link>https://pifco.org/posts/kult-der-drachen/</link>
-      <pubDate>Thu, 10 Jan 1489 14:21:55 +0200</pubDate>
-      
-      <guid>https://pifco.org/posts/kult-der-drachen/</guid>
-      <description>Immer mehr beunruhigende Berichte kamen in den letzten Tagen über den neu erstarkten Kult der Drachen in Waterdeep an. Im vergangenen Jahr erschien es noch wie eine lästige Sache, mit denen die Flammende Faust schon fertig werden würde.
-Doch es erscheint es so, als ob der Kult auch im Norden, hinter Luskan und in den Gegenden um Silbrigmond herum sein Unwesen treibt. Unterstützt dabei von weißen Drachen. Aus dem Nebelwald erreichten uns Berichte über Angriffe von grünen Drachen.</description>
     </item>
     
   </channel>
