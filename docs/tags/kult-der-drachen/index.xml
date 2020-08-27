@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 19 Jul 1490 21:31:56 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 1490 16:38:02 +0200</lastBuildDate>
     
 	<atom:link href="https://pifco.org/tags/kult-der-drachen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Xonthal&#39;s Turm</title>
+      <link>https://pifco.org/posts/xonthals-turm/</link>
+      <pubDate>Tue, 26 Aug 1490 16:38:02 +0200</pubDate>
+      
+      <guid>https://pifco.org/posts/xonthals-turm/</guid>
+      <description>Während der Kult der Drachen den Ort der Beschwörung ihrer fünfköpfigen Göttin verteidigte und die strategisch wichtigen Orte Scornubel, Iriaebor und Proskur angriff, befanden sich die Retter von Greenest etwas weiter davon entfernt im Norden vor Xonthal&amp;rsquo;s Turm.
+Mit dem Rat der Allianz hielten sie Kontakt durch Zaubersprüche und erhielten die Bitte, metallische Drachen in die Hartlande zu entsenden. Die beiden Kupferdrachinnen Tazmikella und Ilnezhara sicherten zu, diese Bitte schnell weiterzugeben.</description>
+    </item>
     
     <item>
       <title>Irrwege</title>
@@ -97,15 +107,6 @@ Dicke Spinnweben durchzogen die Äste der Bäume, die strenge Kühle des frühwi
       <guid>https://pifco.org/posts/nebelwald-ueberfall/</guid>
       <description>Uns erreichte bereits vor einigen Tagen die Kunde von heftigen, kriegerischen Auseinandersetzungen im Nebelwald zwischen dem Kult der Drachen und den dort lebenden Waldelfen. Heute nun sind einige hundert waldelfische Flüchtlinge in Nachtstein angekommen und haben im Wald von Ardeep ihr Lager aufgeschlagen, etwa 2 Tagesreisen südöstlich von Waterdeep.
 Der Anführer der Waldelfen aus dem Nebelwald, König Melandrach, ist ob dieser Kunde sofort nach Nachtstein aufgebrochen. Währenddessen sammeln sich Vertreter der Emerald Enclave um gemeinsam mit den Abgesandten des Rates der Allianz der Lords - die als &amp;ldquo;Retter von Greenest&amp;rdquo; bekannt geworden sind - zum Nebelwald aufzubrechen.</description>
-    </item>
-    
-    <item>
-      <title>Die Rückkehr</title>
-      <link>https://pifco.org/posts/die-rueckkehr/</link>
-      <pubDate>Thu, 19 Sep 1489 21:37:08 +0200</pubDate>
-      
-      <guid>https://pifco.org/posts/die-rueckkehr/</guid>
-      <description>Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.</description>
     </item>
     
   </channel>
