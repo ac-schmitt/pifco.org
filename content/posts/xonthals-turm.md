@@ -37,6 +37,8 @@ Die Abgesandten des Rates betraten die Steinplatte am Fuß des Turms und wie ver
 
 Hinter dem Zirkel der Versammlungshalle befanden sich Symbole auf einer Metalltafel, die in die Wand eingelassen war. Die Platte zeigte folgende Symbole: einen Stuhl, zwei Stühle, ein umgedrehtes L, ein Rechteck, eine Flamme , ein Stern, ein Quadrat, ein Stundenglas und ein gleichschenkliges Dreieck.
 
+#### Metalltafel
+
 |&#x2441;|&#x2441;&#x2441;|&#741;|
 |:---:|:---:|:---:|
 |&#9645;|&#x2668;|&#9734;|
