@@ -7,6 +7,7 @@ images:
   - https://i.imgur.com/xAoyBXv.jpg
 tags: 
   - Waterdeep
+  - Homebrew
 ---
 
 Der _Jadetänzer_ ist eine bekannte Taverne und Festhalle im Südviertel von Waterdeep. Der dreistöckige Gebäudekomplex liegt in der Mitte zwischen High Road, der Coach und der Slop Street direkt am sogenannten Tanzplatz.

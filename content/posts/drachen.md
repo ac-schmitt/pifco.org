@@ -6,7 +6,7 @@ toc: false
 images:
   - https://i.imgur.com/oSsfEuK.jpg
 tags: 
-  - encyclopaedia
+  - Encyclopaedia
 ---
 
 Drachen. Zur Zeit das Gesprächsthema in Waterdeep. Das hat natürlich etwas mit dem Aufstand des [Kultes der Drachen](/posts/kult-der-drachen) zu tun, der die Schwertküste zur Zeit in Atem hält.

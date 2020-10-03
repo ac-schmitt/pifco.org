@@ -7,6 +7,7 @@ images:
 tags: 
   - Gastbeitrag
   - PIFco
+  - Waterdeep
 ---
 
 Grünschnabel aufgepasst! In Waterdeep verhält es sich durchaus anders als in anderen Städten an der Schwertküste. Die Stadt der Prächtigen hält sich selbst schon seit je her für das Zentrum des Fortschritts und den Gipfel der Zivilisation unserer Welt. Natürlich, die stolzierenden Gockel der sogenannten Künstler und Schriftgelehrten übertreiben doch stehts, ein Korn Wahrheit soll aber auch dabei sein. Im Gegensatz zu Calimport ist Waterdeep nicht einfach nur eine gewaltige Ansammlung an Menschen und Hütten neben goldenen Palästen. Schilder verkünden die Namen der gepflasterten Straßen und es gibt eine Ordnung im Häuserbau. Es stinkt nicht so gewaltig wie anderswo, dank einer modernen Kanalisation. Recht und Ordnung werden durchgesetzt und ein Bürger muss nicht befürchten einfach so abgemessert zu werden. Nachts sind die Straßen beleuchtet und die Wache ist auf der Hut. Am Tage sieht man die stolzen Greifenreiter am Himmel ihre Kreise ziehen. Den Toten widmen die Narren einen ganzen Stadtteil, wie der Park eines Königs.

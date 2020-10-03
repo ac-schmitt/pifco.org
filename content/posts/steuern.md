@@ -5,7 +5,8 @@ draft: false
 toc: false
 images:
   - https://i.imgur.com/BZ7fhj6.jpg
-tags: 
+tags:
+  - Encyclopaedia
   - Waterdeep
 ---
 
