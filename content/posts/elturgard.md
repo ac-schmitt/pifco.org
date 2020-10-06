@@ -19,7 +19,7 @@ Die Garde von Elturel ist weit mehr als eine einfache Stadtwache, sie sind weit 
 
 Ihren Namen erhielten die Höllenreiter als sie vor über hundert Jahren gegen die eine Invasion der Teufel der Neun Höllen in den Feldern der Toten kämpften. Unter der Führung des Erzengels Zariel ritten sie buchstäblich durch ein Tor nach Avernus um den Erzteufel Bel selbst zu stellen.
 
-Vor etwas mehr als vierzig Jahren begab sich ein weiter, wichtiger Wendepunkt in der Geschichte der Höllenreiter. Eltural wurde in den Nächten heimgesucht von Vampiren und die Siege der Höllenreiter am Tage wurden ihnen in der Nacht wieder zunichte gemacht und die Stadt schien an die Untoten verloren zu sein. Mit Schrecken mussten die tapferen Höllenreiter feststellen, dass der Hohe Reiter, ihr Anführer und de-facto Herrscher der Stadt, selbst ein Vampir war und hinter der Heimsuchung Elturels steckte.
+Vor etwas mehr als vierzig Jahren begab sich ein weiterer, wichtiger Wendepunkt in der Geschichte der Höllenreiter. Elturel wurde des Nächtens heimgesucht von Vampiren. Die Siege der Höllenreiter gegen die Untoten am Tage wurden ihnen in der Nacht wieder zunichte gemacht und die Stadt schien verloren zu sein. Mit Schrecken mussten die tapferen Höllenreiter feststellen, dass der Hohe Reiter, ihr Anführer und de-facto Herrscher der Stadt, selbst ein Vampir war und hinter der Heimsuchung Elturels steckte.
 
 ## Der Begleiter
 

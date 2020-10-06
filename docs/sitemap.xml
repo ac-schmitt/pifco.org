@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://pifco.org/about/</loc>
-    <lastmod>1492-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pifco.org/</loc>
     <lastmod>1492-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,6 +19,11 @@
   
   <url>
     <loc>https://pifco.org/tags/encyclopaedia/</loc>
+    <lastmod>1490-10-03T20:35:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pifco.org/</loc>
     <lastmod>1490-10-03T20:35:00+02:00</lastmod>
   </url>
   
