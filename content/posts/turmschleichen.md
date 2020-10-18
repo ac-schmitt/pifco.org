@@ -58,3 +58,5 @@ Auf dem einzigen freistehenden Tisch stand eine wunderschöne Kiste aus Holz, vi
 Es wäre schon denkbar und so heckten die Helden von Greenest einen Plan aus: Tashenell's magisches Seil sollte sich um die Kiste schlingen und das Objekt ihrer Begierde so in die Nähe einer magischen, telekinetischen Hand bringen, die Yona heraufbeschwören konnte. So wollten sie außerhalb der Reichweite und Aufmerksamkeit der Elementarwesen bleiben. Gedacht, getan. Die beiden Beschaffungsprofessionellen führten ihren Plan aus und ergatterten erfolgreich das Holzkistchen. Mit geschickten Fingern und Dietrichen öffneten sie die Kiste, doch die erhoffte Maske befand sich nicht im Inneren. Statt dessen fischten sie 3 Schriftrollen heraus: Zwei Schriftrollen zum Schutz vor Feuerelementaren und eine Schriftrolle zum Schutz vor Erdelementaren (https://www.dndbeyond.com/magic-items/scroll-of-protection).
 
 Die Bezwinger von Aurathator fühlten ihr Ziel - die Blaue Drachenmaske - zum Greifen nahe! Wird es ihnen gelingen? Oder ist doch alles hier nur eine Todesfalle für die Erzgegner des Kultes?
+
+_-Fohleireih_
