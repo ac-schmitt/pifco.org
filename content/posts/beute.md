@@ -1,14 +1,15 @@
 ---
 title: "Beute"
-date: 1490-12-20T11:02:32+01:00
+date: 2020-12-20T11:02:32+01:00
+author: "Nightal in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/X0aI77K.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Retter von Greenest und von Xonthal's Turm versorgten ihre Verletzungen und bezogen Stellung im Lager ihrer Gegner. Sie fanden heraus,  dass sich die Kultisten und die Roten Zauberer als Waldarbeiter ausgegeben hatten, die auf dem Weg ins Winterquartier gewesen waren. Am nächsten Morgen sattelten sie die Arbeitspferde, die zu dieser Tarnung gehörten, sortierten und verteilten die Beutestücke aus Turm und Kampf und machten sich, mit der überaus wertvollen Blauen Drachenmaske im Gepäck, auf den Weg die Brücke von Boareskyr zu erreichen.

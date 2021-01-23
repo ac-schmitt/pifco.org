@@ -1,14 +1,15 @@
 ---
 title: "Die Rückkehr"
-date: 1489-09-19T21:37:08+02:00
+date: 2019-09-19T21:37:08+02:00
+author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/qqMWjxq.png?1
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.

@@ -1,14 +1,15 @@
 ---
 title: "Schlacht um Xonthal's Turm"
-date: 1490-11-01T19:32:34+01:00
+date: 2020-11-01T19:32:34+01:00
+author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/f83qqO3.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Im Keller des Turms eines längst verschwundenen Erzmagiers schlichen sich die Retter von Greenest an den Elementarwächtern vorbei und schritten auf einem wunderlichen Weg voran. Der Pfad führte nach "unten" und "hinaus" in einen offenen Raum. Ein schier unendlicher, mit Sternen übersäter Nachthimmel spannte sich über und unter den Gefährten auf und sie mussten sich vorsichtig auf dem, zur Brücke gewordenen, schmalen Boden des Gangs weiterbewegen, der von dem Kellergewölbe übrig geblieben war, um nicht in die scheinbare Unendlichkeit zu fallen.

@@ -1,6 +1,7 @@
 ---
 title: "Rote Zauberer"
-date: 1490-12-30T00:20:38+01:00
+date: 2020-12-30T00:20:38+01:00
+author: "Nightal in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:

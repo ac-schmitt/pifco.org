@@ -1,14 +1,15 @@
 ---
 title: "Xonthal's Turm"
-date: 1490-08-26T16:38:02+02:00
+date: 2020-08-26T16:38:02+02:00
+author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/eYdwwrH.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Während der Kult der Drachen den Ort der Beschwörung ihrer fünfköpfigen Göttin verteidigte und die strategisch wichtigen Orte Scornubel, Iriaebor und Proskur angriff, befanden sich die Retter von Greenest etwas weiter davon entfernt im Norden vor Xonthal's Turm.

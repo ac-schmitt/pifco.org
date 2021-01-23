@@ -1,14 +1,15 @@
 ---
 title: "Feinde meiner Feinde"
-date: 1491-01-17T20:25:00+01:00
+date: 2021-01-17T20:25:00+01:00
+author: "Nightal in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/Qv6PUMS.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Botschafter des Rates machten sich bereit für ihre Reise nach Thay. Mulmig war ihnen schon zumute und sie wollten noch die Informationen abwarten, die Lysaleth, die junge Kupferdrachin, ihnen aus den Bibliotheken und von den Harpern über Thay besorgte haben sollte.

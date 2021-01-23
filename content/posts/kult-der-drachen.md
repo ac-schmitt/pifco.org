@@ -1,13 +1,13 @@
 ---
 title: "Kult der Drachen"
-date: 1489-01-10T14:21:55+02:00
+date: 2019-01-10T14:21:55+02:00
+author: "Tarsakh in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images: 
   - https://i.imgur.com/zqAcO6X.png
 tags: 
-  - Waterdeep
-  - Kult der Drachen
+  - Rise of Tiamat
 ---
 
 Immer mehr beunruhigende Berichte kamen in den letzten Tagen über den neu erstarkten Kult der Drachen in Waterdeep an. Im vergangenen Jahr erschien es noch wie eine lästige Sache, mit denen die Flammende Faust schon fertig werden würde.

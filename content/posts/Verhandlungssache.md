@@ -1,14 +1,15 @@
 ---
 title: "Verhandlungssache"
-date: 1490-03-22T23:05:29+01:00
+date: 2020-03-22T23:05:29+01:00
+author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/j0WsBCz.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Retter von Greenest hatten sich im zerstörten Way Inn wieder gesammelt. Zum Teil mit schweren Verletzungen, zum Teil mit schweren seelischen Schäden, rauften sie sich wieder zusammen und erlaubten sich kaum zu Atem zu kommen.

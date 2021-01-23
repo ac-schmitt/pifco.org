@@ -1,14 +1,15 @@
 ---
 title: "Irrwege"
-date: 1490-07-19T21:31:56+02:00
+date: 2020-07-19T21:31:56+02:00
+author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/BHg2Gg5.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Waterdeep feierte die Helden von Greenest! Die Bedrohung der Schwertküste durch den Kult der Drachen wurde zwar nochmals mehr als deutlich in die Erinnerung der Bevölkerung gerufen, als eine Hundertschaft schwarzer und grüner Drachen Skyreach Castle nur wenige Meilen nördlich von der Stadt der Prächtigen angegriffen hatten. Doch den Riesen der fliegenden Festung und den Kämpfern der Allianz gelang es schnell die Angreifer zurück durch ihre Portale zu jagen.

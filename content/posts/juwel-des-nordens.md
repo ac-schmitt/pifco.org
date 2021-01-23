@@ -1,14 +1,15 @@
 ---
 title: "Juwel des Nordens"
-date: 1491-01-01T19:54:37+01:00
+date: 2021-01-01T19:54:37+01:00
+author: "Nightal in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/pnRi2GQ.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Retter von Greenest ließen sich nach Neverwinter teleportieren um Lord Dagult Neverember zu treffen. Sie erschienen vor dem Justizpalast, Tempel des Tyr und der vorrübergehende Sitz der Regierung der Stadt und damit auch des Lordprotektors der Stadt.

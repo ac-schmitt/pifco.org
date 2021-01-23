@@ -1,13 +1,15 @@
 ---
 title: "Jadetänzer"
-date: 1489-07-23T22:18:15+02:00
+date: 2019-07-23T22:18:15+02:00
+author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/xAoyBXv.jpg
 tags: 
-  - Waterdeep
+  - Encyclopaedia
   - Homebrew
+  - Waterdeep
 ---
 
 Der _Jadetänzer_ ist eine bekannte Taverne und Festhalle im Südviertel von Waterdeep. Der dreistöckige Gebäudekomplex liegt in der Mitte zwischen High Road, der Coach und der Slop Street direkt am sogenannten Tanzplatz.

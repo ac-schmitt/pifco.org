@@ -1,16 +1,15 @@
 ---
 title: "Gefangenschaft"
-date: 1489-12-23T21:42:57+01:00
+date: 2019-12-23T21:42:57+01:00
+author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/GnURUIJ.png
 tags: 
   - Logbuch
-  - Kult der Drachen
-  - Schwertküste
-  - Nebelwald
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die ungleichen Retter von Greenest und Bezwinger von Arauthator näherten sich der Kultstätte von Eldath, der Göttin der Wasserfälle. Ihre Vermutung erschien richtig zu sein, dass sich dort der Kult verbarg, um von diesem Ort aus den Süden des Nebelwaldes mit Angst und Terror zu überziehen.

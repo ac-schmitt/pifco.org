@@ -1,13 +1,15 @@
 ---
 title: "Fresh Worms Waterdeep"
-date: 1489-10-27T13:39:54+01:00
+date: 2019-10-27T13:39:54+01:00
+author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/bBsYBlq.png
 tags: 
-  - Waterdeep
+  - Encyclopaedia
   - Homebrew
+  - Waterdeep
 ---
 
 Es sind nicht immer nur die großen Villen und Türme in der Stadt der Prächtigen, die das Vermögen einer Person ausmachen. Viel Bedeutender ist häufig der Besitz von Kleinodien, die, von fleissigen Menschen bewirtschaftet, kleine aber zuverlässige Erträge einbringen. Es ist mir eine Freude derlei Geschäfte zu machen, die mit Fug und Recht _Ehrlich_ genannt werden dürfen.

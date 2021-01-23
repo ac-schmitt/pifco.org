@@ -1,13 +1,12 @@
 ---
 title: "Kultgeschichte"
-date: 1490-01-26T13:05:15+01:00
+date: 2020-01-26T13:05:15+01:00
+author: "Eleasis in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/8Zl9PcG.png
 tags: 
-  - Kult der Drachen
-  - Waterdeep
   - Encyclopaedia
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: "Bündnisse"
-date: 1490-07-05T19:40:09+02:00
+date: 2020-07-05T19:40:09+02:00
+author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/syLPh98.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Xovakh nahm seinen Helm ab und zum Vorschau kam ein seltsames Gesicht, wie es die Abgesandten des Rates der Allianz bisher noch nicht gesehen hatten: ein langes, kantiges Gesicht, mit ledriger, gelblicher Haut, sehr spitz zulaufenden Ohren und einer hohen, fast gar nicht ausgebildeten Nase. Seine schwarzen Augen liegen tief in seinem Schädel und die ebenso schwarzen Haar hat er sich zu einem Dutt gebunden. Sein Volk seien die sogenannten Githyanki, doch er und Girronyr würden ihren jeweiligen Völkern nichts mehr Schulden und seien gewissermaßen Freischaffende.

@@ -1,14 +1,15 @@
 ---
 title: "Der Abtrünnige"
-date: 1490-02-09T11:05:48+01:00
+date: 2020-02-09T11:05:48+01:00
+author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/fWgxlZR.png
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Bezwinger von Arauthator hatten sich dem Kult ergeben. Gefesselt und geknebelt, mit Stricken um den Hälsen, wurden ihnen die Habseligkeiten abgenommen nur um sie anschließend erneut in die große Kaverne zu führen.

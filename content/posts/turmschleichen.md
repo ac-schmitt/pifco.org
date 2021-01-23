@@ -1,14 +1,15 @@
 ---
 title: "Turmschleichen"
-date: 1490-09-26T17:07:26+02:00
+date: 2020-09-26T17:07:26+02:00
+author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/xHK1Z0n.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Retter von Greenest untersuchten die [Metallplatte](/posts/xonthals-turm#metalltafel) mit den Symbolen. Sie überprüften ihre Vermutung, dass es sich um ein Bedienfeld für einen Teleportationskreis handeln musste, indem sie Geschirr aus dem Raum verwendeten und das Panel mittels einer magischen Hand bedienten. Ihre Vermutung erwies sich mit ihren Versuchen als richtig und so einigten sie sich auf den Plan, dass Yona unter dem Zauber der Unsichtbarkeit auf das Symbol des Sterns drücken sollte. Arvandor war fest davon überzeugt, dieses Symbol müsse doch zum Observatorium an der Spitze des Turms führen. Der Mann wirkte einen Spionagezauber auf Yona, damit er sehe konnte, wo sie herauskam und damit die übrigen Abgesandten des Rates ihrer Gefährtin im Falle eines Falles schnell zur Hilfe eilen konnten.

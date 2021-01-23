@@ -1,14 +1,15 @@
 ---
 title: "Brandbekämpfung"
-date: 1490-11-22T16:59:44+01:00
+date: 2020-11-22T16:59:44+01:00
+author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/UM1x6cw.png
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Lysaleth erhob sich schnaubend aus der Schonung. Die Retter von Greenest sammelt sich um die junge Drachin, tauschten Heiltränke und -zauber und stellten sicher, dass ihre Gegner im Ortszentrum von Xonthal's Turm zurückgeblieben waren.

@@ -1,13 +1,14 @@
 ---
 title: "Feurige Unfälle"
-date: 1489-05-22T17:31:09+02:00
+date: 2019-05-22T17:31:09+02:00
+author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/Bw2AXvc.jpg
 tags: 
-  - Waterdeep
   - Encyclopaedia
+  - Waterdeep
 ---
 
 Zuletzt haben wir die leider erneut Streitigkeit rund um den Schadenersatz für Unfälle mit Feuer und Feuerelementaren schlichten müssen. Es sei angemerkt, dass unsere Kanzeley als Advokati nur für die privaten Verhandlungen zwischen Streitparteien zu Diensten ist. Die Prokurati der Stadt kümmern sich um Strafen und Verurteilungen gegen das Stadtrecht, die für das schuldhafte Legen eines Feuers äußerst empfindlich sind.

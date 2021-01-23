@@ -1,14 +1,15 @@
 ---
 title: "Skyreach"
-date: 1490-05-24T17:35:23+02:00
+date: 2020-05-24T17:35:23+02:00
+author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/cAJjOTG.jpg
 tags: 
   - Logbuch
-  - Kult der Drachen
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Auf dem unteren Hof der fliegenden Festung sahen sich die Retter von Greenest ihren Gegnern gegenüber: eine Gruppe von Kultisten mit einem ausgewachsenen roten Drachen schien mit dem König der Riesen zu verhandeln! Doch halt!? Eine Figur aus dem kleinen Trupp rund um den Drachen kam den Abgesandten der Allianz bekannt vor. Jamna Gleamsilver, die zwielichtige Gnomin, die einstmals auf ihrer Reise ein Mitglied  der Karawane von Baldurs Tor nach Waterdeep gewesen war.

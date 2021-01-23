@@ -1,16 +1,15 @@
 ---
 title: "Nachforschungen"
-date: 1489-11-11T07:41:37+01:00
+date: 2019-11-11T07:41:37+01:00
+author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/XbX2LRH.png
 tags: 
-  - Kult der Drachen
-  - Schwertküste
-  - Nebelwald
   - Logbuch
   - Retter von Greenest
+  - Rise of Tiamat
 ---
 
 Die Retter von Greenest brachen von Waterdeep aus auf, um auf dem Rücken ihrer drei [Wyvern](https://www.dndbeyond.com/monsters/wyvern) nach Süden zu fliegen. Der Plan war, die wenigen Siedlungen aufzusuchen, bei denen bekannt war, dass sie die Angriffe des Kultes abwehren konnten. Es musste dort doche eine Spur zu den Anführer der Kultisten im Wald zu finden sein!? Delaan und seine Schar von der [Emerald Enclave](https://dnd.wizards.com/dungeons-and-dragons/story/faction/emeraldenclave) näherten sich dem Wald von Norden her, die Gefährten flogen mit ihren schnelleren, geflügelten Bestien erst weiter in den Süden um von dort aus in den Wald vorzustoßen. Am Way Inn planten sie ihre Flugechsen gegen Pferde einzutauschen, wovon sie dann aber doch absehen sollten.

@@ -1,14 +1,13 @@
 ---
 title: "Der Nebelwald-Überfall"
-date: 1489-11-09T12:23:20+01:00
+date: 2019-11-09T12:23:20+01:00
+author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
   - https://i.imgur.com/iyGNqKJ.jpg
 tags: 
-  - Kult der Drachen
-  - Schwertküste
-  - Nebelwald
+  - Rise of Tiamat
 ---
 
 Uns erreichte bereits vor einigen Tagen die [Kunde]({{< ref "die-rueckkehr.md" >}}) von heftigen, kriegerischen Auseinandersetzungen im Nebelwald zwischen dem Kult der Drachen und den dort lebenden Waldelfen. Heute nun sind einige hundert waldelfische Flüchtlinge in _Nachtstein_ angekommen und haben im _Wald von Ardeep_ ihr Lager aufgeschlagen, etwa 2 Tagesreisen südöstlich von Waterdeep.
