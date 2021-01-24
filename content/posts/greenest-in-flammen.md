@@ -2,7 +2,7 @@
 title: "Greenest in Flammen"
 date: 2017-02-23T12:36:22+01:00
 author: "Mirtul in the Year of the Warrior Princess, DR 1489"
-draft: true
+draft: false
 toc: false
 images:
 tags: 
