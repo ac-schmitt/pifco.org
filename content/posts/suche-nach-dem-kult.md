@@ -57,5 +57,5 @@ Durch die Türe betraten die Retter von Greenest den nächsten Raum der Kultstä
 ___
 ## Anhang
 
-{{< embed-pdf url="/pdf/meranwe.pdf" >}}
+{{< embed-pdf "/pdf/meranwe.pdf" >}}
 [Download Meranwë Homebrew pdf](/pdf/meranwe.pdf.pdf)
