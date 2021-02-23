@@ -5,7 +5,7 @@ author: "Nightal in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/Qv6PUMS.jpg
+  - https://i.imgur.com/JlK3q5V.jpg
 tags: 
   - Logbuch
   - Retter von Greenest
