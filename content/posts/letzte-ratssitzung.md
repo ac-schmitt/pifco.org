@@ -2,7 +2,7 @@
 title: "Letzte Ratssitzung"
 date: 2021-02-23T21:46:13+01:00
 author: "Hammer in the Year of the Scarlet Witch, DR 1491"
-draft: true
+draft: false
 toc: false
 images:
   - https://i.imgur.com/8fCG7vX.jpg
