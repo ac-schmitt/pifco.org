@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
 publishDir = "docs"
-
+staticDir = ["static", "static-quickref"]
 
 [author]
   name = "PIF & Co."
