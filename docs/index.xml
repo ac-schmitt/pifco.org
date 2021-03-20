@@ -9,6 +9,20 @@
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 14 Mar 2021 13:23:17 +0100</lastBuildDate><atom:link href="https://pifco.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Utensilien</title>
+      <link>https://pifco.org/tools/</link>
+      <pubDate>Sat, 20 Mar 2021 13:59:50 +0100</pubDate>
+      
+      <guid>https://pifco.org/tools/</guid>
+      <description>Schnellreferenz → PIFco Schnellreferenz
+Die interaktive Schnellreferenz der Kanzeley PIF &amp;amp; Co enthält sowohl die Texte in englischer als auch in deutscher Sprache. Es ist damit eine Zusammenführung der Original-Quickreference von crobi und der deutschen Übersetzung auf dnddeutsch.de.
+ Übersetzung → Der D3 Übersetzer
+Deutsche und englische Begriffe aus Dungeons &amp;amp; Dragons von dnddeutsch.de.
+ Karten → Interaktive Karten von Faerun, Waterdeep, usw. von aidedd
+→ Interaktive Karte von Faerun von LoreMaps</description>
+    </item>
+    
+    <item>
       <title>Tempel der Tiamat</title>
       <link>https://pifco.org/posts/tempel-der-tiamat/</link>
       <pubDate>Sun, 14 Mar 2021 13:23:17 +0100</pubDate>
@@ -93,15 +107,6 @@ Gerade als sie dabei waren zu entscheiden, ob sie sich mit ihrer Beute - der leg
       <guid>https://pifco.org/posts/elturgard/</guid>
       <description>Bekannt auch unter dem Namen &amp;ldquo;Das Königreich der zwei Sonnen&amp;rdquo; ist die Elturgard die Theokratie des Gottes Torm in den westlichen Hartlanden. Mit Elturel in der Mitte erstreckt sich die ordnende Hand Torms entlang des Scornubel von den Feldern der Toten im Westen bis zu Scornubel im Osten. Der Handelsweg zwischen der berühmte Brücke von Baereskyr und eben der zuletzt genannten Karawanenstadt zählt ebenfalls zum Einflussbereich der Elturgard.
 Herrscher von Stadt und Land ist der Thavius Kreeg, Hohepriester des Torm und Hoher Wächter der Elturgard.</description>
-    </item>
-    
-    <item>
-      <title>Turmschleichen</title>
-      <link>https://pifco.org/posts/turmschleichen/</link>
-      <pubDate>Sat, 26 Sep 2020 17:07:26 +0200</pubDate>
-      
-      <guid>https://pifco.org/posts/turmschleichen/</guid>
-      <description>Die Retter von Greenest untersuchten die Metallplatte mit den Symbolen. Sie überprüften ihre Vermutung, dass es sich um ein Bedienfeld für einen Teleportationskreis handeln musste, indem sie Geschirr aus dem Raum verwendeten und das Panel mittels einer magischen Hand bedienten. Ihre Vermutung erwies sich mit ihren Versuchen als richtig und so einigten sie sich auf den Plan, dass Yona unter dem Zauber der Unsichtbarkeit auf das Symbol des Sterns drücken sollte.</description>
     </item>
     
   </channel>
