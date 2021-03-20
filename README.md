@@ -8,6 +8,17 @@ It uses GitHub Pages for publishing with default settings, content source is /do
 
 pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule. 
 
+## License
+
+The code and structures in this repository are licensed under [MIT License](LICENSE).
+
+Acknowledgment to the upstream projects:
+* [Hermit Theme](https://github.com/Track3/hermit)
+* [dnd5e-quickref](https://github.com/crobi/dnd5e-quickref)
+* [dnd5e-quickref deutsch](https://github.com/nesges/dnd5e-quickref)
+
+The content of the articles of the pifco.org website is licensed unter [Creative Commons CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ## Mechanics
 
 ### RSS Feed
