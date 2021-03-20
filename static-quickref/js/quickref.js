@@ -25,9 +25,10 @@ function add_quickref_item(parent, data, type) {
 }
 
 function show_modal(data, color, type) {
-    var title = data.title || "[no title]";
+    var title = (data.title + " | " + data.subtitle) || "[no title]";
     var subtitle = data.description || data.subtitle || "";
     var bullets = data.bullets || [];
+    var bullets_de = data.bullets_de || [];
     var reference = data.reference || "";
     type = type || "";
     color = color || "black"
@@ -40,8 +41,9 @@ function show_modal(data, color, type) {
     $("#modal-subtitle").text(subtitle);
     $("#modal-reference").text(reference);
 
-    var bullets_html = bullets.map(function (item) { return "<p class=\"fonstsize\">" + item + "</p>"; }).join("\n<hr>\n");
-    $("#modal-bullets").html(bullets_html);
+    var bullets_html = bullets.map(function (item) { return "<p class=\"fonstsize\">" + item + "</p>"; }).join("\n<hr style=\"border-top: dashed 1px;\">\n");
+    var bullets_de_html = bullets_de.map(function (item) { return "<p class=\"fonstsize\">" + item + "</p>"; }).join("\n<hr style=\"border-top: dashed 1px;\">\n");
+    $("#modal-bullets").html(bullets_html + "<hr>" + bullets_de_html);
 }
 
 function hide_modal() {
