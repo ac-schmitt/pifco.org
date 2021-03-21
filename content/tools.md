@@ -1,6 +1,7 @@
 ---
 title: "Utensilien"
 date: 2021-03-20T13:59:50+01:00
+author: "Hammer in the Year of the Scarlet Witch, DR 1491"
 ---
 
 ## Schnellreferenz
@@ -28,3 +29,18 @@ ___
 &#8594; [Der Token Generator von Rolladvantage](http://rolladvantage.com/tokenstamp/)
 
 Token kann man vielfältig nutzen. Sei es auf dem digitalen Charakterbogen von [DnD Beyond](https://www.dndbeyond.com/) oder auf dem virtuellen Schlachtfeld von [Roll20](https://roll20.net/).
+
+&#8594;  [Hero Forge](https://www.heroforge.com/)
+
+Ihr sucht ein Gemälde für euch oder eure Gefährten? Sucht nicht weiter, die Genossen bei Hero Forge machen sogar Statuen für euch!
+
+___
+## Personalwesen
+
+&#8594; [DnD Beyond](https://www.dndbeyond.com/)
+
+Alle Akten unserer Klienten verwalten wir vertrauensvoll bei der Schreiber- und Bibliothekarsgilde von DnD Beyond. Und die Klienten, die unsere Dienste in Anspruch nehmen haben sogar freien Zugriff auf die Bibliothek der Kanzeley PIF & Co!
+
+&#8594; [Roll20](https://roll20.net/)
+
+Bei Roll20 halten wir vor allem die Auftragsbücher. Aber nicht alle. Gelegentlich sind die Kartographen dieser Gilde hilfreich für unsere Geschäfte.
