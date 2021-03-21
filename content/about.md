@@ -1,7 +1,7 @@
-+++
-title = "Erscheinungsvermerk"
-date = "1492-09-09"
-+++
+---
+title: Erscheinungsvermerk
+date: 1492-09-09
+---
 
 Dieses Erzeugnis wird von Phineas, Ilominar, Fohleireih & Co. herausgegeben und enthält Ankündigungen, Ausschreibungen, Gesuche und Pamphlete derart sie für unser Geschäft von Relevanz sind.
 
