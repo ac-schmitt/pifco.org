@@ -2,7 +2,7 @@
 title: "Briefe von Finufaranell I"
 date: 2021-04-05T08:40:14+02:00
 author: "Eleasis im Jahr der Vergeltung des Eisernen Zwerges, 1385 DR"
-draft: true
+draft: false
 toc: false
 images:
 tags: 
