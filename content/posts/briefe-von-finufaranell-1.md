@@ -5,6 +5,7 @@ author: "Eleasis im Jahr der Vergeltung des Eisernen Zwerges, 1385 DR"
 draft: false
 toc: false
 images:
+    - https://i.imgur.com/FVIJxbV.png
 tags: 
   - Savage Frontier
   - Wildes Grenzland
