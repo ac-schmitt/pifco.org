@@ -1,5 +1,5 @@
 ---
-title: "Briefe Von Finufaranell II"
+title: "Briefe von Finufaranell II"
 date: 2021-04-06T17:05:45+02:00
 author: "Nightal im Jahr der Vergeltung des Eisernen Zwerges, 1385 DR"
 draft: false

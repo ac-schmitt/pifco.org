@@ -1,5 +1,5 @@
 ---
-title: "Briefe Von Finufaranell III"
+title: "Briefe von Finufaranell III"
 date: 2021-04-07T16:24:45+02:00
 author: "Eleasis  im Jahr der Netherberg-Schriftrollen, 1386 DR"
 draft: false
