@@ -30,9 +30,13 @@ ___
 
 Token kann man vielfältig nutzen. Sei es auf dem digitalen Charakterbogen von [DnD Beyond](https://www.dndbeyond.com/) oder auf dem virtuellen Schlachtfeld von [Roll20](https://roll20.net/).
 
-&#8594;  [Hero Forge](https://www.heroforge.com/)
+&#8594; [Hero Forge](https://www.heroforge.com/)
 
 Ihr sucht ein Gemälde für euch oder eure Gefährten? Sucht nicht weiter, die Genossen bei Hero Forge machen sogar Statuen für euch!
+
+&#8594; [Symbole](https://game-icons.net/)
+
+Kleine Symbole und Icons, die auch bei der [PIFco Schnellreferenz](/quickref.html) verwendet werden. Ideal auch für Token Marker.
 
 ___
 ## Personalwesen
