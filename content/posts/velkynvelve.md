@@ -8,7 +8,6 @@ images:
   - https://i.imgur.com/15EANli.png
 tags: 
   - Savage Frontier
-  - Wildes Grenzland
   - Logbuch
   - oota-skt
 ---
