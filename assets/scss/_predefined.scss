@@ -32,3 +32,9 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida C
     }
   }
 }
+
+@media print {    
+    .noPrint, .noPrint * {
+        display: none !important;
+    }
+}
