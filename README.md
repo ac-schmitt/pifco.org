@@ -8,6 +8,11 @@ It uses GitHub Pages for publishing with default settings, content source is /do
 
 pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule. 
 
+Customizations:
+* Changed font in own [_predefined.scss](assets/scss/_predefined.scss)
+* Added `noPrint` class in own [_predefined.scss](assets/scss/_predefined.scss)
+* Added class `noPrint` to elements in the partials [header](layouts/partials/header.html) and [footer](layouts/partials/footer.html)
+
 ## License
 
 The code and structures in this repository are licensed under [MIT License](LICENSE).
