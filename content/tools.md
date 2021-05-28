@@ -26,6 +26,10 @@ ___
 ___
 ## Künstlerisches
 
+&#8594; 
+
+Symbole für die Flächeneffekte von Zaubersprüchen, direkt aus der Schreibstube unserer Kanzeley. Nutzt die Symbole von [game-icons.net](https://game-icons.net/).
+
 &#8594; [Der Token Generator von Rolladvantage](http://rolladvantage.com/tokenstamp/)
 
 Token kann man vielfältig nutzen. Sei es auf dem digitalen Charakterbogen von [DnD Beyond](https://www.dndbeyond.com/) oder auf dem virtuellen Schlachtfeld von [Roll20](https://roll20.net/).
@@ -36,7 +40,7 @@ Ihr sucht ein Gemälde für euch oder eure Gefährten? Sucht nicht weiter, die G
 
 &#8594; [Symbole](https://game-icons.net/)
 
-Kleine Symbole und Icons, die auch bei der [PIFco Schnellreferenz](/quickref.html) verwendet werden. Ideal auch für Token Marker.
+Kleine Symbole und Icons, die auch bei der [PIFco Schnellreferenz](/quickref.html) und bei den Flächeneffekten verwendet werden. Ideal auch für Token Marker.
 
 ___
 ## Personalwesen
