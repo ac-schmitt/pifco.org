@@ -28,5 +28,3 @@ Der weise Herr Ilominar ist erfahrener Consultanti für die Fragen des Generatio
 ## Fohleireih
 
 Der junge Herr Fohlereih weilt oft genug in Waterdeep und ist euch dort fleißigst zu Diensten. Solltet ihr innerhalb der Stadt, mit dem Rate oder auch mit dem Elfenvolk Verträge oder gar Verhandlungen eingehen, so sei eych gesagt, findet ihr niemanden in der ganzen Weite der Stadt, der euch bessere und vertrauensvollere Dienste anbieten kann.
-
-Hello World.
