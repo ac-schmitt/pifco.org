@@ -1,2 +1,5 @@
+# scss preprocessor
+resources/
+
 # Rendered site
 public/
