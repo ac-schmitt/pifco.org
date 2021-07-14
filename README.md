@@ -2,9 +2,9 @@
 
 [![github pages](https://github.com/ac-schmitt/pifco.org/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ac-schmitt/pifco.org/actions/workflows/gh-pages.yml)
 
-This is the single repo for the [pifco.org](https://pifco.org) website based on [Hugo](https://gohugo.io/).
+This is the single repo for the [pifco.org](https://pifco.org) website based on [Hugo](https://gohugo.io/). It is build using GitHub Actions and uses GitHub Pages for publishing, content source and build target is the gh-pages branch.
 
-It uses GitHub Pages for publishing with default settings, content source is /docs from the master branch. Please use `git clone --recurse-submodules` to clone the repository to include the template.
+Please use `git clone --recurse-submodules` to clone the repository to include the template.
 
 ## Template
 
