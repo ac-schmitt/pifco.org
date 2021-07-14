@@ -1,5 +1,7 @@
 # pifco.org
 
+[![github pages](https://github.com/ac-schmitt/pifco.org/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ac-schmitt/pifco.org/actions/workflows/gh-pages.yml)
+
 This is the single repo for the [pifco.org](https://pifco.org) website based on [Hugo](https://gohugo.io/).
 
 It uses GitHub Pages for publishing with default settings, content source is /docs from the master branch. Please use `git clone --recurse-submodules` to clone the repository to include the template.
