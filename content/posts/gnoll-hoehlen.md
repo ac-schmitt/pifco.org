@@ -14,7 +14,7 @@ tags:
 
 Alla Arandil Finufaranell,
 
-puh! Nochmal Glück gehabt. _Gumba Kahn_ hat mich nicht entdeckt. Aber die Flüchtlinge sind jetzt noch vorsichtiger und _Maeral_ lässt seinen Familiar aufpassen. Hat die Form einer Fledermaus, also wird ich mal zusehen, dass ich nicht allzu sehr in der Nähe der Gruppe rumhänge.
+puh! Nochmal Glück gehabt. _Gumba Kahn_ hat mich nicht entdeckt. Aber die Flüchtlinge sind jetzt noch vorsichtiger und _Maeral_ lässt seinen Familiar aufpassen. Hat die Form einer Fledermaus, also werd ich mal zusehen, dass ich nicht allzu sehr in der Nähe der Gruppe rumhänge.
 
 Die Drow unter der Führung von _Ilvara_ haben die Fährte wieder aufgenommen und nähern sich den Flüchtenden. Diese haben wohl den Plan geändert und rennen nicht mehr so eilig in Richtung _Darklake_, sondern wählen ihre Wege bedächtiger. Das scheint ganz gut zu klappen, der knappe Vorsprung vor ihren dunkelelfischen Häschern bleibt annähernd gleich.
 
