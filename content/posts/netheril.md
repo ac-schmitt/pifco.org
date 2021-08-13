@@ -1,6 +1,6 @@
 ---
 title: "Netheril"
-date: 2021-08-08T17:35:58+02:00
+date: 2021-08-13T14:35:58+02:00
 author: "Alturiak  in the Year of the Scarlet Witch, DR 1491"
 draft: false
 toc: false
