@@ -13,7 +13,7 @@ Heute sind wir die höchlichst honorable Kanzeley für mundane, magische und ext
 * Wir sichern euer Vermögen, Sachdinge aber auch und vor allem eure Familien und Getreuen bei gefahrvollen Unternehmungen ab.
 * Wir beschaffen und vermitteln stehts gebrauchte Finanzmittel, verwalten getreu Vermögen Dritter um Eych Sicherheit zu geben und Eyren Reichtum zu mehren.
 
-Unsere Kanzeleyen in Waterdeep, Sharn und Sigil ermöglicht es Eych, werte Kundschaft, auf ein einmaliges und vertrauenswürdiges Angebot zurückzugreifen.
+Unsere Kanzeleyen in Waterdeep, Baldur's Gate und Silverymoon ermöglicht es Eych, werte Kundschaft, auf ein einmaliges und vertrauenswürdiges Angebot zurückzugreifen.
 
 Zu allen Zeiten, in denen wir gebraucht werden.
 
@@ -27,4 +27,8 @@ Der weise Herr Ilominar ist erfahrener Consultanti für die Fragen des Generatio
 
 ## Fohleireih
 
-Der junge Herr Fohlereih weilt oft genug in Waterdeep und ist euch dort fleißigst zu Diensten. Solltet ihr innerhalb der Stadt, mit dem Rate oder auch mit dem Elfenvolk Verträge oder gar Verhandlungen eingehen, so sei eych gesagt, findet ihr niemanden in der ganzen Weite der Stadt, der euch bessere und vertrauensvollere Dienste anbieten kann.
+Der junge Herr Fohlereih weilt in Silverymoon und ist euch dort fleißigst zu Diensten. Ihr findet unsere Vertretung dort in der _Brightbuckler Street_, direkt neben der _Shining Scroll_.
+
+![Fohleireih](https://i.imgur.com/1R2GgqK.png)
+
+Solltet ihr im Norden Verträge oder gar Verhandlungen eingehen, so sei eych gesagt, findet ihr niemanden in der ganzen Weite Faerûns, der euch bessere und vertrauensvollere Dienste anbieten kann.
