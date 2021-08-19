@@ -58,4 +58,4 @@ ___
 ## Anhang
 
 {{< embed-pdf "/pdf/meranwe.pdf" >}}
-[Download Meranwë Homebrew pdf](/pdf/meranwe.pdf.pdf)
+[Download Meranwë Homebrew pdf](/pdf/meranwe.pdf)
