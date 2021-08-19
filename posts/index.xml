@@ -1746,7 +1746,7 @@ renderPage(pageNum);
 });
 }
 &lt;/script>
-&lt;a href="https://pifco.org/pdf/meranwe.pdf.pdf">Download Meranwë Homebrew pdf&lt;/a>&lt;/p></description><content type="html"><![CDATA[<p>Jetzt standen sie also in den Diensten des Rates von Waterdeep und so begannen die Retter von Greenest mit den Vorbereitungen, wie dem Kult der Drachen am besten beizukommen wäre. Die Mitglieder des Rates erwarteten von ihnen, dass sie zwei Spuren nachgingen: mehr über das Draakhorn zu erfahren und Varram den Weißen aufzuspüren.</p>
+&lt;a href="https://pifco.org/pdf/meranwe.pdf">Download Meranwë Homebrew pdf&lt;/a>&lt;/p></description><content type="html"><![CDATA[<p>Jetzt standen sie also in den Diensten des Rates von Waterdeep und so begannen die Retter von Greenest mit den Vorbereitungen, wie dem Kult der Drachen am besten beizukommen wäre. Die Mitglieder des Rates erwarteten von ihnen, dass sie zwei Spuren nachgingen: mehr über das Draakhorn zu erfahren und Varram den Weißen aufzuspüren.</p>
 <h2 id="nach-dem-rat">Nach dem Rat</h2>
 <p>Lord Dagult Neverember machte Oba klar, wo seine Prioritäten liegen und entschädigte ihn für den Verlust der schwarzen Drachenmaske. Nuri, die wunderschöne und geheimnisvolle Dienerin des Lords von Waterdeep und Neverwinter verbrachte daraufhin auch die Nacht zusammen mit dem Tiefling.</p>
 <p>Währenddessen lud Remallia Haventree den Elfen Arvandor zu sich, um ihn auf die Harfner schwören zu lassen und ihn in ihre Dienste zu stellen. Sie machte ihn nochmal darauf aufmerksam, dass er sich keine Zeit lassen sollte, um der Spur des zwergischen Drachensprechers Varram der Weiße zu folgen. Sie erwartete von Arvandor und den Rettern von Greenest, dass sie sich schnellstens in Richtung der Brücke von Boareskyr begeben sollten, um mehr über den Aufenthaltsort und die Ziele des Zwerges zu erfahren.</p>
@@ -1892,7 +1892,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 }
 
 </script>
-<a href="/pdf/meranwe.pdf.pdf">Download Meranwë Homebrew pdf</a></p>
+<a href="/pdf/meranwe.pdf">Download Meranwë Homebrew pdf</a></p>
 ]]></content></item><item><title>Kult der Drachen</title><link>https://pifco.org/posts/kult-der-drachen/</link><pubDate>Thu, 10 Jan 2019 14:21:55 +0200</pubDate><guid>https://pifco.org/posts/kult-der-drachen/</guid><description>&lt;p>Immer mehr beunruhigende Berichte kamen in den letzten Tagen über den neu erstarkten Kult der Drachen in Waterdeep an. Im vergangenen Jahr erschien es noch wie eine lästige Sache, mit denen die Flammende Faust schon fertig werden würde.&lt;/p>
 &lt;p>&lt;img src="https://i.imgur.com/zqAcO6X.png" alt="Flaming Fist">&lt;/p>
 &lt;p>Doch es erscheint es so, als ob der Kult auch im Norden, hinter Luskan und in den Gegenden um Silbrigmond herum sein Unwesen treibt. Unterstützt dabei von weißen Drachen. Aus dem Nebelwald erreichten uns Berichte über Angriffe von grünen Drachen. Die Handelsstraße zwischen Waterdeep und Baldurs Tor wird dem vernehmen nach immer wieder von blauen Drachen angegriffen. Und immer mit dabei die Kultisten in ihren violetten Roben.&lt;/p>
