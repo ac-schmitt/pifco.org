@@ -23,7 +23,7 @@ Ich werde mich dagegen nach _Silverymoon_ begeben, einerseits um die brachliegen
 
 * Der Krieg der Silbermarschen ist beendet, die Delzoun-Zwerge haben ihren alten Stammsitz _Gauntlgrym_ nicht nur wiederentdeckt und wiedererobert, nein, sie konnten ihn auch erfolgreich gegen die Drow verteidigen.
 * Die Scharmützel mit dem Kult der Drachen sind vorüber und - dank der Retter von Greenest - sitzt _Tiamat_ tief in den Neun Höllen fest.
-* _Lady Laeral_ und _Lord _Dagult_ haben ihre Beziehung in der Folge der Mordserie von _Waterdeep_ geklärt und sich zusammengerauft. Die Allianz der Lords im Norden ist so gefestigt wie seit Jahren nicht mehr.
+* _Lady Laeral_ und _Lord Dagult_ haben ihre Beziehung in der Folge der Mordserie von _Waterdeep_ geklärt und sich zusammengerauft. Die Allianz der Lords im Norden ist so gefestigt wie seit Jahren nicht mehr.
 * _Luruar_ ist zerbrochen, nachdem _Everlund_ den Bund verlassen hat. Das Ende dieser eher losen Föderation ist gleichzeitig auch die Chance auf einen Neuanfang in den Beziehung, vor allem auch in den Handelsbeziehungen, zwischen den Städten und Handelsposten entlang des _Rauvin_.
 
 Mit der [_Meranwë_](/pdf/meranwe.pdf) und einigen Getreuen habe ich mich also auf den Weg den _Dessarin_ hinauf in den Norden gemacht. In _Silverymoon_ werde ich gemeinsam mit meiner Schwester _Jarildyn_ noch härter daran arbeiten, den einstmaligen Ruf und Glanz unserer Familien wieder herzustellen.
