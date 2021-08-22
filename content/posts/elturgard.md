@@ -26,7 +26,7 @@ Vor etwas mehr als vierzig Jahren begab sich ein weiterer, wichtiger Wendepunkt 
 
 Die Priesterschaft von Torm, Helm und Lathander flehten die rechtschaffenen Götter an ihnen zu helfen und so erreichten schließlich die Gebete des jungen und aufstrebenden Priesters Thavius Kreeg den Sonnengott Amaunator, der den Begleiter zur Rettung des Heiligen Landes schickte: eine gleißend hell leuchtende Kugel aus Sonnenlicht, die direkt über der Hohen Halle von Elturel erschien und dessen Licht bis Berdusk oder der Brücke von Boareskyr zu sehen war.
 
-![Heiliges Symbol von Amaunator](https://i.imgur.com/MVBg0Zx.png)
+![Heiliges Symbol von Amaunator](https://i.imgur.com/Vv3g4b8.png)
 
 Das Sonnenlicht zerstörte die Untoten in der Stadt und im Umland. Thavius Kreeg ernannte sich zum Hohen Wächter der Stadt und übernahm die Führung der Elturgard.
 
@@ -34,7 +34,7 @@ Das Sonnenlicht zerstörte die Untoten in der Stadt und im Umland. Thavius Kreeg
 
 Aus den besonders gläubigen und dem Hohen Wächter ergebenen Höllenreiter heraus entstand nach dem Erscheinen des Begleiters der gleichnamige Orden. Sir Ontharr Frume aus dem Rat der Allianz ist verdientes Mitglied des Ordens des Begleiters und zugleich der ranghöchste Vertreter Elturels im Handschuhorden. Er war es auch, der sich dafür eingesetzt hat, dass der Herr Arvandor Galandur, von den als Rettern von Greenest bekannt gewordenen Helden der Elturgard, als Ehrenritter im Orden Willkommen geheißen wurde.
 
-![Rüstung des Begleiterordens](https://i.imgur.com/SctimVb.png)
+![Rüstung des Begleiterordens](https://i.imgur.com/iR8Svpq.png)
 
 Die Ernennung des elfischen Adeligen als Ehrenritter im Krieg gegen den Orden der Drachen ist ungewöhnlich und wird als diplomatisches Zeichen an die Elfen im Scharfzahnwald gedeutet. Während der Handschuhorden Faeruns alle Völker Willkommen heißt, sind so gut wie alle Ritter des Ordens des Begleiters Menschen und verehren die Götter Amaunator, Helm, Torm oder Tyr. Nur wenige Halbelfen oder Zwerge schließen sich dem Begleiterorden an.
 

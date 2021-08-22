@@ -5,7 +5,7 @@ author: "Hammer in the Year of the Rune Lords Triumphant, DR 1487"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/BZ7fhj6.jpg
+  - https://i.imgur.com/bnkGn51.jpg
 tags:
   - Encyclopaedia
   - Waterdeep
@@ -32,7 +32,7 @@ Abgesehen von der Kopfsteuer erhebt Waterdeep, wie jede andere zivilisierte Gese
 
 Wie alle großen Städte der Allianz der Lords gibt auch Waterdeep selbstverständlich seine eigen Münze heraus.
 
-![Münzen](https://i.imgur.com/BZ7fhj6.jpg)
+![Münzen](https://i.imgur.com/bnkGn51.jpg)
 
 * Der __Nib__ ist die geringste Münze in der Größe eines Fingernagels und wird aus _Kupfer_ gewonnen
 * Ein __Shard__ ist sogar noch ein wenig kleiner als der Nib und besteht aus _Silber_ und sein Wert beträgt 10 Nib.

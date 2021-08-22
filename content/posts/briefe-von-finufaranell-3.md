@@ -27,4 +27,4 @@ tags:
 >
 >Finufaranell aus dem Hause Durothil
 >___
-> {{< figure src="https://i.imgur.com/R9VNFST.jpg" title="Yartar" >}}
+> {{< figure src="https://i.imgur.com/zer6x5f.jpg" title="Yartar" >}}

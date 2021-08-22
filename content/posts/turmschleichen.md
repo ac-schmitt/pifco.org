@@ -22,7 +22,7 @@ Sie öffnete die Tür vorsichtig, doch auf dem Balkon wurde sie von 4 Kultisten 
 
 Der Unsichtbarkeitszauber der Yona wurde von einem der Kultisten, einem Magier der sich später als Jorgen Pawl herausstellen sollte, mittels Antimagie aufgehoben. Alle Kultisten wirkten Zaubersprüche. Glücklicherweise konnten die Bezwinger von Aurathator den Gedankenkontrollzaubern der Kultisten widerstehen. Wer einmal gegen einen uralten Drachen bestanden hat, den beeinflussen wenig mächtige Kontrollzauber natürlich nicht mehr! Der Kampf im Observatorium entbrannte. Halvan war es, der die Retter von Greenest diesmal vor dem sicheren Tod bewahrte: sein Gegenzauber beendet eine mächtige Beschwörung des Jorgen Pawl, der drauf und drann gewesen war, den Odem eines weißen Drachen über die Streiter für die Westküste hinwegfegen zu lassen!
 
-![Jorgen Pawl](https://i.imgur.com/jSOLByI.png)
+![Jorgen Pawl](https://i.imgur.com/SFf2znV.png)
 
 Um den Kultisten das Zaubern zu erschweren, wirkte der Mann einen Stillezauber im Observatorium. Arvandor nahm diese Gelegenheit war, sprang vor und mit wenigen geschickten Hieben seines Schwertes streckte er den Magier im Nahkampf nieder. Der Kampf gegen die zahlenmäßig unterlegenen Kultisten war dann schnell beendet. Einen ihrer Gegner ließen sie am leben und wieder war es Halvan, der den Gefangenen mit einem mächtigen Beeinflußungszauber dazu brachte, ihnen Auskunft zu erteilen. Möglicherweise war es auch das Verhalten der jungen Kupferdrachin Lysaleth, welche die toten Körper der gefallenen Kultisten entsorgte. Das Krachen der Knochen und das Mahlen ihrer mächtigen Kiefern sorgte selbst bei den hartgesottenen Bezwingern von Arauthator für sichtbares Unbehagen. Wie sollte es da wohl erst ihrem Gefangenen ergehen?!
 
@@ -52,7 +52,7 @@ Drei tote Körper in den Gewändern der Kultisten lagen auf dem Boden des Keller
 
 Vorsicht ist nicht nur die Mutter der Porzellankiste, sondern auch ein Motto der Abgesandtes des Rates der Allianz. Und so schlichen Yona und Tashenell sehr vorsichtig und leise den einzigen Gang entlang, der von dem Teleporterraum des Kellers wegführte. Am Ende spähten sie vorsichtig in einen Raum, der wohl als Werkstatt gedient hat. Werkbänke und -tische mit Werkzeuge und einer Menge an Büchern und Papieren befand sich in diesem Gewölbe. Und drei Elementarwesen: 2 aus Stein und ein Wesen aus purem Feuer. Das war auch das Feuer, dass den Raum und den Gang beleuchtete. Ob die beiden Räume bereits der ganze Keller des Turms des Xonthal waren oder ob es linkerhand doch noch weiterging, das konnten aus ihrer Position nicht erkennen. Und weiter vorwagen wollten sie sich nicht. 
 
-![Elementare](https://i.imgur.com/ktuerXb.png) 
+![Elementare](https://i.imgur.com/VZJc1ON.png)
 
 Auf dem einzigen freistehenden Tisch stand eine wunderschöne Kiste aus Holz, vielleicht 1 Fuß lang und halb so breit und hoch, welche die Aufmerksamkeit der Halblingsfrau und dem Menschen aus dem Süden auf sich zog. Konnte in der Kiste die gesuchte Drachenmaske sein? 
 

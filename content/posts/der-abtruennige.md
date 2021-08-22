@@ -16,7 +16,7 @@ Die Bezwinger von Arauthator hatten sich dem Kult ergeben. Gefesselt und geknebe
 
 Alle, bis auf Arvandor und Yona. Die Halblingsfrau war bereits seit der Kapitulation der Gesandten des Rates verschwunden und hielt sich zusammen mit dem riesigen, grünen Drachen Cuth in dessen Hort auf. Arvandor hingegen wurde von dem elfischen Reiter des Drachen zu einer Unterredung an das andere Ende der domartigen Kaverne gebeten. Und damit außerhalb der Hör- und Sichtweite der übrigen, hilflosen Retter von Greenest.
 
-![Neronvain](https://i.imgur.com/SDyYtDl.png)
+![Neronvain](https://i.imgur.com/O4PiLMZ.png)
 
 > "Das Volk der Elfen ist bestimmt, über diese Welt zu herrschen!" -Neronvain
 
@@ -42,7 +42,7 @@ Der Mann schnappte sich den gefesselten und geknebelten Halvan und verbrachte au
 
 Noch während die verräterischen Retter von Greenest in der Schlafkammer so taten als ob sie ihre verratenen Gefährten folterten und peinlich befragten, schlugen die Kultisten Alarm! Dunkelelfen griffen an!
 
-![Dunkelelfenkrieger](https://i.imgur.com/E7LcMPC.png)
+![Dunkelelfenkrieger](https://i.imgur.com/TOL8IqC.png)
 
 Die entzweiten Agenten des Rates der Allianz nutzten die Verwirrung des Angriffs aus. Arvandor und der Mann kämpften gegen Kultisten und Dunkelelfen gleichermaßen, Halvan und Tashenell versuchten zum Ausgang zu gelangen. Der Drache und Neronvain verließen die Höhle und Yona blieb zusammen mit zwei Elfen allein im Hort zurück. Schnell rannte die Halblingsfrau nach oben, schlüpfte durch Geheimtüren, rollte ihren magischen Teppich aus und nahm über die Köpfe der in der Höhle kämpfenden Kultisten, Riesen und Dunkelelfen die Verfolgung des Drachen auf.
 

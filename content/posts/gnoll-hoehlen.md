@@ -32,7 +32,7 @@ Hinter mir erklang Kampflärm. Die _Gnolle_ rannten unter mir hindurch in Richtu
 
 Und tatsächlich! Mein Gefühl hat mich nicht getäuscht! Vor mir liegen die Seidenpfade. Hier muss es irgendwo sein. Jetzt brauch ich die lustigen Leute doch umso mehr als vorher, es sei denn du möchtest deinen süßen Popo auch mal hier ins _Underdark_ bewegen?! Also nix wie zurück in die Gnollhöhlen. Oder sind es Hook-Horror-Höhlen? Egal.
 
-![Gnoll](https://i.imgur.com/IoSFsAE.png)
+![Gnoll](https://i.imgur.com/JkopPiC.png)
 
 Ich komme zu spät. Also zu spät für die _Gnolle_, die von den tapferen Gesellen niedergekämpft worden sind. Auch ziemlich niedergekämpft wirkten _Paggen_, _Maeral_ und _Gumba_, während der silbrige Drachling _Snake Eyes_ in einer beunruhigend großen Blutlache am Boden lag. Verflixt. Auf _Sarith_, _Jimjar_ und _Anselma_ befand sich zwar auch Blut, aber vermutlich eher das Blut von anderen.
 

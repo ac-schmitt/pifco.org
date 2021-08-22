@@ -18,7 +18,7 @@ Im Keller des Turms eines längst verschwundenen Erzmagiers schlichen sich die R
 
 So ungewöhnlich dieser Weg, so ungewöhnlich auch die erste Tür, auf die sie stießen. Eine solide gefertigte Holztür, die einfach so und frei am Rande des frei schwebenden Steges stand. Dahinter war nur der leere Raum. Als sie die Tür jedoch vorsichtig öffnet, konnten sie in einen runden Kellerraum blicken, dessen Wände, bis unter die 5 Meter hohe Decke, aus Regalen voller Bücher bestanden. Eine bewegliche Leiter gewährte Zugang zu den oberen Regalreihen und ein  gewaltiger, aus edlem Holz geschnitzter Schreibtisch stand in der Mitte des Gewölbes. Auf dem Tisch ausgerollt war eine seltsame Karte, die eine Stadt mit dem Namen "City of Brass" an den Ufern eines Lavasees zeigte. 
 
-![Karte der City of Brass](https://i.imgur.com/k5F1hPn.jpg)
+![Karte der City of Brass](https://i.imgur.com/S41Eo5c.jpg)
 
 Mehr war in der Bibliothek für die Helden von Greenest nicht zu finden und so schritten sie voran über die Sternenbrücke. Diese endete schließlich vor einer weiteren, freien Türe direkt vor ihnen während die Brücke links abbog und nach kurzem Wegstück ebenfalls an einer freischwebenden Türe endete. Rechterhand schienen wieder Wände zu erscheinen und wie bereits am Anfang dieses seltsamen Kellers von Xonthal's Turm flackerte ein Feuerschein aus dieser Richtung.
 
@@ -26,7 +26,7 @@ Yona öffnete die Türe gerade voraus und entdeckte einen Lagerraum mit lauter F
 
 Ihr Ziel hatten sie erreicht, doch neugierig wie sie waren, erkundeten sie noch die rechte Seite der Sternenbrücke. Dort wo der Feuerschein war und die Wände wieder langsam fester und solide wurden. In einem gemütlich eingerichteten Raum saß ein Hüne mit roter Haut und Hörnern auf dem Kopf vor einem Schachspiel. Eine durchgezogene Linie aus einem kristallenen, weißen Pulver kennzeichnete die Schwelle und die Gefährten hüteten sich erstmal davor, diese Linie zu übertreten.
 
-![Taraz](https://i.imgur.com/OmtuOoC.png)
+![Taraz](https://i.imgur.com/3N0Oj4f.png)
 
 Der gewaltige Tiefling stellte sich als Taraz der Gerechte vor und er sei von dem Erzmagier Xonthal vor hunderten von Jahren beschworen und anschließend hier sitzen gelassen worden. Einigen der Gefährten dämmerte es: vor ihnen stand ein mächtiger Feuerdjinn! Taraz versprach den Helden, ihnen zu dienen und drei Wünsche zu erfüllen, falls sie ihn aus seinem Gefängnis heraus ließen. Und das sei bereits so einfach zu bewerkstelligen, in dem sie die Salzlinie einfach unterbrachen. Halvan und Yona waren dafür, den gefangenen Taraz zu befreien, doch Arvandor und Tashenell hatten Bedenken. Feuerdjinn gelten als Grausam und als Sklavenhändler, es wäre nichts Gutes von diesem hier zu erwarten, so ihre Argumente. Halvan schließlich erklärte, dass sie auf jeden Fall zurückkehren würden, jetzt aber erstmal ihre Mission beenden müssten. Taraz sollte nur noch ein paar Tage mehr ausharren, dann sei Rettung auf dem Weg. Taraz war wenig begeistert von diesem Vorschlag, doch was blieb ihm übrig?
 
@@ -42,7 +42,7 @@ Die Retter von Greenest erreichten den Dorfplatz. Der Schneesturm schien nochmal
 
 Die Helden von Greenest überwanden ihren Schrecken, zogen ihre Waffen und bereiteten ihre Zauber vor, als prasselnde Feuerbälle auf dem Marktplatz explodierten. Aus dem Gasthaus wurde ihnen ein Hinterhalt gelegt! Dämonen der Hölle tauchen auf und tauchten den Dorfplatz in magische Dunkelheit. Wieder und wieder explodierten Feuerbälle. Die Gefährten konnten sich kaum aus dem Bereich des Dorfplatz befreien und schafften es auch nicht ihre die Gegner zurückzudrängen. Den unbekannten Reiter Arauthators konnten Arvandor und Leosin noch schnell und gemeinsam im Nahkampf erledigen, doch gegen den riesenhaften, grünhäutigen Anführer der Dämonen schienen sie chancenlos. Hier und dort tauchte der geflügelte Gigant auf lies seine gewaltige Axt auf seine Gegner niedersausen. Leosin wurde niedergestreckt und blieb regungslos liegen. Arvandor wurde in einer Feuersäule gefangen. Magische Geschosse umgingen seine schier unüberwindliche Rüstung und die Feuerbälle, die von verborgenen Magiern geschleudert wurden, schienen niemals ein Ende zu nehmen.
 
-![Nycaloth](https://i.imgur.com/K6InC66.png)
+![Nycaloth](https://i.imgur.com/clK3rJU.png)
 
 Yona tauchte auf ihrem fliegenden Teppich unter magischem Feuer und Kälte hindurch und lies ihre Pfeile regnen. Tashenell kletterte wie eine Spinne in das Gasthaus und bekämpfte die Wegelagerer. Der Mann war im Nahkampf mit den insektenartigen Dämonen gefangen und versuchte sich selbst zum Affen zu machen.
 
@@ -56,7 +56,7 @@ Kaum hatten sie die letzten Hütten des Dorfes erreicht, da hörten sie über si
 
 ## Epilog
 
-![Rath Mordar](https://i.imgur.com/TDktWzC.png)
+![Rath Mordar](https://i.imgur.com/GBQhmvT.png)
 
 Ein gewaltiger Blitz zischte durch das Schneegestöber und traf Lysaleth, die einen Steinwurf weit zwischen den Gefährten und dem Weg zum Labyrinth aufschlug und von den jungen Stämmen einer kleinen Fichtenschonung im Fallen und Rutschen aufgehalten wurde.
 

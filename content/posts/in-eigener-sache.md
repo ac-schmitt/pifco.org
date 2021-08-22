@@ -5,7 +5,7 @@ author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/1R2GgqK.png
+  - https://i.imgur.com/ZEKSoEb.jpg
 tags: 
   - Encyclopaedia
   - Silverymoon
@@ -30,7 +30,7 @@ Mit der [_Meranwë_](/pdf/meranwe.pdf) und einigen Getreuen habe ich mich also a
 
 Die ersten erfolgreichen Geschäfte konnten wir bereits tätigen, auch dank der Hilfe von _Finufaranell_ aus der ehrenvollen Familie der _Durothil_. Von den Erben der berühmten _Xara Tantlor_ haben wir das Gebäude des _Shining Scroll_ und das angrenzende Wohnhaus auf _Brightbuckler Street_ erworben. Beides bedarf noch gründlichen Renovierungsarbeiten, aber wir sind uns sicher dass wir einerseits die Ladentätigkeit bald wieder aufnehmen und andererseits auch die Büroräume der Kanzeley PIF & Co dort unterbringen können.
 
-![Shining Scroll](https://i.imgur.com/pxNhhan.png)
+![Shining Scroll](https://i.imgur.com/Rqp793a.jpg)
 
 Die werte _Lysaleth_, von den heldenhaften Rettern von Greenest, hat eingewilligt, gemeinsam mit meiner Schwester und mir im _Shining Scroll_ tätig zu sein. So wandelt sie auf den Spuren ihrer berühmten Großtante _Mickey_, die in _Helgabal_ den weithin bekannten Kuriositätenladen mit Namen _Mickey's Nimmervoller Beutel_ geführt hatte.
 

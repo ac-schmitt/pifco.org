@@ -14,7 +14,7 @@ tags:
 
 Es sind nicht immer nur die großen Villen und Türme in der Stadt der Prächtigen, die das Vermögen einer Person ausmachen. Viel Bedeutender ist häufig der Besitz von Kleinodien, die, von fleissigen Menschen bewirtschaftet, kleine aber zuverlässige Erträge einbringen. Es ist mir eine Freude derlei Geschäfte zu machen, die mit Fug und Recht _Ehrlich_ genannt werden dürfen.
 
-![Fresh Worms Streetview](https://i.imgur.com/2eGZCkS.png)
+![Fresh Worms Streetview](https://i.imgur.com/WoblMWk.jpg)
 
 Dergestalt ist auch ein Halbhaus direkt an der Ecke Ship und Sternpost Street gelegen, das vor kurzem mit Hilfe unserer Kanzeley den Besitzer gewechselt hat. Es handelt sich um ein typisches halbes Endhaus für eine Straßenecke in der Stadt, 30 auf 20 Fuß im Grundriss mit 2 Vollgeschossen, einem Dachgeschoss und, als Besonderheit, zweifach voll unterkellert.
 

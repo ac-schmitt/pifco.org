@@ -16,7 +16,7 @@ Die Retter von Greenest und von Xonthal's Turm versorgten ihre Verletzungen und 
 
 Yona flog hoch über ihnen auf dem Rücken von Lysaleth, um mögliche Verfolger frühzeitig auszumachen. Ihr Weg führte sie über die Schlangenhügel, vorbei am Grab des Diderius und entlang der Windenden Wasser. Niemand kreuzte ihren Weg. Vermutlich wirkte die junge Kupferdrachin am Himmel über ihnen doch äußerst abschreckend gegenüber möglichen Wegelagerern.
 
-![Boareskyr Bridger](https://i.imgur.com/sG2ct5L.png)
+![Boareskyr Bridger](https://i.imgur.com/IHQxnPC.jpg)
 
 Als sie die Siedlung am nördlichen Ende der Brücke von Boareskyr erreichten, tauschten sie ihre Arbeitspferde gegen schnellere Reitpferde ein. Schneller als ihre Pferde waren lediglich die Gerüchte, die sich inzwischen um die Bezwinger von Arautathor an der Schwertküste verbreiteten: sie seien gar nicht die selbstlosen Beschützer der Schwachen und die Verteidiger der Siedlungen der Rechtschaffenen, sondern hätten sich dem Zhentarim angeschlossen. Oder vielmehr, bereits von Anfang an hätte das Schwarze Netzwerk sie als Agenten nach Greenest geschickt. Nur natürlich sei es, dass sie gemeinsame Sache mit Lord Dagult Neverember machten. Die Verhandlungen mit den Drachen sei auch nur deswegen erfolgreich gewesen, weil dort gleichermaßen Habgierige sich darauf verständigt hatten, die geraubten Schätze des Kultes nach einem Sieg unter sich aufzuteilen. Und eben nicht denjenigen zurückzugeben, denen es in den letzten Monden entwendet worden war.
 
@@ -28,7 +28,7 @@ Die Stimmung und die Situation entglitt den Rettern von Greenest im Laufe des Ge
 
 Während die Gefährten die Räume der Magierin verließen, baten sie noch darum ob es eine Möglichkeit gäbe, der Kupferdrachin Lysaleth Einlass in die Stadt zu gewähren. Mit einer Handbewegung versprach Lady Laeral sich um diese Angelegenheit zu kümmern und wandte sich der Drachenmaske zu.
 
-![Aurinax](https://i.imgur.com/XF40lLE.png)
+![Aurinax](https://i.imgur.com/hiCcDr5.png)
 
 Unterdessen hatten sich Yona und Lysaleth in einer einfachen Schänke niedergelassen, als ein ungewöhnlicher, in rot-goldenen Roben gekleideter Zwerg den Ort betrat. Alle Blicke richteten sich auf die drei und der Zwerg stellte sich als Aurinax vor. Mit seinem goldenen Stab berührte er Lysaleth, richtete Grüße von Lady Laeral aus und beschied, dass sie von nun an die Stadt wieder betreten könne. Lysaleth bedankte sich höflich und sie verloren keine Zeit um in die Stadt und zu ihren Gefährten zu eilen.
 

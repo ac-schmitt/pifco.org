@@ -36,7 +36,7 @@ Fünf alte Drachen bildeten den Rat, der die Prokura innehatte mit den Botschaft
 
 Letztere Bedingung erfüllt Halvan umgehend noch auf dem Gipfel des Morgenbergs. Als Zeichen ihres neuen Bundes schloss sich Lysaleth, eine junge Kupferdrachin und Schülerin der Tazmikella, den Rettern von Greenest an.
 
-![Kupferdrache](https://i.imgur.com/WNPoiuc.png)
+![Kupferdrache](https://i.imgur.com/ueIL3gN.png)
 
 ## Ein Umweg
 
