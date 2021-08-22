@@ -35,11 +35,11 @@ Im Inneren bewunderten die Geflüchteten die wundersame und gut erhaltene Darste
 
 Die meisten der Geflüchteten waren in diesen fremdartigen, aber erstaunlich gut erhaltenen Hallen ähnlich nervös wie _Yuk Yuk_. Nur _Paggen_, _Maeral_, _Gumba_ und _Snake Eyes_ trauten sich die Treppe hinab. _Gumba Kahn_ erscheint mir fast von fröhlicher Neugier und Entdeckergeist beseelt zu sein! Unten angekommen stellten sie fest, dass es sich bei dieser Anlage um eine Gruft handeln muss. Altare und Sarkophage liegen so unberührt wie einst da, nur die Kampfspuren an den Wänden sind stumme Zeugen einer Kampfhandlung, die nicht vor 3000 Jahren, sondern eher vor 3 Jahren stattgefunden haben muss.
 
-![Dungeon](https://i.imgur.com/Iy7BcjW.png)
+![Dungeon](https://i.imgur.com/R1dV33J.jpg)
 
 Vorsichtig erkundeten sie die Anlage. _Snake Eyes_ vermutet schon ganz richtig und naheliegend Untote in einer Gruft, aber seine Sinne offenbaren im nichts genaues. Er hat nur ein ganz schlechtes Gefühl. Im Raum mit den 4 Sarkophagen - wir haben ihn den Dienstbotenraum genannt - entdeckte _Maeral_ die Schleifspuren am Boden der Kammer. Kurzerhand versuchte er, mit der Hilfe von _Paggen_, den einen Sarkophag zu verschieben. Doch kaum hatte der sich in Bewegung gesetzt, entstiegen den vier steinernen Särgen jeweils ein schauerlicher Geist! 
 
-![Geister](https://i.imgur.com/cbuHpkq.png)
+![Geister](https://i.imgur.com/fmbzC7N.png)
 
 Jetzt gilt es! Auf in den Kampf mit den Untoten! Möge das Licht triumphieren!
 

@@ -20,7 +20,7 @@ Aber egal, hier haben sich ein paar Dinge zugetragen. Die Gefangenen wurden durc
 
 _Jorlan_ nutzte dann eine "gute" Gelegenheit. Der Außenposten wurde von Dämonen angegriffen. 6 fliegende Tanar'ri haben den Ort überfallen, 4 Chasme und 2 Vrock insgesamt. Ganz so wie die Dämonen, [die wir vor etwas über drei Jahren auf der Rauvinstraße bekämpfen mussten](https://pifco.org/posts/briefe-von-finufaranell-5/). Von den Chasme musste ich mich fern halten, die können mich bekanntlich aufspüren, falls ich in ihre Nähe kommen würde. Fürchterlicher Lärm war überall. Sieht wohl so aus, als ob sich die Tanar'ri im Underdark gemütlich eingerichtet haben.
 
-![Chasm](https://i.imgur.com/XjC7vnI.png)
+![Chasm](https://i.imgur.com/QiY4PZd.png)
 
 Im Tumult des Kampfes der Drow gegen die Dämonen konnten die meisten der Gefangenen entkommen. Vorerst. Ein paar von ihnen waren zwar so doof und wollten sich mit _Ilvara_ direkt anlegen, doch zu ihrem Glück wähnte sie sie wohl in ihrem [Web](https://www.dndbeyond.com/spells/web)-Zauber sicher gefangen und war eher darauf bedacht die gefährlichen fliegenden Scheusale aus dem Abyss zu bekämpfen. So schafften es die Ausbrecher sich doch noch zu befreien und mit einem Seil nach unten zu klettern. Wobei der hübsche Elf schon ganz dekorativ im Spinnennetz gezappelt hat. 💜
 

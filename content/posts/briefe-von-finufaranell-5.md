@@ -29,4 +29,4 @@ tags:
 >
 >Finufaranell aus dem Hause Durothil
 >___
-> {{< figure src="https://i.imgur.com/oGfSp9H.jpg" title="Silbrigmond" >}}
+> {{< figure src="https://i.imgur.com/d0LNh2f.jpg" title="Silbrigmond" >}}

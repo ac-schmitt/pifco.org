@@ -17,7 +17,7 @@ Unbeirrt durch den Angriff des großen blauen Drachen, halfen sie der Bevölkeru
 
 Einen erneuten Angriff konnten sie in die Flucht schlagen. Die heldenhaften Bogenschützen Arvandor und Tashenel überwandten ihre verständliche Furcht vor dem großen, blauen Drachen und schickten Pfeil um Pfeil nach dem Untier, bis dieses endlich den Rückzug antrat.
 
-![Greenest Keep](https://i.imgur.com/uI1eZmJ.png)
+![Greenest Keep](https://i.imgur.com/kI6NpLY.png)
 
 Gegen einen Sold ließen sich die Verteidiger von Greenest in die Dienste des Governors nehmen. Es gelang ihnen einen hochrangigen Gefangenen zu machen und ihn zu verhören. Dies verriet den Standort des Lagers der Kultisten von dem aus diese den Überfall auf Greenest gestartet haben.
 

@@ -14,7 +14,7 @@ Das dominierende politische Thema dieser Tage in Waterdeep ist natürlich [die R
 
 Dieser neu geformte Kult der Drachen hat sich gegenüber alten Zeiten gewandelt und reformiert. Und diese neue Ausrichtung dürfte auch einer der Gründe für den Erfolg des Kultes sein. Vorangetrieben wurde die Reform und die neue Geschlossenheit durch ihren charismatischen Führer Severin Silrajin aus Calimport.
 
-![Severin Silrajin](https://i.imgur.com/tmEgSLY.png)
+![Severin Silrajin](https://i.imgur.com/iqFgmH5.png)
 
 Er hat die versprengten Überreste des einstigen Totenkultes mit den Klerikern der Tiamat vereint und - wie wir inzwischen wissen - arbeitet an der Befreiung seiner Göttin aus ihrem Gefängnis in den Neun Höllen.
 

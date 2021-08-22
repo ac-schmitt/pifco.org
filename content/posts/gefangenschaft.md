@@ -5,7 +5,7 @@ author: "Eleint in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/GnURUIJ.png
+  - https://i.imgur.com/lUjkToC.jpg
 tags: 
   - Logbuch
   - Retter von Greenest
@@ -18,7 +18,7 @@ Dicke Spinnweben durchzogen die Äste der Bäume, die strenge Kühle des frühwi
 
 So erblickten sie schließlich durch den Nebel den gesuchten, verwunschen Platz tief im Wald mit dem idyllischen Wasserfall, der über eine Breite von leicht 8 Metern weit über 30 Meter tief in eine Gumpe stürzte.
 
-![Schrein von Eldath](https://i.imgur.com/GnURUIJ.png)
+![Schrein von Eldath](https://i.imgur.com/lUjkToC.jpg)
 
 Die uneinigen Helden von Greenest beratschlagten über das geeignete Vorgehen. Tashenell war ein Mann der Tat und kletterte am Wasserfall nach oben, befestigte dort sein magisches Seil und erkundete die Felsklippe hinter dem herabstürzenden Wasser. Und tatsächlich, knapp über der Gumpe war eine recht große Öffnung von vielleicht 5 Metern im Ganzen hinter dem hinabstürzenden Wasser verborgen. Groß genug für einen erwachsenen Drachen! Die Gefährten warteten verborgen unweit des Wasserfalls nahe dem Eingang zur Höhle und Tashenell schlich vorsichtig hinein. Er musste äußerst bedächtig sein, denn kurz nach der Öffnung ging es steil hinab und zusammen mit dem Wasser, das durch den Wasserfall in die Höhle eindrang, war es sehr glitschig und rutschig. Er schaffte es nach unten, ohne ein Geräusch zu verursachen und konnte in der Dunkelheit eine Gruppe von Waldelfen erkennen, die hier unten dem Anschein nach Wache zu stehen schienen. Vorsichtig machte er sich wieder auf den Weg zurück und informierte die übrigen, durchnässten Bezwinger von Arauthator über seine Erkenntnisse.
 
@@ -36,7 +36,7 @@ Bevor Lizzie noch tiefer in den Außenposten des Kultes vordringen konnte, löst
 
 Tashenell und Yona schlichen als Vorhut voraus, der Mann und Oba hintendrein und als Nachhut Arvandor und Halvan. Yona verbarg sich mit einem Unsichtbarkeitszauber, verlor jedoch beim Abstieg in die Höhle den Halt und schlug hart am Boden auf. Doch schienen sie nicht bemerkt worden zu sein und so schlichen sie tiefer hinein in die Dunkelheit. Das gleiche Schicksal ereilte den Mann und Oba und auch sie rutschten auf dem felsigen und matschigen Untergrund aus und polterten in die Tiefe. Jetzt sträubten sich Tashenell die Nackenhaare. Er befand sich wenige Meter vor den herabgestürzten Gefährten und drehte sich langsam zu ihnen um. Oben an der hohen Decke, bislang unbemerkt von den Gefährten, da war er: der riesige, grüne Drache Chuth. Und der zögert nicht lange. 
 
-![Chuth](https://i.imgur.com/e6zGEAu.jpg)
+![Chuth](https://i.imgur.com/mwOPtsj.jpg)
 
 Ranken und Wurzeln schossen aus dem felsigen Untergrund und schlangen sich um Oba und den Mann, als der Drache seinen giftigen Gasodem in Richtung Höhleneingang blies. Das Gift des Drachen wirkte und der Mann, Oba, Arvandor und Halvan wurden nahezu sofort getötet. Ihre Adern platzen, Oba hustete Blut und Arvandor kämpfte gegen den Schmerz und die Ohnmacht an, stürzte einen Trank der Riesenkraft hinunter und warf sich trotz allem in den Kampf. Oba schleuderte noch einen Feuerball hoch über sich gegen den Drachen, doch der Mann erkannte die Aussichtslosigkeit ihrer Lage und teleportierte sich und Oba aus der Gefahrenzone hinaus in den Wald vor der Gumpe.
 
@@ -44,7 +44,7 @@ Tashenell und Yona flüchteten in die Kammer der Ettins, wo die weibliche Anfüh
 
 Die beiden übrigen Ettin hatten zusammen mit Chuth vor eben diesem, verbliebenen Eingang Stellung bezogen und der Drache forderte die eingekesselten Helden von Greenest auf, sich zu ergeben, einzeln herauszukommen und ihre Waffen abzulegen. Recht zügig entschieden sich die Bezwinger von Arauthator diesmal das Angebot des Unentschieden durch den Drachen anzunehmen. Schnell verbargen sie noch wertvolle Besitztümer in ihrer Unterwäsche, setzten noch Notrufe per Gedankenmagie ab und ergaben sich dem grünen Drachen und dem elfischen Reiter. Besonders erfreut erschien Chuth über Yona zu sein, die er umgehend in seinen Hort bringen ließ. Der Mann hatte in der Zwischenzeit Oba zum Affen gemacht, doch auch diese beiden sollten sich den Kultisten ergeben, nachdem der Drache gedroht hatte den inzwischen gefesselten Arvandor zu töten, sollten sie fliehen oder kämpfen.
 
-![Karte von Neronvain’s Stronghold](https://i.imgur.com/vduQcxg.jpg)
+![Karte von Neronvain’s Stronghold](https://i.imgur.com/Cfsp1NO.jpg)
 
 Und so schien das Ende der Retter von Greenest gekommen zu sein. Diesmal bedurften sie der Rettung oder konnten sie sich doch von selbst aus ihrer misslichen Lage befreien?
 

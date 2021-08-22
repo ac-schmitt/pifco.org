@@ -28,7 +28,7 @@ In aller Frühe am nächsten Morgen holte der Mann mit der Macht seiner dunklen 
 
 Danach wollte sich der Mann dem Leichnam des Jorgen Pawl widmen, doch diesmal schlug sein Zauber zu  seiner Überraschung fehl. Was war geschehen? Der Mann wusste darauf keine Antwort als just zur Frühstückszeit angekündigt wurde, dass Rian Nightshade mit dem Abgesandten aus Thay für die Gefährten bereit stünden.
 
-![Nyh Ilmichh](https://i.imgur.com/a71QWeE.png)
+![Nyh Ilmichh](https://i.imgur.com/SXQXVDY.png)
 
 Der Abgesandte stelle sich als eine Frau heraus: die Rote Zauberin Nyh Ilmichh sprach die Einladung des Hochregenten Szass Tam aus, nach Thay zu kommen und mit Tharchion Eseldra Yeth über ein Bündnis zwischen der Allianz der Lords und den Roten Zauberern im Kampf gegen den Kult der Drachen zu verhandeln. Sie würde die Abgesandten des Rates nach Nethwatch teleportieren und der ehrwürdige Szass Tam selbst garantiert für ihre Sicherheit und ihre sichere Rückkehr an die Schwertküste. 
 

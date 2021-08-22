@@ -26,7 +26,7 @@ Ich habe mir Zeit genommen die Lage vor Ort genauer zu beobachten. Zuerst und am
 
 Herrin von Velkynelve ist Priesterin _Ilvara aus dem Haus Mizzrym_. Für eine Tochter aus diesem Hause finde ich es ungewöhnlich, dass sie mit dieser Aufgabe betraut worden ist. Ihr Auftreten, ihre Kleidung und Ausrüstung sagen: Hohepriesterin. Fehlt eigentlich nur der offizielle Titel und die Schlangenpeitsche. 
 
-![Ilvara Mizzrym](https://i.imgur.com/IxpLzUd.png)
+![Ilvara Mizzrym](https://i.imgur.com/EM7TDey.png)
 
 Ihre rechte Hand ist die junge Klerikerin _Asha aus dem Haus Vandree_. Hauptmann der Garde ist ein Verwandter der jungen Priesterin mit Namen _Shoor Vandree_. Insgesamt befinden sich in der Siedlung fast 2 Dutzend Drow-Krieger mit der erwartbaren, hochwertigen Ausrüstung bestehend aus Kettenhemden oder dunklem, beschlagenem Leder, Kurzschwertern, Schilden und Armbrüsten. Ein Dutzend wuchtiger Quaggoths stellen die Hilfstruppen. Die Anwesenheit von Priesterinnen der Lolth und die dicken Spinnenweben knapp unterhalb der Siedlung zwischen den Stalaktiten lassen mich vermuten, dass auch Spinnen von außergewöhnlicher Größe (Svag) in der Nähe sind: „Wenn es aussieht wie eine Ente, schwimmt wie eine Ente und quakt wie eine Ente, dann ist es wahrscheinlich eine Ente.“ In dem Fall halt ne Spinne.
 
@@ -36,15 +36,15 @@ Insgesamt 15 Gefangene werden in Velkynvelve festgehalten. Ich habe ihre Namen i
 
 Also fangen wir gleich mit einem Zwerg an, sein Name ist _Gumba Kahn_, scheinbar ein Kleriker oder Druide - zumindest versuchte er sich erfolglos an dergleichen Zauber. Er kommt wohl aus dem Moonwood, wie auch ein Elf mit dem Namen _Maeral vom Haus Thaorael_. Nie gehört das Haus. Magiekundig ist er wohl, vermisst sein Zauberbuch. Der Dritte in diesem Bunde von Kerlen, die scheinbar gemeinsam gefangen wurden ist ein Waldgnom, der auf den Namen _Paggen Fonkin Fibblestib Eldon Sindri Kellen Targelby_ hört. Von Beruf Handwerker. Er wurde von Priesterin _Ilvara Mizzrym_ zu ihren persönlichen Diensten eingeteilt und er darf sowohl Speisen Vorkosten, als auch den Tempel der Lolth putzen. Ich hoffe für ihn, er lässt die Spinnweben dort wo sie sind, sonst wird das ein kurzer Aufenthalt in Velkynvelve für ihn. Die Neuankömmlinge von der Oberfläche komplettiert die junge Stammeskriegerin _Anselma Eddadóttir_. Dem Namen, ihrem Aussehen und ihrem Dialekt nach würde ich sagen, es handelt sich hierbei um eine Kriegerin eines der Reghed-Stämme. Sie hat die Aufmerksamkeit von einem der Hauptleute der Drow "erregt", vermutlich wegen ihrer hübschen Brüste. Ein narbengesichtiger Krieger, der auf den Namen _Jorlan Duskryn_ hört. Sie teilt das Bett mit ihm und kommt so an manche Annehmlichkeit heran. Ach so, ja wie konnte ich diesen anderen vergessen. Ein ungewöhnlicher, silberner Drachenblütiger aus Tymanther, Typus Heiliger Krieger von Bahamut. _Oda-Nobunaga Daardendrien_ wird er genannt. Ganz schön groß, diese Drachlinge. Und ganz schön doof für ihn, bei seiner ersten Reise in den Norden gleich in die Hände der Drow zu fallen.
 
-![Buppido-Derendil-Eldeth](https://i.imgur.com/rJqhX9p.png)
+![Buppido-Derendil-Eldeth](https://i.imgur.com/Jakk9CE.png)
 
 Bereits vor Ort eingesperrt waren noch ein paar andere Gestalten. _Buppido_, ein Derro der überraschend viel Konversation betreibt. _Derendil_ ist ein gefangener Quaggoth und ungefähr so riesig wie der Drachenblütige. Er glaubt gar kein Quaggoth zu sein, sondern ein verfluchter elfischer Prinz aus dem Königreich Nelrindenvane im High Forest. Ganz so wie bei dem buchstäblichen Elfen habe ich auch davon noch nie gehört, könnt ihr euch das vorstellen? Ein übler Zauberer mit Namen _Terrestor_ soll ihn verflucht haben. Da klingelt nix. Eine weitere Zwergin, _Eldeth Feldrun_, fristet ihr Dasein in dem Verließ von Velkynvelve. Sie ist eine Kundschafterin aus Gauntlgrym.
 
-![Jimjar-Ront-Sarith](https://i.imgur.com/q8YqpDE.png)
+![Jimjar-Ront-Sarith](https://i.imgur.com/qjdnx0G.png)
 
 _Jimjar_ ist einer der gefangenen Tiefengnome und derjenige, der sich noch am meisten mit den anderen abgibt. Scheint irgendeine Form von Spielsucht zu haben. Dazu kommt ein Ork, dessen Namen ich nicht verstanden habe. Vermutlich Gronz oder Rompf oder _Ront_ oder so ähnlich. War der schon da oder kam der mit den Oberflächenbewohnern an? Weiss ich nicht mehr genau. Oh ja, auch einen der ihren haben die Drow eingesperrt. _Sarith Kzekarit_ wird des Mordes an anderen Drow beschuldigt. Wusste gar nicht, dass das ein Verbrechen bei den Drow ist.
 
-![Shuushar-Hocker-Topsy&Turvy](https://i.imgur.com/jwASdvx.png)
+![Shuushar-Hocker-Topsy&Turvy](https://i.imgur.com/tNrro4G.png)
 
 Bleiben noch der froschige Kuo-Toa _Shuushar_, der wenig sagt und wenig macht. Der kleine _Hocker_ ist ein Myconid und irgendwie süß. Ein laufender Pilz! Er hat sich wohl schon mit der Menschenfrau und dem Drachenblütigen angefreundet. Und schließlich _Topsy_ und _Turvy_, Svirfneblin und Brüder. Komische Kautze, der eine murmelt ständig nach, was der andere vorher gesagt hat.
 

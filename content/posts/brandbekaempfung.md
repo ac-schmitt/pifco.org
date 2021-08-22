@@ -18,7 +18,7 @@ Gerade als sie dabei waren zu entscheiden, ob sie sich mit ihrer Beute - der leg
 
 Sein Name sei Kimmuriel und ein bestimmter Tashenell hätte einen gewissen Gromph um Hilfe gebeten. In Anbetracht der Lage, sei das wohl etwas übertrieben gewesen, so der außerst distanziert wirkende Dunkelelf. "Aber Aurathator und die Drachenschwester, mein Freund", hörten sie einen weiteren Dunkelelfen sprechen, der scheinbar wie aus dem Schatten von Kimmuriel vor sie trat. Im Gegensatz zum ersten Dunkelelfen war dieser hier großgewachsen und äußerst elegant gekleidet, mit einer Augenklappe und einem federgeschmückten, breitkrempigen Hut auf dem Kopf. "Jarlaxle, zu euren Diensten", stellte er sich mit einer geschmeidigen Verbeugung vor. Lysaleth schnaubte verächtlich.
 
-![Jarlaxle](https://i.imgur.com/f6IR6u9.png)
+![Jarlaxle](https://i.imgur.com/dc0LrGK.png)
 
 Die Helden von Greenest erläuterten den beiden die Gesamtsituation, mit der sie eher unzufrieden waren. Jarlaxle krammte ein paar weitere Tränke aus seiner nimmervollen Tasche hervor und entschied gemeinsam mit Lysaleth den Drachenschwestern im Kampf gegen Aurauthator zur Hife zu eilen. Kimmuriel blieb schulterzuckend in Xonthal's Turm bei den Gefährten. Sie sammelten ihre Kräfte und begannen ihren Gegenangriff.
 

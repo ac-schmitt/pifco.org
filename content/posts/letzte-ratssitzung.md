@@ -14,7 +14,7 @@ tags:
 
 Die Helden von Greenest waren zurück in Waterdeep. Durch das Nordtor betraten sie die Stadt und suchten umgehend ihr Quartier in Piergeirons Palast auf. Yona informierte Lady Laeral Silverhand über ihren Verhandlungserfolg mit den Roten Zauberern, während diese gemeinsam mit Remallia Haventree, Sir Isteval und Taern Hornblade über einer Karte der Hartlande zu Rate saßen. Laeral zeigte sich erleichtert ob des Erfolgs und versicherte der Sprecherin der Abgesandten des Rates, dass diese Hilfe auch sehr nötig sei. Die anderen reagierten erwartungsgemäß zurückhaltender als die Offene Lady von Waterdeep, doch sie waren alle ob der Ereignisse besorgt, welche die Spione der Harfner von der Quelle der Drachen berichtet hatten.
 
-![Karte des Umlandes der Quelle der Drachen](https://i.imgur.com/ISqagx8.jpg)
+![Karte des Umlandes der Quelle der Drachen](https://i.imgur.com/qhVvoA1.jpg)
 
 Das Ritual sei in Gang gesetzt worden, die chromatischen Drachen und die Kultisten am Vulkan der Quelle zusammengezogen. Über dem Vulkan kreisten hunderte, wenn nicht sogar über tausend Drachen. Die Angriffe auf das Umland und die umliegenden Siedlungen seien praktisch eingestellt worden. Es sei recht schwer den Beschwörungsort zu erreichen, die fliegenden Drachen wären äußert wachsam, so die Berichte der Spione.
 

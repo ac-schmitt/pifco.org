@@ -5,7 +5,7 @@ author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/cAJjOTG.jpg
+  - https://i.imgur.com/XWCzTjO.jpg
 tags: 
   - Logbuch
   - Retter von Greenest
@@ -16,7 +16,7 @@ Auf dem unteren Hof der fliegenden Festung sahen sich die Retter von Greenest ih
 
 Durch den holprigen Teleporationszauber noch geschwächt und unschlüssig ob der überraschenden Szene vor ihnen, entschieden die Bezwinger von Arauthator erstmal eine bessere Deckung zu suchen. Die Baracke unweit ihres Annkunftsortes stand offen und - da es sich um eine Festung der Riesen handelte - bot auch Lysaleth leicht genug Platz.
 
-![Skryreach Castle](https://i.imgur.com/mk6mgB9.png)
+![Skryreach Castle](https://i.imgur.com/mlXUZIl.jpg)
 
 Tashenell, Oba und Yona eilten von dort aus auf einen der Festungstürme des riesenhaften Eingangsportals um einen besseren Blick in den Hof zu haben. Arvandor und der Mann sicherten den Eingang der Baracke. Jamna hatte inzwischen ebenfalls ihre Überraschung abgeschüttelt und begrüßte die Helden. Sie musste sich sehr anstrengen und schreien, damit sie über den Hof der Riesenfestung zu verstehen war. Sie gab sich als Abgesandte der Allianz der Lords aus, der rote Drache und ihr humanoider Begleiter als ihre Leibwächter. Arvandor und der Mann glaubten ihr zwar kein Wort, schienen aber zunächst davon überzeugt, dass hier nicht unmittelbar ein Kampf drohte und überquerten den Hof.
 
@@ -32,7 +32,7 @@ Nach außerordentlich langen und grundlegenden Überlegungen verworfen die nachd
 
 Es sollte keine geruhsame Nacht werden. Mitten in der Wache des Oba wurde die Festung vom Kult überfallen. Ein schwarzer Drache und mehrere dämonische Wesen waren bereits im Kampf mit Xovakh und Girronyr als Oba den Kampflärm und die Alarmrufe des Leibwächters von Jomna bemerkte. Die verbliebenen Retter von Greenest griffen in den Kampf ein. Yona und Oba suchten die Aufmerksamkeit der beiden etwa menschengroßen Insektoiden, während Halvan und der Mann die Auseinandersetzung mit den Dämonen suchten, die gegen Xovahk kämpften und aussahen wie eine Kreuzung aus Gargoylen und Ogern. Der rote Drache Girronyr kämpfte in der Luft gegen den schwarzen Angreifer. 
 
-![Insektoid](https://i.imgur.com/OoYJOjy.png)
+![Insektoid](https://i.imgur.com/J9zAKXM.png)
 
 Es gelang ihnen gemeinsam die Angreifer in die Flucht zu schlagen, als schließlich die Riesen auf dem unteren Festungshof ankamen. Allerdings mussten sie während des Kampfes feststellen, dass die dämonischen Wesen allesamt recht unbeeindruckt von magischen Blitzen und dem Feuer waren, dass Halvan und Oba heraufbeschworen. Halvan musste erschreckt feststellen, dass er trotz seiner überlegenen Unsichtbarkeit aufgespürt werden konnte. Und die meisten Pfeile von Yona - sonst tödliche Geschosse - waren auch eher nur lästige Mückenstiche für ihre Gegner. Der Glaubenswächter der dunklen Göttin des Mannes und das silbrig schimmernde Zweihandschwert von Xovahk hingegen schienen weitaus wirkungsvoller zu sein.
 

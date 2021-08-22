@@ -14,7 +14,7 @@ tags:
 
 Der _Jadetänzer_ ist eine bekannte Taverne und Festhalle im Südviertel von Waterdeep. Der dreistöckige Gebäudekomplex liegt in der Mitte zwischen High Road, der Coach und der Slop Street direkt am sogenannten Tanzplatz.
 
-![Jadetänzer](https://i.imgur.com/MxODAZs.png)
+![Jadetänzer](https://i.imgur.com/Xkx7hC5.jpg)
 
 Eine Besonderheit der Lokalität ist, dass sie sich nicht im privaten Besitz befindet, sondern von der Participant-Gesellschaft an die Betreiber verpachtet wird. Finanzkräftige Einwohner von Waterdeep können eine Patronage erwerben und werden damit Teilhaber, oder Patrone des Jadetänzer.
 

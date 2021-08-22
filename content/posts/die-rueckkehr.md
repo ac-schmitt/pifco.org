@@ -5,7 +5,7 @@ author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/qqMWjxq.png?1
+  - https://i.imgur.com/9raPWEO.png?1
 tags: 
   - Logbuch
   - Retter von Greenest
@@ -14,7 +14,7 @@ tags:
 
 Die Helden von Greenest waren nach Waterdeep zurückgekehrt. Doch kaum jemand hatte von ihnen Notiz genommen. Obwohl ihr Schiff, die gefürchtete Meranwë unter dem Kommando der unbarmherzigen Piratin Aruunsha, in den Kampf um das Hafenbecken eingegriffen hatte, redeten doch alle am Tag nach diesem nur von der epischen Rückkehr von Lady Laeral Silverhand. Und wie sie und Vajra Safahr gemeinsam mit einem silbernen Drachen es verstanden, die vier roten Drachen in die Flucht zu schlagen, welche die Hafenanlagen und Schiffe in dieser Nacht in Brand gesteckt hatten.
 
-![Lady Laeral](https://i.imgur.com/qqMWjxq.png?1)
+![Lady Laeral](https://i.imgur.com/9raPWEO.png?1)
 
 Vielleicht ist es aber den edlen Recken aus dem fernen Süden gar nicht so unrecht gewesen, dass nicht sie es waren, auf denen all die Aufmerksamkeit der Bevölkerung der Stadt der Prächtigen gerichtet war. So konnten sie leichter die beträchtlichen Reichtümer an Land schaffen, die sie den Klauen von Arauthator, dem alten, weißen Tod, entrissen hatten.
 

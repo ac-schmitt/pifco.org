@@ -5,7 +5,7 @@ author: "Uktar in the Year of the Star Walker's Return, DR 1490"
 draft: false
 toc: false
 images:
-  - https://i.imgur.com/BHg2Gg5.jpg
+  - https://i.imgur.com/rZMMtfJ.jpg
 tags: 
   - Logbuch
   - Retter von Greenest
@@ -24,7 +24,7 @@ Die Retter von Greenest beratschlagten untereinander und mit ihren Verbündeten 
 
 Lysaleth wurde gebeten, zwei weitere Drachen zu rufen, damit die Abgesandten des Rates möglichst schnell zu den südlichen Ausläufern der Grauen Gipfel und zur Ortschaft mit dem Namen Xonthals Turm reisen konnten. Die Siedlung, die sich um den alten, verlassenen Turm mit seinem verwilderten Irrgarten gebildet hatte, ist im Laufe der Zeit aus den Familien der Lehrlinge, die bei Xonthal studieren wollten, entstanden. Parnast und das Jagdhaus, zu dem die Helden von Greenest in früheren Abenteuern gereist waren, lag nur etwa hundert Meilen entfernt im Norden von Xonthals Turm. Kann das ein Zufall sein?
 
-![Weg von Waterdeep nach Xonthals Turm](https://i.imgur.com/2hsFz9E.png)
+![Weg von Waterdeep nach Xonthals Turm](https://i.imgur.com/EdVZ4TW.jpg)
 
 Wenige Tage nach dem Angriff auf Skyreach Castle waren also die Vorbereitungen für das nächste Abenteuer der Retter von Greenest abgeschlossen. Lysaleth stellte den Sonderbeauftragten der Allianz zwei weitere Angehörige ihres Volkes in menschlicher Form vor - genau genommen bedurfte es nur einer Vorstellung - von den Schwestern Tazmikella und Ilnezhara waren die Gefährten bereits mit Tazmikella bekannt. Die Kupferdrachin war es, mit der sie vor wenigen Wochen noch in den Netherbergen verhandelt hatten. "Mickey" und "Lady Zee" übrigens für Freunde, wie Lysaleth anmerkte. Auf dem Rücken der Kupferdrachen, Tazmikella und Ilnezhara waren in ihrer wahren Form deutlich größer als die junge Lysaleth, flogen sie gemeinsam über die nördlichen Ausläufer des Hochmoors nach Osten.
 
@@ -34,7 +34,7 @@ Wenige Tage nach dem Angriff auf Skyreach Castle waren also die Vorbereitungen f
 
 Von oben sah alles so aus, wie sie es aufgrund eigenem Wissen und Erzählungen erwartet hatten: eine mittelgroße Siedlung von 300, vielleicht 500 Menschen, nahe dem verlassenen Turm des fast vergessenen Erzmagiers Xonthal. Um den Turm herum war der ikonische Irrgarten längst zu einer über hundert Meter durchmessenden, undurchdringlichen Dornenhecke verwachsen. Sie landeten außerhalb der Siedlung und außerhalb der Sichtweite der Einwohner und des Turms. Der Mann und Yona legten magische Verkleidung an und wurden von Leosin und Lysaleth zum Dorf begleitet. Im Gasthaus wurde ihnen recht bereitwillig Auskunft gegeben: der Turm sei seit ewigen Zeiten verlassen, seine Magie aber mächtig und präsent. Im Irrgarten bestünde die Gefahr, dass Kinder und Tiere verloren gingen, daher sei der Eingang abgesperrt. Glücksritter suchten hin und wieder nach Schätzen und Artefakten, von denen sei aber kaum jemand jemals wieder aufgetaucht. Einen Weg durch den Irrgarten sei unbekannt oder es gäbe ihn nicht mehr. Die Kinder berichteten gegen den Willen der Erwachsenen von mancher Mutprobe, einäugigen Riesen im Labyrinth, aber auch davon, dass seit diesem Jahr wieder Lichter und Bewegung am Turm zu sehen gewesen sein wäre. Auch ein blauer Drache soll gesehen worden sein. Alles dummes Kindergeschwätz meinten die Erwachsenen.
 
-![Xonthals Turm](https://i.imgur.com/BHg2Gg5.jpg)
+![Xonthals Turm](https://i.imgur.com/rZMMtfJ.jpg)
 
 Die Retter von Greenest wollten sich nun selbst ein Bild von Turm und Irrgarten machen. Vom Boden aus wirkte zumindest die äußere Hecke sehr gepflegt, aber als Yona ihren magischen Familiar schickte und später sie und Tashenell auf dem fliegenden Teppich den Irrgarten überquerten, bot sich ihnen das Bild, das sie auch bereits vom Rücken der Drachen und von weiter oben hatten: der Irrgarten war inzwischen eine einzige, riesige und dichte Dornenhecke. Und der Turm, den sie näher in Augenschein nahmen, war ein Scheinturm: wie das in Stein gehauene Abbild eines Turms, wo Fenster und Türen gewesen sein sollten, waren nur die Simse in den Stein gehauen. Doch während Yona und Tashenell den Turm untersuchten, konnten ihre Gefährten von außerhalb des Irrgartens eine Szene oben auf der Spitze des Turmes beobachten. Ein Mensch in dunklen Roben erschien und schrie über den Irrgarten: "Retter von Greenest, ich bin entdeckt! Ich habe die Maske und verstecke mich unter dem Turm! Sucht mich dort!" Eine zweite Gestalt erschien und es kam zum Kampf. Im Gerangel stürzte die zweite Gestalt über die Brüstung des Turmes in die Tiefe und der Mensch in dunklen Roben – Iskander möglicherweise - verschwand wieder im inneren des Turms von Xonthal.
 

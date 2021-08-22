@@ -35,13 +35,13 @@ Eine Falltür in ihrer Jurte führte tiefer in den Berg und die Helden schlichen
 
 Ein kurzer, harter Schlag und ein Überraschungsangriff sollte es werden. Keine Verhandlungen, kein Reden. Direkt hinab in den Hort und alles gegen den Drachen schleudern, was die Helden aufzubringen imstande waren. Sollte es gelingen, den alten Drachen eine ernsthafte Wunde beizubringen, so würde er eher vom Eisberg fliehen und besser vorbereitet zurückkehren, als den Kampf bis zum bitteren Ende zu führen. Je länger allerdings der Kampf dauern würde, desto sicherer sei es, dass der Drache obsiegen werde. Sie übergab einen Ring, der vor Kälte schützte und 2 Pfeile des Drachentötens an die Helden. Während Yonas Familiar einen kurzen Blick in die Drachenhöhle warf und den alten Drachen schlafend vorfand, wurde Tashenell heimlich herbeigeholt und die jetzt insgesamt 3 Pfeile des Drachentötens so aufgeteilt: 2 Pfeile für Yona und 1 Pfeil für Tashenell. Der Ring des Kälteschutzes wurde an Arvandor übergeben, die 4 Tränke des Schutzes vor Kälte getrunken und Oba hüllte <br/>sich einen Feuerschild. Eine großer <br/>Unsichtbarkeitsszauber verbarg <br/>Yona vor den Blicken des <br/>Drachen und Maccath <br/>versah sie und <br/>Halvan mit <br/>einem <br/>Flugzauber.
 
-![Arauthator](https://i.imgur.com/zAb8Npz.png)
+![Arauthator](https://i.imgur.com/UaQjeAG.png)
 
 ## Mit Affengebrüll
 
 Die Retter von Greenest waren bereit und gerüstet für den größten Kampf ihres Lebens. Doch halt. Noch nicht  ganz. Bevor sich unsere Helden hinab in den eisigen Hort des Drachen stürzten machte der Mann den Elfen erst noch zum Affen. Genauer gesagt zu einem Riesenaffen mit weißen Fell. Einem, mit Magie außergewöhnlich schnell gemachten Riesenaffen mit weißem Fell. Also ein weißer Riesenaffenblitz. 
 
-![Riesenaffe](https://i.imgur.com/WCR4ICi.png)
+![Riesenaffe](https://i.imgur.com/9lOoIA1.png)
 
 Jetzt erst waren die heldenmutigen Retter von Greenest bereit zum Kampf. Mit einem Affengebrüll stürzten sie hinab in den Bauch des Eisbergs. Mit einem Affenzahn erreichte der verwandelte Arvandor den Drachen bevor dieser auch nur "Affe" sagen konnte und hieb mit seinen Affenpranken auf Arauthator ein, kurz nachdem bereits ein Feuerball von Oba seine Wirkung nicht gänzlich verfehlt hatte. Der Kampf war eröffnet und gleich in vollem Gange. Halvan schleuderte einen Blitz auf den Drachen und Yona traf mit dem ersten der beiden Todespfeile die geschuppte Bestie. Der Rest der Gruppe war noch auf der Suche nach einer guten Position, um in den Kampf einzugreifen, als der angeschlagene Herr des Eisbergs zum Konter ansetzte.
 

@@ -32,7 +32,7 @@ Schließlich traf ich auf sie, als flüssige Lava aus den Wänden schoss! Ui! Fa
 
 Wo war ich? Ach ja, die Fliehenden. Abgesehen von ein paar Brandwunden geht es allen scheinbar ganz gut. Sie wollen wirklich durch den _Darklake_. In den Satteltaschen des _Carrion Crawlers_ waren noch Vorräte und die Barbarin _Anselma_ hat Marderhunde und Skorpione gefangen. Verhungern werden sie wohl auch nicht. Außerdem hat _Gumba Kahn_ noch Pilze entdeckt. _Shuushar_ kennt die Pilze ganz gut, einer davon ist der leuchtend orangene _Fire Lichen_, der sich als Gewürz eignet, die andere Pilzart sind _Trillimac_, aus denen man so etwas ähnliches wie Brot kochen kann.
 
-![Underdark Fungi](https://i.imgur.com/XHEpXRu.png)
+![Underdark Fungi](https://i.imgur.com/g73cxQr.png)
 
 Die entflohenen Drow-Sklaven haben es sehr eilig. _Sarith_ wirkt inzwischen etwas genervt, weil er nicht genug Zeit hat, den richtigen Pfad zu bestimmen. Andererseits wirkt er immer etwas genervt. Möglicherweise sollten sie etwas weniger hektisch vorgehen. So werden sie ihre Häscher sicher einfangen, bevor sie die ersten Ausläufer des _Darklake_ erreichen können.
 

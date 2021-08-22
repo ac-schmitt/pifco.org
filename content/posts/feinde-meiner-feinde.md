@@ -24,7 +24,7 @@ Nyh Ilmichh führte sie ins Innere der Festung, geradewegs auf den mächtigen Ha
 
 In einem Thronsaal des Hauptturms erwartete sie Tharchion Eseldra Yeth zusammen mit 10 weiteren Roten Zauberern und einem halben Dutzend der untoten Kämpfer als Ehrengarde. Die Tharchion begrüßte die Botschafter der Allianz und machte nochmals klar, dass sie hier im Namen des ehrwürdigen Szass Tam, dem unangefochtenen Herrscher des Landes, mit ihnen spreche.
 
-![Eseldra Yeth](https://i.imgur.com/bZ2nuGb.png)
+![Eseldra Yeth](https://i.imgur.com/pBcOkBC.png)
 
 Sie stellte ihnen sehr gezielte Fragen rund um die aktuelle Lage in der Auseinandersetzung mit dem Kult der Drachen. Die Retter von Greenest antworteten ihrer möglichen Verbündeten vorsichtig, aber doch sehr ehrlich und die Herrin der Festung verabschiedete sich mit der Ankündigung, dass sie im Morgen weiter mit ihnen verhandeln werde, nun aber erstmal Rücksprache mit ihrem Herrscher halten wolle. Für die Botschafter seien Räume vorbereitet worden und sie mögen alle Annehmlichkeiten erhalten, die ihnen von Rang wegen zustünden.
 

@@ -20,7 +20,7 @@ Die Abgesandten des Rates sondierten zunächst vor Ort die Lage. Das Bild sollte
 
 Die bewanderten Retter von Greenest machten sich mit leichtem Gepäck auf in den Nebelwald. Sie sollten feststellen, dass der Name des über 150 Meilen in der Länge messenden, dunklen Waldes nicht von ungefähr kam. Sie konnten im Wald kaum die Hand vor Augen sehen und nur mit Mühe und mit Hilfe von Magie gelang es ihnen schließlich die Siedlung Altand zu erreichen.
 
-![Altand](https://i.imgur.com/2FldMlo.png)
+![Altand](https://i.imgur.com/bZraOQ2.png)
 
 Die eingeborenen Elfen freuten sich über die Abgesandten des mächtigen Rates der Allianz der Lords und wähnten ihre Chancen mit dem Leben aus diesem Krieg davon zu kommen nun deutlich höher als noch zuvor. Doch Galin, der neue Stammesführer, gehörte dem Anschein nach nicht dazu. Sein zurückhaltendes Verhalten erweckte den Verdacht der äußerst misstrauischen Sondergesandten. Und mit ihrem Misstrauen sollten sie letztlich recht behalten. Der Stammesführer hatte beim Angriff des grünen Drachen und im Angesicht des grausamen Todes seiner Frau und seines Freundes, dem Schamanen von Altand, einen Pakt mit dem grünen Drachen und seinem Reiter geschlossen. Zu später Stund, in tiefster Nacht, traf er sich mit dem Kultistenführer, doch Yona konnte beide aufspüren. Sie versteckte sich, berichtete den missmutigen Gefährten und diese unterzogen Galin einem peinlichem Verhör.
 

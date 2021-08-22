@@ -28,7 +28,7 @@ Lysaleth nahm nach der Landung ihre menschliche Gestalt an und die Abgesandten d
 
 Nach der Audienz wartete ein Botenjunge aus dem Palast bei den Räumlichkeiten auf sie, welche die Abgesandten des Rates im Palast bewohnten: Ich hatte eine Nachricht für sie empfangen und bat die Helden von Greenest auf diesem Wege dringlich, mich in unserer Kanzeley aufzusuchen. Egal wie spät die Stunde auch sei. Dem kamen die beiden auch nach und klopften zur Nachtzeit an meine Türe.
 
-![Adresse des Büros der PIFco](https://i.imgur.com/nBteH3Z.png)
+![Adresse des Büros der PIFco in Waterdeep](https://i.imgur.com/7PXrWmi.jpg)
 
 Über verschiedene Umwege hatte mich diese Botschaft erreicht, da inzwischen bekannt ist, dass wir für die ehrenwerten Retter von Greenest gewisse Beratungsmandate halten. Soweit dies bei solchen Nachrichten möglich ist, hatte ich die Echtheit geprüft, über die lauteren Absichten hingegen konnte ich wenig sagen. Es klang durchaus wie nach einer Falle:
 
@@ -40,7 +40,7 @@ Nach der Audienz wartete ein Botenjunge aus dem Palast bei den Räumlichkeiten a
 
 Am nächste Morgen hatte es Lady Laeral vermocht, den gesamten Rat im silbernen Saal des Palasts von Piergeron zu versammeln. Wie häufig bei diesen Versammlungen erschienen die Abgesandten mit je einer Begleiterin oder einem Begleiter. Lady Remallia beispielsweise wird häufig von dem Mönch Leosin Erlanthar begleitet, während die Herren Sir Isteval, Sir Frume und Marschall Ravengard auf die Dienste von Knappen oder militärischen Offizieren zurückgriffen. Ungewöhnlich und neu war die Begleiterin von Lord Neverember: eine rothaarige, in dunkles Leder gekleidete Tieflingsfrau mit ausgeprägten Hörner auf dem Kopf und einem ungewöhnlich großen Schwanz.
 
-![Rian Nightshade](https://i.imgur.com/UoXqHg2.png)
+![Rian Nightshade](https://i.imgur.com/AzpI9Pq.png)
 
 Lady Laeral eröffnet die Sitzung und gab das Wort direkt an die Abgesandten des Rates und Arvandor aus dem Hause Galandur begann mit seinem Bericht. Der Pakt mit den metallischen Drachen sei geschlossen, Skyreach Castle gefunden und die Wolkenriesen ebenfalls von einem Bündnis überzeugt. Die Bedingungen im Falle von König Blagothkus waren für den Rat leicht zu akzeptieren, jedoch regte sich Unmut als Arvandor von den Zugeständnissen an die Drachen berichtet. Trug es schon nicht zur allgemeinen Stimmung bei, dass die mächtigen Drachenartefakte und ein Großteil des Hortes der Tiamat an die Drachen versprochen werden mussten, war König Melandrach außer sich, als Arvandor von der Verpflichtung zur Entschuldigung für den längst vergangenen und vergessenen Mythal berichtete. Connerad Brawnanvil beschwichtigte den Elfenkönig nur solange, bis er selbst erfuhr, dass auch vom Zwergenvolk eine Entschuldigung für den Tod des Gefährten der Otaaryliakkarnos erwartet wurde, inklusive einer Rückgabe von Artefakten und sterblichen Überresten desselben. Arvandor appellierte an die Ehre der alten Völker und beschwor den zwergischen Botschafter "Größe zu zeigen", was eine gewisse Heiterkeit bei Lord Neverember und seiner Begleiterin auslöste.
 

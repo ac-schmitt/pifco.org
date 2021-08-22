@@ -14,7 +14,7 @@ tags:
 
 Während der Kult der Drachen den Ort der Beschwörung ihrer fünfköpfigen Göttin verteidigte und die strategisch wichtigen Orte Scornubel, Iriaebor und Proskur angriff, befanden sich die Retter von Greenest etwas weiter davon entfernt im Norden vor Xonthal's Turm.
 
-![Karte der Angriffe](https://i.imgur.com/Li1fkdi.jpg)
+![Karte der Angriffe](https://i.imgur.com/i1cU6so.jpg)
 
 Mit dem Rat der Allianz hielten sie Kontakt durch Zaubersprüche und erhielten die Bitte, metallische Drachen in die Hartlande zu entsenden. Die beiden Kupferdrachinnen Tazmikella und Ilnezhara sicherten zu, diese Bitte schnell weiterzugeben. Genauso schnell im übrigen, merkte Tasmikella an, wie sie mit diesem blauen Drachen im Norden fertig werden würde. Sie lies die verdutzten Abgesandten des Rates vor dem Irrgarten des Xonthal zurück und flog in Richtung der Berge davon. Ihre Schwester Ilnezhara teilte den Helden von Greenest mit, dass sie - anstatt mit ins Labyrinth zu kommen - besser die Siedlung beschützen wird. Der Kult wisse wohl spätestens jetzt, dass sie hier seien und sie befürchte, dass die Bewohner am ehesten von Tod und Zerstörung bedroht wären. Sie wünschte ihnen und Lysaleth viel Erfolg und begab sich in Gestalt einer Elfenfrau auf den kurzen Weg in das naheliegende Dorf.
 
@@ -22,7 +22,7 @@ Und so begab es sich, dass die Bezwinger von Arauthator das Labyrinth des Magier
 
 Sie folgten dem zweiten Zeiger nach rechts und fanden sich an einem fast 20 Meter durchmessenden Becken wieder, welches mit schmutzigem, dunklen Wasser gefüllt war. In der Mitte über dem Becken schwebte ein einzelner Granat-Edelstein etwa eine Armlänge über dem Wasser. Auf der gegenüberliegenden Seite lag der einzige Weg, der vom Platz mit dem Becken wieder wegführte. Der Versuch, am Becken vorbei und einfach weiterzugehen, brachte sie alle erneut wieder zum Becken. Seltsamerweise ohne die Bänder, die Yona stets in Abständen an die Hecken band. Also entschieden sie sich, den Granaten zu untersuchen und Arvandor beschwor eine magische Hand um nach dem Edelstein zu greifen. In diesem Moment erhoben sich drei ogergroße Krustentiere aus dem Becken und griffen die Helden von Greenest an.
 
-![Chuul](https://i.imgur.com/Av7bxRI.png)
+![Chuul](https://i.imgur.com/cyOzUF5.png)
 
 Yona, Halvan und Lysaleth wollten dem Kampf lieber aus dem Weg gehen und mit dem erbeuteten Edelstein in den Irrgarten zurückkehren, doch die übrigen Abgesandten schienen sich über die Gelegenheit zu einem Kampf zu freuen. Um die drei Chuul zu besiegen bedürfte es dann, neben Faust und Schwert, allerdings doch den Einsatz von mächtigen Flammensäulen, Feuerbällen und Blitzschlägen! Nach ihrem Sieg über die Riesenkrebse konnte der Mann in Form eines Oktopus und nach Hinweis von Lysaleth auch noch magische Schätze aus dem Becken bergen: 8 unbeschädigte Phiolen, einen Stab, drei Dolche, eine etwa faustgroße Kugel aus solidem Glas und ein blauer Edelstein, dessen Inneres sich scheinbar wie eine Flüssigkeit bewegt.
 

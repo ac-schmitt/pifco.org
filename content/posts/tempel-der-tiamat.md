@@ -20,7 +20,7 @@ Nur noch wenige Meilen entfernt von der Quelle der Drachen legten sie sich auf d
 
 Gerade als sie sich zur sudöstlichen Seite des Kraters zubewegten, tönten von überall her Hörner und Alarme. Die chromatischen Drachen am Himmel formierten sich und wandten sich gen Norden. Der Angriff der Allianz hatte begonnen! Auf dem letzten Wegstück zum Vulkan mussten sie gar nicht mehr so vorsichtig sein, die Aufmerksamkeit ihrer Gegner war fast völlig auf den Angriff der Armeen der freien Völker gelenkt. Ganz so, wie es ihre Absicht gewesen war.
 
-![Angriff der Allianz](https://i.imgur.com/cy7Qdre.png)
+![Angriff der Allianz](https://i.imgur.com/6yAOSN2.jpg)
 
 Das Camp am südöstlichen Ausläufer des Kraters war ein Gefangenenlager. In Dutzenden hölzernen Käfigen wurden Menschen, Halblinge, Zwerge und andere Bewohner der Hartlande festgehalten. Als die Retter von Greenest eintrafen, konnten sie beobachten, wie eine Gruppe Gefangener von Kultisten in das Innere eines Tunnels getrieben wurden, während andere Kultisten in Richtung Norden marschierten. Die Abgesandten der Allianz folgten den Gefangenen und einigen Kultisten zum Tunneleingang.
 
@@ -34,7 +34,7 @@ Gesagt getan. Die Tunnel, durch welche die Truppe die Gefangenen scheuchte, stie
 
 Vorsichtig spähten die Helden von Greenest durch die Tunnelöffnung nach oben. Ihr Blick fiel in das Innere eines riesigen Gewölbes. Doch es gelang ihnen nicht, sich darauf zu konzentrieren, die ungewöhnliche und teuflische Architektur dieser Kathedrale zu bewundern. Zu sehr waren sie abgelenkt vom Anblick eines schwarzen Drachen, dessen gelbe Augen sich prüfend auf den Durchgang richteten, um nachzusehen, was es mit dem Feuer und den Explosionen auf sich hatte.
 
-![Schwarzer Drache](https://i.imgur.com/ITAmZyg.png)
+![Schwarzer Drache](https://i.imgur.com/MSPT3A2.png)
 
 Fortsetzung folgt.
 

@@ -29,6 +29,6 @@ Der weise Herr Ilominar ist erfahrener Consultanti für die Fragen des Generatio
 
 Der junge Herr Fohlereih weilt in Silverymoon und ist euch dort fleißigst zu Diensten. Ihr findet unsere Vertretung dort in der _Brightbuckler Street_, direkt neben der _Shining Scroll_.
 
-![Fohleireih](https://i.imgur.com/1R2GgqK.png)
+![Fohleireih](https://i.imgur.com/ZEKSoEb.jpg)
 
 Solltet ihr im Norden Verträge oder gar Verhandlungen eingehen, so sei eych gesagt, findet ihr niemanden in der ganzen Weite Faerûns, der euch bessere und vertrauensvollere Dienste anbieten kann.

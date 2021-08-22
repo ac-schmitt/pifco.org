@@ -33,7 +33,7 @@ Die verbleibende Nacht versteckten sie sich in der selben Höhle unweit des Lage
 
 Am Ende der zum Schrein ausgebauten Höhle führte eine breite Treppe weiter in die Tiefe. Dort befanden sich drei Dracheneier, aber auch ein Roper.
 
-![Roper](https://i.imgur.com/exuskJp.png)
+![Roper](https://i.imgur.com/QnDK8Lh.png)
 
 Der wieder geheilte Oba erkundete die Brutstätte und führte ein nettes Gespräch mit dem Monster aus dem Underdark. Die toten Körper der besiegten Feinde wurden getauscht, doch Arvandor zerstörte kurzentschlossen zwei der drei Dracheneier. Oba gelang es so halbwegs ihn zu überzeugen, doch zumindest eines der Eier zu "Forschungszwecken" mit nach Elturel zu nehmen. Er vermutet eine deutlich höhere Belohnung mit so einem Mitbringsel.
 

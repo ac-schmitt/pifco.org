@@ -16,7 +16,7 @@ Der Anführer der Waldelfen aus dem Nebelwald, König Melandrach, ist ob dieser 
 
 Der Kampf dort wird von Prinz Alagarthas angeführt, der mit seinen Waldläufern versucht die Kultisten aus dem ausgedehnten Waldgebiet westlich des Hochmoors zu vertreiben. Den Berichten zufolge stehen sie einer Übermacht gegenüber. Am Boden, so sagt man, habe Prinz Alagarthas noch jeden Kampf gegen die Kultisten gewonnen, aber seine Kämpfer und die Verteidiger der Siedlungen sind machtlos gegen die grünen und schwarzen Drachen, welche seit einigen Wochen dort ihr Unwesen treiben.
 
-![Angriff eines grünen Drachen](https://i.imgur.com/rY43O0F.jpg)
+![Angriff eines grünen Drachen](https://i.imgur.com/neJ95I3.jpg)
 
 Inzwischen, so heisst es, seien über die Hälfte der waldelefischen Siedlungen zerstört und geplündert und Tausende auf der Flucht. Die Emerald Enclave und die waldelfischen Kämpfer sind in die Defensive gedrängt. Die Kultisten greifen immer wieder auch die Flüchtlinge an und die Verteidiger des Nebelwaldes sind gezwungen sich auf den Schutz der Vertriebenen zu konzentrieren. Derweil treiben die Drachen weitestgehend ungestört ihr Unwesen mitten im Herzen der Allianz der Lords. Ob die Rückkehr von Lady Laeral daran etwas ändern kann?
 
