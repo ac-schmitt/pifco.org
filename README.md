@@ -34,9 +34,9 @@ I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](la
 
 ### Images
 
-Most Images are stored and fetched from imgur.com. Images in the repo are mainly the site icons or part of a stand-alone functionality, like the [quick reference](static-quickref/quickref.html)
+Most Images are stored and fetched from imgur.com. Images in the repo are mainly the site icons or part of a stand-alone functionality, like the [quick reference](static-quickref/quickref.html).
 
-All external images which are remixes of orginal work are smaller than 125 kilobyte in compliance with european and german law. Remixing usually means cropping, adding transparancy or changing the color scheme to match with the site color scheme.
+All external images which are remixes of original work are smaller than 125 kilobyte in compliance with european and german law. Remixing usually means cropping, adding transparancy or changing the color scheme to match with the site color scheme.
 
 Image dimensions are usually resized and cropped to 960 pixel maximum width or 720 pixel width to fit into the site style. Smaller sizes follow the default width values: 480, 360 or 240 pixel width.
 
