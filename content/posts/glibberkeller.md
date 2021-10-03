@@ -34,7 +34,7 @@ Ich denke nach. Der Tunnel vor mir ist nach unten abgesackt. Nach oben sind mehr
 
 Das magische Auge erreicht den abgesackten Gang und tatsächlich: da sind sie! _Dawnbringers_ Licht ist weithin zu sehen. Ihnen ist wohl nichts Schlimmes zugestoßen, wenn auch von _Shuushar_ und _Buppido_ keine Spur zu sehen ist.
 
-Ich bewege das Auge näher an das Licht des magischen Schwertes und kann so ein paar Details erkennen. Ganz schön schmutzig sind die Leute und irgendwie auch eingeschleimt. Der Ort ist seltsam. Ein dunkler, feuchter Keller. Keine natürlich Höhle. Die Geflüchteten bewegen sich durch den Kellergang, vor ihnen schwebt ein Skelett in der Luft und wackelt komisch. Nein, das Skelett schwebt nicht, es steckt in einem Glibberwürfel! Und die Leutchen wirken zwar angespannt, aber sie scheinen irgendwie mit dem Glibber unter einer Decke zu stecken. Das wird immer seltsamer! Träume ich?!
+Ich bewege das Auge näher an das Licht des magischen Schwertes und kann so ein paar Details erkennen. Ganz schön schmutzig sind die Leute und irgendwie auch eingeschleimt. Der Ort ist seltsam. Ein dunkler, feuchter Keller. Keine natürliche Höhle. Die Geflüchteten bewegen sich durch den Kellergang, vor ihnen schwebt ein Skelett in der Luft und wackelt komisch. Nein, das Skelett schwebt nicht, es steckt in einem Glibberwürfel! Und die Leutchen wirken zwar angespannt, aber sie scheinen irgendwie mit dem Glibber unter einer Decke zu stecken. Das wird immer seltsamer! Träume ich?!
 
 ![Glabbagool](https://i.imgur.com/K5t1vMz.png)
 
