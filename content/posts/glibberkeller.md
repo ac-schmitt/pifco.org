@@ -44,7 +44,7 @@ Gerade noch rechtzeitig kann ich sehen, wie _Anselma_ von _Paggen_ zappelnd aus 
 
 Ein alter Brunnen mit flachem, abgestanden aussehendem Wasser befindet sich in mitten eines grob achteckigen Raumes. Auf dem Brunnen stand einstmals eine Statue, die übriggebliebenen, dämonischen Klauenfüße, die in abgebrochenen Stümpfen enden, deuten deutlich darauf hin. Sieben Nischen sind in die acht Wände eingelassen. Aus einer Nische rinnt Wasser in den etwa 20 Fuß durchmessenden Kellerraum. Die beiden Nischen rechts und links daneben sind leer. In den übrigen vier Nischen befinden sich formlose Skulpturen, so ähnlich wie Stalagmiten.
 
-Sie ver­bar­ri­ka­die­ren die Türe und schnaufen durch. Ob das die dunklen, schwarzen Tentakel aufhalten wird? Und wie kommen sie hier nur wieder raus? Ich bin wirklich ganz froh, dass ich in einem dreckigen, aber sicheren Loch weit entfernt von Gilbber, Schimmel und Tentakeln hocke.
+Sie ver­bar­ri­ka­die­ren die Türe und schnaufen durch. Ob das die dunklen, schwarzen Tentakel aufhalten wird? Und wie kommen sie hier nur wieder raus? Ich bin wirklich ganz froh, dass ich in einem dreckigen, aber sicheren Loch weit entfernt von Glibber, Schimmel und Tentakeln hocke.
 
 Namárië
 
