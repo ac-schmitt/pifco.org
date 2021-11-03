@@ -11,6 +11,7 @@ Für die Klienten unserer Kanzeley verwenden wir diese Form der Flächenmarker z
 * Sphären folgen den Regel im Spielleiterhandbuch, Kegel folgen einem Vorschlag aus dem Xanathar's Guide.
 
 ___
+
 ## Markerbibliothek
 
 &#8594; Preview Version 0.1
@@ -23,5 +24,4 @@ Hier zeige ich, wie das bei [Roll20](https://roll20.net/) gemacht werden kann, i
 
 ### Cantrips and Abilities
 
-
-_-Fohleireih_
+-_Fohleireih_

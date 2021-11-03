@@ -13,7 +13,7 @@ Gegenüber den Geschichten aus den Zeiten vor der Zauberpest hat sich die Stadt 
 
 Früher war Waterdeep für eine riesige, fast 30 Meter große, steinerne Statue bekannt, die einen kahlköpfigen Menschen darstellte, der auf das Meer hinaus sah. Später sollte dieser Golem helfen, einen Angriff der Sahuagin abzuwehren. Der berühmte Khelben Arunsun transformierte die Statue daraufhin in eben ein solches Wesen und sie diente fortan als Erinnerungstätte an den Angriff aus dem Meer.
 
-Was so gut wie niemand wusste, diese eine Statue war nicht die Einzige ihrer Art in der Stadt. Sieben andere Statuen standen in der Ätherebene Wache um Waterdeep vor Angriffen von dort zu verteidigen. Während der Zauberpest erschienen sechs von ihnen amoklaufend und außer Kontrolle geraten in der Stadt. 
+Was so gut wie niemand wusste, diese eine Statue war nicht die Einzige ihrer Art in der Stadt. Sieben andere Statuen standen in der Ätherebene Wache um Waterdeep vor Angriffen von dort zu verteidigen. Während der Zauberpest erschienen sechs von ihnen amoklaufend und außer Kontrolle geraten in der Stadt.
 
 Over a century ago, just one of these eight behemoth
 statues stood visible at the northern foot of Mount Waterdeep,
@@ -165,7 +165,7 @@ freestanding sculpture.
 The bead of the Sword maiden sits in a stand of
 tall trees in the center of the block of the North Ward
 bounded by Hassantyr's Street, Tarsar's Street, Whaelgond
-Way, and Ussilbran Street. The center of its jaw 
+Way, and Ussilbran Street. The center of its jaw
 and mouth have been replaced by a door, which leads
 into the shop known as Thort's Findings. Undevvur
 Thort is a wizened ex-adventurer who leans on a cane
