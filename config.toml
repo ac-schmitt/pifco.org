@@ -41,7 +41,7 @@ staticDir = ["static", "static-quickref"]
 
   homeSubtitle = "Advokati - Assekuranz - Financieri"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  bgImg = "https://i.imgur.com/9VoCkn9.png"  # Homepage background-image URL
+  bgImg = "https://i.imgur.com/NKrDRU9.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/ac-schmitt/pifco.org/commit/"
