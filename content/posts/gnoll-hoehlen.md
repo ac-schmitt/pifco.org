@@ -10,6 +10,7 @@ tags:
   - Savage Frontier
   - Wildes Grenzland
   - Logbuch
+  - Savage Frontier Buch 1
 ---
 
 Alla Arandil Finufaranell,
