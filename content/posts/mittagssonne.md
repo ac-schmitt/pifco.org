@@ -35,7 +35,7 @@ Dann eine seltsame Begebenheit. Ein dunkler Geselle verkehrt in dem Gasthaus der
 
 Der neue Tag ist erwacht, eine neue Sonne steigt über den Horizont. Im Morgenlicht ist es mir bereits möglich, eine schemenhafte Gestalt zu erzeugen und ich zeige mich *Oda-Nobunaga*. Er ist verwirrt und eher besorgt, ob sein „Schwert“ noch funktioniert. Zweifelsfrei ein einfacher Charakter.
 
-Zur Mittagszeit sind alle geschäftig. *Snake Eyes* trägt die Splitterklinge hin zum Zwergenschmied als von Nordosten her zwei gewaltige und schwer gepanzerte Feuerriesen auf Triboar zustürmen! Ein Männchen und ein Weibchen! Und Orks! Einige ebenso schwer gerüstet wie die Riesen, einige leicht bewaffnet und reitend auf Riesenhühnern! Schreie von überall, Felsen fliegen durch die Luft ein Kampf steht bevor! 
+Zur Mittagszeit sind alle geschäftig. *Snake Eyes* trägt die Splitterklinge hin zum Zwergenschmied als von Nordosten her zwei gewaltige und schwer gepanzerte Feuerriesen auf Triboar zustürmen! Ein Männchen und ein Weibchen! Und Orks! Einige ebenso schwer gerüstet wie die Riesen, einige leicht bewaffnet und reitend auf Riesenhühnern! Schreie von überall, Felsen fliegen durch die Luft! Ein Kampf steht bevor! 
 
 Zeit für glorreiche Heldentaten! Möge das Licht der Gerechtigkeit uns leiten!
 
