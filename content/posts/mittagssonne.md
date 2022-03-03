@@ -1,6 +1,7 @@
 ---
 title: "Mittagssonne"
 date: 2022-02-13T14:28:01+01:00
+author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
 draft: false
 toc: false
 images:
