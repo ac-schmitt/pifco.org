@@ -23,10 +23,14 @@ ___
 
 &#8594; [Interaktive Karte von Faerun von LoreMaps](https://loremaps.azurewebsites.net/Maps/Faerun)
 
+&#8594; [Automatons von watabou](https://watabou.itch.io/)
+
+&#8594; [Dyson's Dodecahedron](https://dysonlogos.blog/)
+
 ___
 ## Künstlerisches
 
-&#8594; 
+&#8594; _Coming Soon_
 
 Symbole für die Flächeneffekte von Zaubersprüchen, direkt aus der Schreibstube unserer Kanzeley. Nutzt die Symbole von [game-icons.net](https://game-icons.net/).
 
@@ -41,6 +45,17 @@ Ihr sucht ein Gemälde für euch oder eure Gefährten? Sucht nicht weiter, die G
 &#8594; [Symbole](https://game-icons.net/)
 
 Kleine Symbole und Icons, die auch bei der [PIFco Schnellreferenz](/quickref.html) und bei den Flächeneffekten verwendet werden. Ideal auch für Token Marker.
+
+---
+## Atmosphärisches
+
+&#8594; [Tabletop Audio](https://tabletopaudio.com/)
+
+Klänge, Töne und akustische Untermalungen.
+
+&#8594; [The Homebrewery](https://homebrewery.naturalcrit.com/)
+
+Damit eure Schriftstücke so aussehen, wie die der großen Autoren!
 
 ___
 ## Personalwesen
