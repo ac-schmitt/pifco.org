@@ -53,6 +53,10 @@ Kleine Symbole und Icons, die auch bei der [PIFco Schnellreferenz](/quickref.htm
 
 Klänge, Töne und akustische Untermalungen.
 
+&#8594; [Leute und Dinge benennen](https://www.fantasynamegenerators.com/)
+
+Namen brauchen auch einen guten Klang.
+
 &#8594; [The Homebrewery](https://homebrewery.naturalcrit.com/)
 
 Damit eure Schriftstücke so aussehen, wie die der großen Autoren!
