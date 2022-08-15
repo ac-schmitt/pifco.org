@@ -1,5 +1,5 @@
 ---
-title: "Von Jägern Und Gejagten"
+title: "Von Jägern und Gejagten"
 date: 2022-08-10T16:00:02+02:00
 author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
 draft: false
