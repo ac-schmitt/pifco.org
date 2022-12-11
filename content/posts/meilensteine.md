@@ -27,7 +27,7 @@ Darauffolgend zeigte sich einmal mehr das unbeholfene Unvermögen des _Oba-Nobun
 
 Wobei das mit der Dunkelelfe wohl wirklich eine interessante Sache zu sein scheint. Die Gefährten hatten im Unterreich mit ihr zu tun. Hinter ihr her zu sein erschien mir als die eine gerechte Sache in dieser Geschichte. Dem Rest schenkte ich keine Sekunde Glauben: es ist doch wohl egal, welche Haut- oder Haarfarbe ein Zauberer hat, danach kann man doch niemanden verurteilen? Barbaren, allesamt.
 
-Die Leute, mit denen ich also zufällig reiste, waren jetzt Verbündete der Faust der Gerechtigkeit. Den Mördern von _Patrick_! Mir war ganz schlecht zumute. Jedes Mal, wenn wir auf dem Weg nach Everlund einen weiteren Soldaten der Faust erblickten, befürchtete ich schon, mich übergeben zu müssen. Zum Glück kann ich – als unsterbliches Wesen des Ewigen Lichtes und der Gerechtigkeit – sowas gar nicht.
+Die Leute, mit denen ich also zufällig reiste, gelten jetzt als Verbündete der Faust der Gerechtigkeit. Den Mördern von _Patrick_! Mir war ganz schlecht zumute. Jedes Mal, wenn wir auf dem Weg nach Everlund einen weiteren Soldaten der Faust erblickten, befürchtete ich schon, mich übergeben zu müssen. Zum Glück kann ich – als unsterbliches Wesen des Ewigen Lichtes und der Gerechtigkeit – sowas gar nicht.
 
 ![Everlund](https://www.dndbeyond.com/attachments/3/15/302.png)
 
