@@ -1,34 +1,31 @@
 ---
 title: PIF & Co
-date: 1491-01-01T18:40:00+02:00
+date: 2023-01-01T00:00:00+02:00
 ---
 
-# Advokati, Assekuranz, Financieri
+# Advocati, Campagneri, Arbitracisti
 
-Unser Geschäft geht in den Gründertagen zurück bis in die Zeit der Sorgen. Unsere Gründermütter und -väter bauten dieses Unternehmen als Assekuranz gegen Unbill auf. In den weiteren Zeiten haben wir zunehmend Expertise in den Bereich der Vermögens- und Werteverwaltung, sowie dem Rechts- und Vertagswesenn hinzu gewonnen.
 
-Heute sind wir die höchlichst honorable Kanzeley für mundane, magische und extradimensionale Assekuranzen und dem Paktwesen. 
+Unser Geschäft geht in den Gründertagen zurück bis in die Zeit der Sorgen. Unsere Gründer bauten dieses Unternehmen bereits als unabhängige Schiedsgerichtsbarkeit in Kerkerdingen und Wegweiser zu anderen Ebenen der Existenz auf. Nach zweiter Generation hatte auch unser Unternehmen mit der Zauberpest zu kämpfen. In jüngster Zeit und inzwischen in fünfter Generation konnten unsere Geschäfte wieder an die Blütezeit der zweiten Generation anknüpfen.
 
-* Wir formulieren, behelfen den Abschluss und Sorgen im Zweyfelsfall für die Durchsetzung von privaten Pakten und Verträgen außerhalb der Gerichtsbarkeyt der Obrigkeyt.
-* Wir sichern euer Vermögen, Sachdinge aber auch und vor allem eure Familien und Getreuen bei gefahrvollen Unternehmungen ab.
-* Wir beschaffen und vermitteln stehts gebrauchte Finanzmittel, verwalten getreu Vermögen Dritter um Eych Sicherheit zu geben und Eyren Reichtum zu mehren.
+Heute sind wir eine höchst honorable Kanzlei für die Schiedsrichterei fantastischer Vorschriften sowie der Anleitung und Begleitung in Welten der Vorstellungskraft.
 
-Unsere Kanzeleyen in Waterdeep, Baldur's Gate und Silverymoon ermöglicht es Eych, werte Kundschaft, auf ein einmaliges und vertrauenswürdiges Angebot zurückzugreifen.
+* Wir sind gewissenhafte Notare in der Erfassung von Begebenheiten und gesprochenen Worten oder geben anderen Campagneri die Gelegenheit ihre aufgeschriebenen Wörter in die Welten zu tragen.
+* Wir schlichten Streitfragen rund um die Auslegung von Regelwerken selbst und in Person oder vermitteln geeignete Arbitracisti für unsere werte Kundschaft.
+* Wir beschaffen und vermitteln stets neue und gebrauchte Folianten und Enzyklopädien, welche Einblicke in Gesetze und Regeln oder naturphilosophische Abhandlungen ermöglichen.
 
-Zu allen Zeiten, in denen wir gebraucht werden.
+Unsere Vertretungen in Silverymoon und Sigil ermöglicht es Euch, werte Kundschaft, auf ein einmaliges und vertrauenswürdiges Angebot zurückzugreifen.
 
 ## Phineas
 
-Der werte Herr Phineas ist Kenntnisreich im Schifffahrts- und Karawansereywesen. Expiditionen, nicht alltägliche Waren und Handel eben auch mit anderen Ebenen ist sein Feld der Expertise.
+Dem weitgereiste Phineas ist Kenntnisreich im Schifffahrts- und Karawansereiwesen. Reisen und Handel in den Weiten des Kosmos ist deren Feld der Expertise.
 
 ## Ilominar
 
-Der weise Herr Ilominar ist erfahrener Consultanti für die Fragen des Generationenübergreifenden Vermögensaufbaus, der sicheren Weitergabe von allem von Werte für angesehene Familien aber selbstverständlich auch darin, zu verhindern, dass sich treulose und unglückselige schwarze Schafe an hart Erarbeitedem vergreifen.
+Ilominar ist geheimnisvoll und auch uns manchmal noch ein Rätsel.
 
 ## Fohleireih
 
 Der junge Herr Fohlereih weilt in Silverymoon und ist euch dort fleißigst zu Diensten. Ihr findet unsere Vertretung dort in der _Brightbuckler Street_, direkt neben der _Shining Scroll_.
 
 ![Fohleireih](https://i.imgur.com/ZEKSoEb.jpg)
-
-Solltet ihr im Norden Verträge oder gar Verhandlungen eingehen, so sei eych gesagt, findet ihr niemanden in der ganzen Weite Faerûns, der euch bessere und vertrauensvollere Dienste anbieten kann.
