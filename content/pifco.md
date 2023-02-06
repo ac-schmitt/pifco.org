@@ -18,7 +18,8 @@ Unsere Vertretungen in Silverymoon und Sigil ermöglicht es Euch, werte Kundscha
 
 ## Phineas
 
-Dem weitgereiste Phineas ist Kenntnisreich im Schifffahrts- und Karawansereiwesen. Reisen und Handel in den Weiten des Kosmos ist deren Feld der Expertise.
+Dem weitgereiste Phineas stammt aus dem Feywild und ist kenntnisreich im Schifffahrts- und Karawansereiwesen. Reisen und Handel in den Weiten des Kosmos ist deren Feld der Expertise.
+
 
 ## Ilominar
 
@@ -26,6 +27,4 @@ Ilominar ist geheimnisvoll und auch uns manchmal noch ein Rätsel.
 
 ## Fohleireih
 
-Der junge Herr Fohlereih weilt in Silverymoon und ist euch dort fleißigst zu Diensten. Ihr findet unsere Vertretung dort in der _Brightbuckler Street_, direkt neben der _Shining Scroll_.
-
-![Fohleireih](https://i.imgur.com/ZEKSoEb.jpg)
+Der junge Herr Fohlereih aus Waterdeep weilt in Silverymoon und ist euch dort fleißigst zu Diensten. Ihr findet unsere Vertretung dort in der _Brightbuckler Street_, direkt neben der _Shining Scroll_.
