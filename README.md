@@ -8,7 +8,7 @@ Please use `git clone --recurse-submodules` to clone the repository to include t
 
 ## Template
 
-pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule. 
+pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule.
 
 Customizations:
 * Changed font in own [_predefined.scss](assets/scss/_predefined.scss)
