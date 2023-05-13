@@ -29,7 +29,7 @@ Die Tall Hunters verteilten sich. _Anselma_ ließ Ironfang auf den Boden donnern
 
 Meine Gefährten versorgten erneut ihre Wunden. Anschließend untersuchten wir die Mine. Es war wirklich wie in einer Spiegelwelt. In dem westlichen Raum, den der Diener des Orkus auf unserer Seite für ein Ritual genutzt hatte, fanden wir die toten Körper von zwei elfischen Kriegern. 
  
---
+---
  
 Wir sind nicht die ersten an diesem Ort. Wir werden aber die sein, die die Ursache für die unheimlichen Vorgänge auf der Materiellen Ebene finden werden. Wir werden Maerals Vater helfen. Wir werden nicht dasselbe Schicksal erleiden wie die beiden Elfen. Dafür werde ich sorgen.
  
