@@ -35,7 +35,7 @@ _Finufaranell_ und die Tall Hunters tauschten in der idyllischen, freien, wenn n
 
 Die wenigen Harfner bräuchten bei der Menge der Aufgaben Unterstützung. Ein gewisser _Harshnag_, selbst Riese und Verbündeter der Harfner sei der Auffassung, dass zur Sache mit seinem Volk ein Besuch in einem uralten Tempel, dem sogenannten "Auge des Allvaters" am Grat der Welt, wichtige Erkenntnisse bringen könnte. Die Tall Hunters stimmten zu, sich dieser Aufgabe zu widmen. Sie wollten _Harshnag_ zu gegebener Zeit treffen.
 
-Nach dem Gespräch verließen wir die Everdusk-Hallen und nehmen uns auf Empfehlung von _Finufaranell_ Quartier im Wayward-Haus. _Maeral_ und _Paggen_ schauten am frühen Abend noch nach Zaubermaterialien in der Stadt. _Gumba_ nahm unterdessen _Anselma_ und _Oba_ mit zur Zauberwacht, um mehr über ein paar der Aushänge zu erfahren, die er beim Betreten der Stadt gesehen hatte.
+Nach dem Gespräch verließen wir die Everdusk-Hallen und nehmen uns auf Empfehlung von _Finufaranell_ Quartier im Wayward-Haus. _Maeral_ und _Paggen_ schauten am frühen Abend noch nach Zaubermaterialien in der Stadt. _Gumba_ nahm unterdessen _Anselma_ und _Oda_ mit zur Zauberwacht, um mehr über ein paar der Aushänge zu erfahren, die er beim Betreten der Stadt gesehen hatte.
 
 ---
 
