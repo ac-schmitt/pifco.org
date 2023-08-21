@@ -31,7 +31,7 @@ _Finufaranell_ und die Tall Hunters tauschten in der idyllischen, freien, wenn n
 
 * die freien Dämonen-Fürsten im Unterreich wieder in den Abgrund zu verbannen, aus dem sie gekommen waren, 
 * den Grund für den Aufruhr der Riesen in Erfahrung zu bringen und etwas dagegen zu tun und 
-* den Angriff auf Stormreach Castle aufzuklären. 
+* den Angriff auf Skyreach Castle aufzuklären. 
 
 Die wenigen Harfner bräuchten bei der Menge der Aufgaben Unterstützung. Ein gewisser _Harshnag_, selbst Riese und Verbündeter der Harfner sei der Auffassung, dass zur Sache mit seinem Volk ein Besuch in einem uralten Tempel, dem sogenannten "Auge des Allvaters" am Grat der Welt, wichtige Erkenntnisse bringen könnte. Die Tall Hunters stimmten zu, sich dieser Aufgabe zu widmen. Sie wollten _Harshnag_ zu gegebener Zeit treffen.
 
