@@ -31,11 +31,13 @@ Ich ordne das als typisches Verhalten von Wilden ein. Anstatt sich zu fragen, wo
  
 Die Expedition zu diesem Tempel ist durch die Begleitung eines Riesen trotz der Gefahren dieser Wildnis ein unaufgeregtes Unterfangen. Keine Kreatur kommt uns in die Nähe. Auch die Wyvern nicht, die der Zwerg Gumba Kahn offenkundig dressiert hat. Eine langweilige Reise, bis zu dem Moment, als wir uns am Eingang zu einem Tal einer schwebenden Burg entgegensehen. Ich gebe zu, der Begriff der Burg ist eher gewählt, um am Ende dieses Eintrags noch einmal Aufmerksamkeit zu generieren. Es handelt sich tatsächlich um zwei Türme und etwas verfallenes Mauerwerk auf der Oberseite eines Felsen. Allerdings eines schwebenden Felsen. Und das fällt durchaus in die Kategorie der ungewöhnlichen Begebenheiten.
  
-Gezeichnet
-P
-Professor der thanergetischen Osteologie
-Magister der Intromittik
-Administrator Klasse A6 der Bruderschaft der Ordnung
+Gezeichnet  
+
+**P**  
+
+Professor der thanergetischen Osteologie  
+Magister der Intromittik  
+Administrator Klasse A6 der Bruderschaft der Ordnung  
 
 
 ![Professor Pecker](https://i.imgur.com/yE13QmE.png)
