@@ -3,7 +3,7 @@ languageCode = "de-de"
 defaultContentLanguage = "de"
 pluralizelisttitles = false # no automatic english plurals for titles
 title = "Phineas, Ilominar, Fohleireih & Co."
-theme = "hermit"
+theme = "hermit-v2"
 enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -18,6 +18,11 @@ staticDir = ["static", "static-quickref"]
 
 [author]
   name = "PIF & Co."
+
+[params.author]
+  name = "PIF & Co."
+  #about = "CHANGE SITE AUTHOR ABOUT"
+
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -40,7 +45,7 @@ staticDir = ["static", "static-quickref"]
   themeColor = "#494f5c"
 
   homeSubtitle = "Advocati - Campagneri - Arbitracisti"
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   bgImg = "https://i.imgur.com/NKrDRU9.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -62,7 +67,7 @@ staticDir = ["static", "static-quickref"]
     name = "twitter"
     url = "https://twitter.com/fohleireih"
 
-  [[params.social]]
+[[params.social]]
     name = "email"
     url = "mailto:fohleireih@pifco.org"
 
