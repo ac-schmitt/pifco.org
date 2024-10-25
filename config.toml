@@ -16,9 +16,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 publishDir = "public"
 staticDir = ["static", "static-quickref"]
 
-[author]
-  name = "PIF & Co."
-
 [params.author]
   name = "PIF & Co."
   #about = "CHANGE SITE AUTHOR ABOUT"
