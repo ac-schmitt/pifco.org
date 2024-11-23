@@ -46,3 +46,5 @@ Gezeichnet
 Professor der thanergetischen Osteologie  
 Magister der Intromittik  
 Administrator Klasse A6 der Bruderschaft der Ordnung
+
+![Ende von Buch 3](https://i.imgur.com/m6Ha4jI.png)
