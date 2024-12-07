@@ -60,11 +60,8 @@ staticDir = ["static", "static-quickref"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/fohleireih"
 
-[[params.social]]
+  [[params.social]]
     name = "email"
     url = "mailto:fohleireih@pifco.org"
 

@@ -3,16 +3,19 @@ data_action = [
         title: "Attack",
         icon: "crossed-swords",
         subtitle: "Angriff",
-        description: "Perform a melee or ranged attack with your weapon | Vollführe einen Nah- oder Fernkampfangriff mit deiner Waffe",
-        reference: "PHB, pgs. 192,194-195.",
+        description: "Attack with a weapon or an Unarmed Strike. | Angriff mit einer Waffe oder einem unbewaffneten Schlag.",
+        reference: '<a href="https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction">Attack in Free Rules</a>',
         bullets: [
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
-            "When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the <i>Offhand attack</i> bonus action).",
-            "You may replace one of your melee attacks with a <i>Grapple</i> or a <i>Shove</i>.",
-            "Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
-            "Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers."
+            "When you take the Attack action, you can make one attack roll with a weapon or an Unarmed Strike.",
+            "You can either equip or unequip one weapon when you make an attack as part of this action.",
+            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You can use some or all of your movement to move between those attacks.",
+            "When you take the <i>Attack</i> action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn with a different Light weapon.",
+            "Whenever you use your <i>Unarmed Strike</i>, you can choose to <i>Grapple</i> or <i>Shove</i> your target.",
+            "Some conditions give you advantage on the attack: attacks against targets with the blinded, paralyzed, petrified, restrained, stunned, or unconscious condition; attacks against targets with the prone condition within 5 ft. of you; attacks while you have the invisible condition.",
+            "Some conditions give disadvantage on the attack: attacks against targets with the invisible condition; attacks against targets with the prone condition from more than 5 ft.; attacks while you have the blinded, frightened, poisoned, prone or restrained condition."
         ],
         bullets_de: [
+            "Muss aktualisiert werden:",
             "Bestimmte Merkmale, wie zum Beispiel der <i>Zusätzliche Angriff</i> des Kämpfers, erlauben mehr als einen Angriff mit dieser Aktion auszuführen. Jeder dieser Angriffe ist ein eigener Angriffswurf und kann sich gegen eine andere Kreatur richten. Du kannst dich zwischen den Angriffen bewegen.",
 			"Wenn du mit einer leichten Nahkampfwaffe angreifst, kannst du eine Bonusaktion verwenden, um mit einer zweiten leichten Nahkampfwaffe in deiner anderen Hand anzugreifen (siehe die Bonusaktion <i>Angriff mit Zweitwaffe</i>).",
             "Du kannst einen deiner Nahkampfangriffe durch die <i>Ringen</i>- oder <i>Stoßen</i>-Aktion ersetzen.",
@@ -21,45 +24,49 @@ data_action = [
         ]
     },
     {
-        title: "Grapple",
-        icon: "grab",
-        subtitle: "Ringen",
-        description: "Attempt to grab a creature or wrestle with it | Versuche eine Kreatur zu packen oder ringe mit ihr",
-        reference: "PHB, pg. 195.",
+        title: "Dash",
+        icon: "sprint",
+        subtitle: "Spurt",
+        description: "Gain extra movement for the current turn | Erhalte zusätzliche Bewegung für den aktuellen Zug",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction'>Dash in Free Rules</a>",
         bullets: [
-            "You can use the <i>Attack</i> action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your grapple must be no more than one size larger than you, and it must be within your reach.",
-            "Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you succeed, you subject the target to the grappled condition (its speed is set to 0)."
+            "For the rest of the turn, give yourself extra movement equal to your <i>Speed</i>."
         ],
         bullets_de: [
-            "Du kannst die <i>Angriff</i>-Aktion für einen speziellen Nahkampfangriff verwenden, das Ringen. Wenn du in der Lage bist mehrere Angriffe mit der <i>Angriff</i>-Aktion zu machen, ersetzt dieser Angriff einen davon.",
-            "Das Ziel, mit dem du ringst, darf nicht mehr als eine Größenkategorie größer als du sein und muss sich innerhalb deiner Reichweite befinden.",
-			"Mit mindestens einer freien Hand versuchst du das Ziel mit einer Ringen-Probe zu packen. Du wirfst dazu eine Probe auf Stärke (Athletik), die von deinem Ziel mit einer Probe auf Stärke (Athletik) oder Geschicklichkeit (Akrobatik) - dein Ziel hat die Wahl - gekontert wird.",
-			"Wenn du erfolgreich bist, erhält dein Ziel den <i>Gepackt</i> Zustand (seine Geschwindigkeit ist 0)."
+            "Muss aktualisiert werden:",
+            "Die Erhöhung entspricht deiner Geschwindigkeit, nachdem alle Bonus angerechnet wurden."
         ]
     },
     {
-        title: "Shove",
-        icon: "hand",
-        subtitle: "Stoßen",
-        description: "Shove a creature, either to knock it prone or push it away from you | Stoße eine Kreatur, entweder um sie zu Boden zu werfen oder von dir fort zu schieben",
-        reference: "PHB, pg. 195.",
+        title: "Disengage",
+        icon: "journey",
+        subtitle: "Rückzug",
+        description: "Prevent opportunity attacks | Verhindere Gelegenheitsangriffe",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DisengageAction'>Disengage in Free Rules</a>",
         bullets: [
-            "Using the <i>Attack</i> action, you can make a special melee attack to shove a creature. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your shove must be no more than one size larger than you, and it must be within your reach.",
-            "You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you win the contest, you either knock the target prone or push it 5 feet away from you."
+            "Your movement doesn't provoke <i>Opportunity Attack</i> for the rest of the turn."
         ],
         bullets_de: [
-            "Du kannst die <i>Angriff</i>-Aktion für einen speziellen Nahkampfangriff verwenden, das Stoßen. Wenn du in der Lage bist mehrere Angriffe mit der <i>Angriff</i>-Aktion zu machen, ersetzt dieser Angriff einen davon.",
-            "Das Ziel, das du stößt, darf nicht mehr als eine Größenkategorie größer als du sein und muss sich innerhalb deiner Reichweite befinden.",
-            "Du wirfst dazu eine Probe auf Stärke (Athletik), die von deinem Ziel mit einer Probe auf Stärke (Athletik) oder Geschicklichkeit (Akrobatik) - dein Ziel hat die Wahl - gekontert wird.",
-			"Wenn du erfolgreich bist, erhält dein Ziel entweder den <i>Liegend</i> Zustand oder du schiebst es 5 Fuß von dir weg."
+            "Deine Bewegung löst für den Rest deines Zuges keine Gelegenheitsangriffe aus."
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Dodge",
+        icon: "aura",
+        subtitle: "Ausweichen",
+        description: "Focus entirely on avoiding attacks | Konzentriere dich darauf Angriffen auszuweichen",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DodgeAction'>Dodge in Free Rules</a>",
+        bullets: [
+            "Until the start of your next turn, any attack roll made against you has <i>Disadvantage</i> if you can see the attacker, and you make Dexterity saving throws with <i>Advantage</i>.",
+            "You lose these benefits if you have the <i>Incapacitated</i> condition or if your <i>Speed</i> is 0."
+        ],
+        bullets_de: [
+            "Bis zum Start deines nächsten Zuges ist jeder Angriff gegen dich im Nachteil, wenn du den Angreifer sehen kannst. Außerdem machst du Geschicklichkeits-Rettungswürfe mit Vorteil.",
+			"Du verlierst diese Vorteile, wenn du <i>kampfunfähig</i> wirst oder wenn deine Geschwindigkeit auf 0 fällt."
+        ]
+    },
+    {
+        title: "TODO: Cast a spell",
         icon: "magic-swirl",
         subtitle: "Zauberwirken",
         description: "Cast a spell with a casting time of 1 action | Wirke einen Zauberspruch mit einer Zauberzeit von 1 Aktion",
@@ -79,52 +86,11 @@ data_action = [
         ]
     },
     {
-        title: "Dash",
-        icon: "sprint",
-        subtitle: "Spurt",
-        description: "Gain extra movement for the current turn | Erhalte zusätzliche Bewegung für den aktuellen Zug",
-        reference: "PHB, pg. 192.",
-        bullets: [
-            "The increase equals your speed, after applying any modifiers."
-        ],
-        bullets_de: [
-            "Die Erhöhung entspricht deiner Geschwindigkeit, nachdem alle Bonus angerechnet wurden."
-        ]
-    },
-    {
-        title: "Disengage",
-        icon: "journey",
-        subtitle: "Rückzug",
-        description: "Prevent opportunity attacks | Verhindere Gelegenheitsangriffe",
-        reference: "PHB, pg. 192.",
-        bullets: [
-            "Your movement doesn't provoke opportunity attacks for the rest of the turn."
-        ],
-        bullets_de: [
-            "Deine Bewegung löst für den Rest deines Zuges keine Gelegenheitsangriffe aus."
-        ]
-    },
-    {
-        title: "Dodge",
-        icon: "aura",
-        subtitle: "Ausweichen",
-        description: "Focus entirely on avoiding attacks | Konzentriere dich darauf Angriffen auszuweichen",
-        reference: "PHB, pg. 192.",
-        bullets: [
-            "Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.",
-            "You lose this benefit if you are <i>incapacitated</i> or if your speed drops to 0."
-        ],
-        bullets_de: [
-            "Bis zum Start deines nächsten Zuges ist jeder Angriff gegen dich im Nachteil, wenn du den Angreifer sehen kannst. Außerdem machst du Geschicklichkeits-Rettungswürfe mit Vorteil.",
-			"Du verlierst diese Vorteile, wenn du <i>kampfunfähig</i> wirst oder wenn deine Geschwindigkeit auf 0 fällt."
-        ]
-    },
-    {
-        title: "Escape",
+        title: "TODO: Escape",
         icon: "manacles",
         subtitle: "Entkommen",
         description: "Escape a grapple | Entkomme einem Haltegriff",
-        reference: "PHB, pg. 195.",
+        reference: "",
         bullets: [
             "To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler's Strength (Athletics) check.",
             "Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as specified by the condition."
@@ -138,36 +104,35 @@ data_action = [
         title: "Help",
         icon: "telepathy",
         subtitle: "Helfen",
-        description: "Grant an ally advantage on an ability check or attack | Gewähre einem Verbündeten Vorteil auf eine Fähigkeitenprobe oder einen Angriff",
-        reference: "PHB, pg. 192.",
+        description: "Help another creature’s ability check or attack roll, or administer first aid. | Gewähre einem Verbündeten Vorteil auf eine Fähigkeitenprobe oder einen Angriff oder leiste Erste Hilfe.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HelpAction'>Help in Free Rules</a>",
         bullets: [
-            "The target gains advantage on the next ability check it makes to perform the task you are helping with.",
-            "Alternatively, the target gains advantage on the next attack roll against against a creature within 5 feet of you.",
-            "The advantage lasts until the start of your next turn."
+            "An ally gains advantage on the next ability check they make with the skill or tool you assist with.",
+            " You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.",
+            "You can try to stabilize a creature with 0 Hit Points or remove the <i>Unconscious</i> condition of a create with 1 or more Hit Points, which requires a successful DC 10 Wisdom (Medicine) check."
         ],
         bullets_de: [
+            "Muss aktualisiert werden:",
             "Das Ziel erhält Vorteil auf die nächste Fähigkeitenprobe, die es macht um die Aufgabe zu erfüllen, bei der du ihr hilfst.",
 			"Alternativ erhält das Ziel Vorteil auf den nächsten Angriff gegen ein bestimmtes Ziel innerhalb von 5 Fuß neben dir.",
             "Der Vorteil ist einmalig bis zum Beginn deines nächsten Zuges nutzbar."
         ]
     },
     {
-        title: "Use Object",
+        title: "Utilize",
         icon: "snatch",
-        subtitle: "Gegenstand benutzen",
-        description: "Interact with a second object or use special object abilities | Interagiere mit einem zweiten Objekt oder nutze besondere Merkmale eines Objektes",
-        reference: "PHB, pg. 193.",
+        subtitle: "Gegenstand verwenden",
+        description: "Use a nonmagical object. | Einen nichtmagischen Gegenstand verwenden.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UtilizeAction'>Utilize in Free Rules</a>",
         bullets: [
-            "You can interact with one object for free during your turn (such as drawing a weapon or opening a door). If you want to interact with a second object, use this action.",
-            "When an object requires your action for its use, you also take this action."
+            "You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action."
         ],
         bullets_de: [
-            "Mit einem Objekt kannst du innerhalb deines Zuges kostenlos interagieren (zum Beispiel eine Waffe ziehen, oder eine Tür öffnen). Wenn du ein zweites mal mit einem Objekt interagieren möchtest, nutze diese Aktion.",
-			"Wenn ein Objekt zur Benutzung den Einsatz deiner Aktion erfordert, nutze ebenfalls diese Aktion."
+            "Normalerweise interagierst du mit einem Gegenstand, während du etwas anderes tust, z.B. wenn du ein Schwert als Teil der Aktion Angriff ziehst. Wenn ein Gegenstand eine Aktion erfordert, um ihn zu benutzen, führst du diese Aktion aus."
         ]
     },
     {
-        title: "Use shield",
+        title: "TODO: Use shield",
         icon: "round-shield",
         subtitle: "Schild nutzen",
         description: "Equip or unequip a shield | Lege einen Schild an oder ab",
@@ -185,16 +150,15 @@ data_action = [
         title: "Hide",
         icon: "hood",
         subtitle: "Verstecken",
-        description: "Attempt to hide | Versuche dich zu verstecken",
-        reference: "PHB, pg. 192.",
+        description: "Try to conceal yourself. | Versuche dich zu verbergen.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction'>Hide in Free Rules</a>",
         bullets: [
-            "You can't hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy's vision.",
-            "If you make noise (such as shouting a warning or knocking over a vase), you give away your position.",
-            "When you try to hide, make a Dexterity (Stealth) check and note the result. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
-            "A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.",
-            "Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard."
+            "you must succeed on a DC 15 Dexterity (Stealth) check while you’re Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any enemy’s line of sight; if you can see a creature, you can discern whether it can see you.",
+            "On a successful check, you have the <i>Invisible</i> condition. The check’s total is the DC for a creature to find you with a Wisdom (Perception) check.",
+            "The condition ends on you immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component."
         ],
         bullets_de: [
+            "Muss aktualisiert werden:",
             "Du kannst dich nicht vor einer Kreatur verstecken, die dich sehen kann. Du musst volle Deckung haben, in einem komplett verschleierten Bereich sein, unsichtbar sein oder anderweitig die Sicht des Feindes blockieren.",
             "Wirf eine Probe auf Geschicklichkeit (Heimlichkeit), wenn du versuchst dich zu verstecken und notiere das Ergebnis. Bis du entdeckt wirst, oder aufhörst dich zu verstecken wird dieses Ergebnis von Proben auf Weisheit (Wahrnehmung) von Kreaturen, die aktiv nach dir oder nach Zeichen deiner Anwesenheit suchen, gekontert.",
             "Eine Kreatur bemerkt dich auch ohne zu suchen, wenn das Ergebnis deiner Heimlichkeits-Probe kleiner oder gleich seiner passiven Wahrnehmung ist.",
@@ -204,24 +168,11 @@ data_action = [
         ]
     },
     {
-        title: "Search",
-        icon: "magnifying-glass",
-        subtitle: "Suchen",
-        description: "Devote your attention to finding something | Widme deine Aufmerksamkeit ganz der Suche nach etwas",
-        reference: "PHB, pg. 193.",
-        bullets: [
-            "Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check."
-        ],
-        bullets_de: [
-            "Abhängig davon wonach und wie du suchst, kann der DM eine Probe auf Weisheit (Wahrnehmung) oder auf Intelligenz (Nachforschen) verlangen."
-        ]
-    },
-    {
         title: "Ready",
         icon: "stopwatch",
         subtitle: "Vorbereiten",
         description: "Choose a trigger and a response reaction | Wähle einen Auslöser und deine darauf folgende Reaktion",
-        reference: "PHB, pg. 193.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ReadyAction'>Search in Free Rules</a>",
         bullets: [
             "First, you decide what perceivable circumstance will trigger your reaction.",
             "Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.",
@@ -236,7 +187,25 @@ data_action = [
         ]
     },
     {
-        title: "Use class feature",
+        title: "Search",
+        icon: "magnifying-glass",
+        subtitle: "Suchen",
+        description: "Discern something that isn’t obvious. | Erkenne etwas, das nicht offensichtlich ist.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SearchAction'>Search in Free Rules</a>",
+        bullets: [
+            "You make a Wisdom check to discern something that isn’t obvious.",
+            "Make an <i>Insight</i> check to detect a creature's state of mind.",
+            "Make a <i>Medicine</i> check to detect a creature's ailment or cause of death.",
+            "Make a <i>Perception</i> check to detect a concealed creature or object.",
+            "Make a <i>Survival</i> check to detect tracks or food."
+        ],
+        bullets_de: [
+            "Muss aktualisiert werden:",
+            "Abhängig davon wonach und wie du suchst, kann der DM eine Probe auf Weisheit (Wahrnehmung) oder auf Intelligenz (Nachforschen) verlangen."
+        ]
+    },
+    {
+        title: "TODO: Use class feature",
         icon: "embrassed-energy",
         subtitle: "Nutze ein Merkmal",
         description: "",
@@ -249,29 +218,13 @@ data_action = [
         ]
     },
     {
-        title: "Stabilize a creature",
-        icon: "first-aid",
-        subtitle: "Erste Hilfe",
-        description: "Stop a dying creature from needing to make death saving throws | Stabilisiere eine Kreatur und verhindere, dass sie stirbt",
-        reference: "PHB, pg. 197.",
-        bullets: [
-            "Make a Wisdom (Medicine) check with DC 10",
-            "On a success, the creature is stable and no longer needs to make death saving throws",
-            "A stable creature regains 1 hit point after 1d4 hours"
-        ],
-        bullets_de: [
-            "Du kannst versuchen einer Kreatur mit 0 Trefferpunkten Erste Hilfe zu leisten, indem du einen Probe auf Weisheit (Medizin) gegen HG 10 ausführst. Bei einem Erfolg ist die Kreatur stabil, hat weiterhin 0 Trefferpunkte und ist <i>bewusstlos</i>, sie muss aber keine Todesrettungswürfe mehr machen.",
-			"Eine stabile Kreatur, die nicht geheilt wird, kommt nach 1d4 Stunden zu Bewusstsein und erhält einen Trefferpunkt zurück"
-        ]
-    },
-    {
         title: "Improvise",
         icon: "juggler",
         subtitle: "Improvisiere",
         description: "Perform any action you can imagine | Vollführe jede Aktion, die du dir vorstellen kannst",
-        reference: "PHB, pg. 193.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Actions'>Actions explanation in Free Rules</a>",
         bullets: [
-            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of D20 Test you need to make, if any."
         ],
         bullets_de: [
             "Wenn du eine Aktion beschreibst, die nicht in den Regeln beschrieben wird, teilt der DM dir mit ob sie möglich ist und was du gegebenenfalls dafür würfeln musst um heraus zu finden ob du erfolgreich bist."
