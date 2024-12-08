@@ -4,7 +4,7 @@ data_condition = [
         icon: "one-eyed",
         subtitle: "Blind",
         description: "You can't see | Du kannst nicht sehen",
-        reference: "PHB, pg. 290.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition'>Blinded in Free Rules</a>",
         bullets: [
             "You automatically fail any ability check which requires sight.",
             "You have disadvantage on attack rolls.",
@@ -21,9 +21,9 @@ data_condition = [
         icon: "smitten",
         subtitle: "Bezaubert",
         description: "You are charmed by another creature | Du bist von einer anderen Kreatur bezaubert",
-        reference: "PHB, pg. 290.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition'>Charmed in Free Rules</a>",
         bullets: [
-            "You can't attack your charmer or target them with harmful abilities or magical effects.",
+            "You can’t attack the charmer or target the charmer with damaging abilities or magical effects.",
             "Your charmer has advantage on ability checks to interact socially with you."
         ],
         bullets_de: [
@@ -36,7 +36,7 @@ data_condition = [
         icon: "elf-ear",
         subtitle: "Taub",
         description: "You can't hear | Du kannst nicht hören",
-        reference: "PHB, pg. 290.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeafenedCondition'>Deafened in Free Rules</a>",
         bullets: [
             "You automatically fail any ability check which requires hearing."
         ],
@@ -49,18 +49,18 @@ data_condition = [
         icon: "crawl",
         subtitle: "Erschöpfung",
         description: "Exhaustion is measured in six levels | Erschöpfung wird in sechs Stufen unterschieden",
-        reference: "PHB, pg. 291.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ExhaustionCondition'>Exhaustion in Free Rules</a>",
         bullets: [
-            "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on ability checks</td></tr><tr><td>2</td><td></td><td></td><td>Speed halved</td></tr><tr><td>3</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws</td></tr><tr><td>4</td><td></td><td></td><td>Hit point maximum halved</td></tr><tr><td>5</td><td></td><td></td><td>Speed reduced to 0</td></tr><tr><td>6</td><td></td><td></td><td>Death</td></tr></table>",
-            "You suffer the effect of your current level of exhaustion as well as all lower levels.",
-            "Finishing a long rest reduces your exhaustion level by 1, provided that you have also had some food and drink.",
-            "Also, being raised from the dead reduces a creature’s exhaustion level by 1."
+            "This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.",
+            "When you make a <i>D20 Test<i>, the roll is reduced by 2 times your Exhaustion level.",
+            "Your Speed is reduced by a number of feet equal to 5 times your Exhaustion level.",
+            "Finishing a Long Rest removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends."
         ],
         bullets_de: [
-            "<table><tr><th>Stufe</th><th></th><th></th><th style='text-align:left'>Effekt</th></tr><tr><td>1</td><td></td><td></td><td>Nachteil auf Fähigkeitenproben</td></tr><tr><td>2</td><td></td><td></td><td>Geschwindigkeit halbiert</td></tr><tr><td>3</td><td></td><td></td><td>Nachteil auf Angriffe und Rettungswürfe</td></tr><tr><td>4</td><td></td><td></td><td>Trefferpunkte-Maximum halbiert</td></tr><tr><td>5</td><td></td><td></td><td>Geschwindigkeit auf 0 reduziert</td></tr><tr><td>6</td><td></td><td></td><td>Tod</td></tr></table>",
-            "Du erleidest den Effekt deiner aktuelle Erschöpfungsstufe, sowie aller niedrigeren Stufen.",
-            "Eine lange Rast zu beenden reduziert deine Erschöpfungsstufe um 1, vorausgesetzt du hattest zu essen und zu trinken.",
-			"Von den Toten erweckt zu werden, reduziert deine Erschöpfungsstufe um 1."
+            "Dieser Zustand ist kumulativ. Jedes Mal, wenn du ihn erhältst, gewinnst du 1 Erschöpfungsstufe. Du stirbst, wenn deine Erschöpfungsstufe 6 ist.",
+            "Wenn du einen D20-Test machst, wird der Wurf um das 2-fache deiner Erschöpfungsstufe reduziert.",
+            "Deine Geschwindigkeit wird um eine Anzahl von Fuß reduziert, die dem 5-fachen deiner Erschöpfungsstufe entspricht.",
+            "Eine lange Rast entfernt 1 deiner Erschöpfungsstufen. Wenn deine Erschöpfungsstufe 0 erreicht, endet der Zustand."
         ]
     },
     {
@@ -68,7 +68,7 @@ data_condition = [
         icon: "sharp-smile",
         subtitle: "Verängstigt",
         description: "You are frightened | Du hast Angst",
-        reference: "PHB, pg. 290.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition'>Frightened in Free Rules</a>",
         bullets: [
             "You have disadvantage on ability checks and attack rolls while the source of your fear is within line of sight.",
             "You can't willingly move closer to the source of your fear."
@@ -83,42 +83,56 @@ data_condition = [
         icon: "grab",
         subtitle: "Gepackt",
         description: "You are grappled | Du bist im Haltegriff",
-        reference: "PHB, pg. 290.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition'>Grappled in Free Rules</a>",
         bullets: [
-            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
-            "The condition ends if your grappler is incapacitated.",
-            "The condition also ends if you are removed from the reach of your grappler."
+            "Your <i>Speed</i> is 0 and can’t increase.",
+            "You have <i>Disadvantage</i> on attack rolls against any target other than the grappler.",
+            "The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.",
+            "You can use your action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple’s escape DC, ending the condition on itself on a success.",
+            "The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple’s range."
         ],
         bullets_de: [
-            "Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.",
-			"Der Zustand endet, wenn der Haltende kampfunfähig wird.",
-            "Der Zustand endet außerdem, wenn du aus der Reichweite des Haltenden entfernt wirst."
+            "Deine Geschwindigkeit ist 0 und kann nicht erhöht werden.",
+			"Du hast einen Nachteil bei Angriffswürfen gegen ein anderes Ziel als den Haltenden.",
+            "Der Haltende kann dich ziehen oder tragen, aber jeder Fuß Bewegung kostet den Haltenden 1 zusätzlichen Fuß, es sei denn, du bist Winzig oder zwei oder mehr Größen kleiner als der Haltende.",
+            "Du kannst eine Aktion nutzen, um einen Stärke- (Athletik) oder Geschicklichkeits- (Akrobatik) Check gegen den DC des Haltenden zu machen und bei einem Erfolg den Zustand zu beenden.", 
+            "Der Zustand endet auch, wenn der Haltende den Zustand „Kampfunfähig“ hat oder wenn die Entfernung zwischen dir und dem Haltenden die Reichweite des Haltegriffs überschreitet."
         ]
     },
     {
         title: "Incapacitated",
         icon: "internal-injury",
         subtitle: "Kampfunfähig",
-        description: "You can't take actions or reactions | Du kannst weder Aktionen noch Reaktionen ausführen",
-        reference: "PHB, pg. 290.",
+        description: "You are inactive. | Du bist außer Gefecht.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition'>Grappled in Free Rules</a>",
         bullets: [
+            "You can’t take any action, Bonus Action, or Reaction.",
+            "Your Concentration is broken.",
+            "You can’t speak.",
+            "If you’re Incapacitated when you roll Initiative, you have Disadvantage on the roll."
+        ],
+        bullets_de: [
+            "Du kannst keine Aktion, Bonusaktion oder Reaktion ausführen.",
+            "Deine Konzentration ist gebrochen.",
+            "Du kannst nicht sprechen.",
+            "Du hast Nachteil beim Würfeln der Initiative."
         ]
     },
     {
         title: "Invisible",
         icon: "invisible",
         subtitle: "Unsichtbar",
-        description: "You can't be seen without the aid of magic or a special sense | Ohne die Hilfe von Magie oder speziellen Sinnen kannst du nicht gesehen werden",
-        reference: "PHB, pg. 291.",
+        description: "You are concealed. | Du bist verborgen.",
+        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition'>Invisible in Free Rules</a>",
         bullets: [
-            "For the purpose of hiding, you are heavily obscured.",
-            "You can still be detected by any noise you make or tracks you leave.",
+            "If you’re Invisible when you roll Initiative, you have Advantage on the roll.",
+            "You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.",
             "You have advantage on attack rolls.",
             "Attack rolls against you have disadvantage."
         ],
         bullets_de: [
-            "Du giltst als komplett verschleiert, wenn du versuchst dich zu verstecken.",
-			"Du kannst immer noch durch Geräusche oder von dir hinterlassene Spuren entdeckt werden.",
+            "Du hast Vorteil beim Würfeln der Initiative.",
+			"Du bist von keinem Effekt betroffen, der erfordert, dass sein Ziel gesehen wird, es sei denn, der Ersteller des Effekts kann dich irgendwie sehen. Jegliche Ausrüstung, die du trägst oder mit dir führst, ist ebenfalls verborgen.",
             "Du hast Vorteil auf Angriffswürfe.",
             "Angriffswürfe gegen dich sind im Nachteil.",
         ]
