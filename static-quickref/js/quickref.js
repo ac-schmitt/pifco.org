@@ -38,7 +38,7 @@ function show_modal(data, color, type) {
     $("#modal-backdrop").css("height", window.innerHeight + "px");
     $("#modal-container").css("background-color", color).css("border-color", color);
     $("#modal-title").text(title).append("<span class=\"float-right\">" + type + "</span>");
-    $("#modal-subtitle").text(subtitle);
+    $("#modal-subtitle").html(subtitle);
     $("#modal-reference").html(reference);
 
     var bullets_html = bullets.map(function (item) { return "<p class=\"fonstsize\">" + item + "</p>"; }).join("\n<hr style=\"border-top: dashed 1px;\">\n");

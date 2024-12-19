@@ -123,7 +123,7 @@ data_condition = [
         icon: "invisible",
         subtitle: "Unsichtbar",
         description: "You are concealed. | Du bist verborgen.",
-        reference: "<a hre='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition'>Invisible in Free Rules</a>",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition'>Invisible in Free Rules</a>",
         bullets: [
             "If you’re Invisible when you roll Initiative, you have Advantage on the roll.",
             "You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.",
@@ -142,17 +142,20 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Gelähmt",
         description: "You can't do anything | Du kannst nichts tun",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ParalyzedCondition'>Paralyzed in Free Rules</a>",
         bullets: [
-            "You are incapacitated and can't move or speak.",
+            "You have the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition'>Incapacitated</a> condition.",
+            "Your Speed is 0 and can’t increase.",
+            "You automatically fail Strength and Dexterity saving throws.",
             "Attack rolls against you have advantage.",
-            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you.",
-            "You automatically fail Strength and Dexterity saving throws."
+            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you."
         ],
         bullets_de: [
             "Du bist <i>kampfunfähig</i> und kannst dich weder bewegen noch sprechen.",
+            "Deine Geschwindigkeit ist 0 und kann nicht erhöht werden.",
+            "Rettungswürfe auf Stärke oder Geschicklichkeit schlagen automatisch fehl.",
 			"Angriffswürfe gegen dich sind im Vorteil.",
             "Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.",
-            "Rettungswürfe auf Stärke oder Geschicklichkeit schlagen automatisch fehl.",
         ]
     },
     {
@@ -160,22 +163,24 @@ data_condition = [
         icon: "stone-pile",
         subtitle: "Versteinert",
         description: "You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone) | Du bist, zusammen mit allen nicht-magischen Objekten die du trägst oder mitführst, in eine feste, unbewegliche Substanz (meistens Stein) verwandelt worden",
-        reference: "PHB, pg. 291.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PetrifiedCondition'>Petrified in Free Rules</a>",
         bullets: [
             "Your weight increases by a factor of ten, and you cease aging.",
-            "You are incapacitated, can't move or speak, and are unaware of your surroundings.",
+            "You have the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition'>Incapacitated</a> condition.",
+            "Your Speed is 0 and can’t increase.",
             "Attack rolls against you have advantage.",
             "You automatically fail Strength and Dexterity saving throws.",
             "You have resistance to all damage.",
-            "You are immune to poison and disease, though a poison or disease already in your system is only suspended, not neutralized."
+            "You have <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Immunity'>Immunity</a> to the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition'>Poisoned</a> condition."
         ],
         bullets_de: [
             "Dein Gewicht verzehnfacht sich und du hörst auf zu altern.",
-			"Du bist <i>kampfunfähig</i>, kannst dich weder bewegen noch sprechen und nimmst deine Umgebung nicht mehr wahr.",
+            "Du bist <i>kampfunfähig</i> und kannst dich weder bewegen noch sprechen.",
+            "Deine Geschwindigkeit ist 0 und kann nicht erhöht werden.",
             "Angriffswürfe gegen dich sind im Vorteil.",
             "Rettungswürfe auf Stärke oder Geschicklichkeit schlagen automatisch fehl.",
             "Du bist gegen jeden Schaden resistent",
-            "Du bist immun gegen Gifte und Krankheit, allerdings ist ein Gift, von dem du bereits betroffen bist, nur ruhend und nicht neutralisiert."
+            "Du bist immun gegen den Zustand <i>Vergiftet</i>"
         ]
     },
     {
@@ -183,7 +188,7 @@ data_condition = [
         icon: "deathcab",
         subtitle: "Vergiftet",
         description: "You are poisoned | Du bist vergiftet",
-        reference: "PHB, pg. 292.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition'>Poisoned in Free Rules</a>",
         bullets: [
             "You have disadvantage on attack rolls and ability checks."
         ],
@@ -196,14 +201,16 @@ data_condition = [
         icon: "crawl",
         subtitle: "Liegend",
         description: "You are prone | Du liegst",
-        reference: "PHB, pg. 292.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition'>Prone in Free Rules</a>",
         bullets: [
-            "Your only movement option is to crawl, unless you stand up.",
+            "Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition.",
+            "If your Speed is 0, you can’t right yourself.",
             "You have disadvantage on attack rolls.",
             "Attack rolls against you have advantage if the attacker is within 5 feet of you, otherwise the attack roll has disadvantage."
         ],
         bullets_de: [
-            "Deine einzige Bewegungsoption ist <i>Kriechen</i>, wenn du nicht aufstehst.",
+            "Deine einzige Bewegungsmöglichkeit ist, zu kriechen oder die Hälfte deiner Geschwindigkeit (abrunden) aufzuwenden, um dich aufzurichten und damit den Zustand zu beenden.",
+            "Wenn deine Geschwindigkeit 0 ist, kannst du dich nicht aufrichten.",
 			"Du bist bei Angriffen im Nachteil.",
 			"Angriffe gegen dich sind im Vorteil, wenn der Angreifer innerhalb von 5 Fuß von dir ist, anderenfalls sind sie im Nachteil."
         ]
@@ -213,17 +220,17 @@ data_condition = [
         icon: "imprisoned",
         subtitle: "Festgesetzt",
         description: "You are restrained | Du bist festgesetzt",
-        reference: "PHB, pg. 292.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition'>Restrained in Free Rules</a>",
         bullets: [
-            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
-            "You have disadvantage on attack rolls.",
+            "Your Speed is 0 and can’t increase.",
             "Attack rolls against you have advantage.",
+            "You have disadvantage on attack rolls.",
             "You have disadvantage on Dexterity saving throws."
         ],
         bullets_de: [
-            "Deine Geschwindigkeit ist 0 und du kannst nicht von Bonus auf deine Geschwindigkeit profitieren.",
-            "Du bist bei Angriffen im Nachteil.",
+            "Deine Geschwindigkeit ist 0 und kann nicht erhöht werden.",
             "Angriffe gegen dich sind im Vorteil.",
+            "Du bist bei Angriffen im Nachteil.",
             "Du bist bei Rettungswürfen auf Geschicklichkeit im Nachteil."
         ]
     },
@@ -232,16 +239,16 @@ data_condition = [
         icon: "internal-injury",
         subtitle: "Betäubt",
         description: "You are stunned | Du bist betäubt",
-        reference: "PHB, pg. 292.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StunnedCondition'>Stunned in Free Rules</a>",
         bullets: [
-            "You are incapacitated, can't move, and can speak only falteringly.",
-            "Attack rolls against you have advantage.",
-            "You automatically fail Strength and Dexterity saving throws."
+            "You have the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition'>Incapacitated</a> condition.",
+            "You automatically fail Strength and Dexterity saving throws.",
+            "Attack rolls against you have advantage."
         ],
         bullets_de: [
-            "Du bist <i>kampfunfähig</i>, kannst dich nicht bewegen und nur stammelnd reden.",
-			"Angriffe gegen dich sind im Vorteil.",
+            "Du bist <i>kampfunfähig</i>.",
             "Rettungswürfe auf Stärke oder Geschicklichkeit schlagen automatisch fehl.",
+			"Angriffe gegen dich sind im Vorteil."
         ]
     },
     {
@@ -249,48 +256,56 @@ data_condition = [
         icon: "coma",
         subtitle: "Bewusstlos",
         description: "You are unconscious | Du bist bewusstlos",
-        reference: "PHB, pg. 292.",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition'>Unconscious in Free Rules</a>",
         bullets: [
-            "You are incapacitated, can't move or speak, and are unaware of your surroundings.",
-            "You drop whatever you're holding and fall prone.",
+            "You have the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition'>Incapacitated</a> and <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition'>Prone</a> conditions.",
+            "You drop whatever you’re holding. When this condition ends, you remain Prone.",
+            "Your Speed is 0 and can’t increase.",
             "Attack rolls against you have advantage.",
-            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you.",
             "You automatically fail Strength and Dexterity saving throws.",
+            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you.",
+            "You’re unaware of your surroundings."
         ],
         bullets_de: [
-            "Du bist <i>kampfunfähig</i>, kannst dich nicht bewegen und nimmst deine Umgebung nicht wahr.",
-            "Du lässt fallen was du in Händen hältst und fällst hin.",
+            "Du bist <i>kampfunfähig</i> und <i>liegend</i>.",
+            "Du lässt fallen was du in Händen hältst und fällst hin. Wenn dieser Zustand ended, bleibst du <i>liegend</i>.",
+            "Deine Geschwindigkeit ist 0 und kann nicht erhöht werden.",
             "Angriffe gegen dich sind im Vorteil.",
-			"Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.",
             "Rettungswürfe auf Stärke oder Geschicklichkeit schlagen automatisch fehl.",
+			"Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist.",
+            "Du nimmst deine Umgebung nicht wahr."
         ]
     },
     {
-        title: "Dying",
+        title: "Bloodied",
         icon: "dead-head",
         subtitle: "0 Trefferpunkte",
-        description: "You have been dropped to zero hit points and are dying | Du bist bei 0 Trefferpunkten und du stirbst",
-        reference: "PHB, pg. 197.",
+        description: "You half half of your Hit Points or fewer remaining | Du hast nur noch die Hälfte oder weniger deiner Trefferpunkte übrig",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Bloodied'>Bloodied in Free Rules</a>"
+    },
+    {
+        title: "0 Hit Points",
+        icon: "dead-head",
+        subtitle: "0 Trefferpunkte",
+        description: "You are reduced to 0 hit points and you either die outright or you fall <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition'>unconscious</a>. | Du bist bei 0 Trefferpunkten und du stirbst",
+        reference: "<a href='https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Droppingto0HitPoints'>Dropping to 0 Hit Points in Free Rules</a>",
         bullets: [
-            "If you are reduced to 0 hit points by damage that fails to kill you, you fall unconscious and are dying.",
-            "If you receive any healing you immediately regain consciousness again and no longer dying.",
-            "When dying, at the start of each of your turns you make a death saving throw. Roll a d20 and do not add any modifiers.",
-            "A 10 or higher is a success, 9 or lower is a failure.",
-            "On your third success, you become stable.",
+            "You die if the remainder damage equals or exceeds your Hit Point maximum.",
+            "If you don't die instantly, you have the <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnconsciousCondition'>unconscious</a> condition",
+            "Until you regain any Hit Points, and you now face making <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeathSavingThrow'>Death Saving Throws</a> at the start of your turn.",
+            "On your third success, you become <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Stable'>stable</a>.",
             "On your third failure, you die.",
-            "Rolling a 1 counts as two failures.",
-            "Rolling a 20 immediately causes you to regain 1 hit point.",
-            "You can also be stabilized by an ally taking the Stabilize action and succeeding on a DC 10 Wisdom (Medicine) check.",
+            "You can also be stabilized by an ally taking the Help action and succeeding on a DC 10 Wisdom (Medicine) check.",
             "Once stable, you regain 1 hit point after 1d4 hours."
         ],
         bullets_de: [
-            "Du bist <i>bewusstlos</i>, es sei denn, du hast auf einmal soviel Schaden erhalten, dass du auf 0 Trefferpunkte fällst und der überschüssige Schaden noch einmal mindestens so hoch wie dein Trefferpunkte-Maximum ist. In diesem Fall stirbst du sofort.",
-            "Diese Bewusstlosigkeit endet, wenn du mindestens einen Trefferpunkt erhältst.",
-            "Wenn du deinen Zug mit 0 Trefferpunkten beginnst, musst du einen Todesrettungswurf machen. Würfle einen W20. Ein Ergebnis von mindestens 10 ist ein Erfolg, darunter ein Misserfolg. Bei deinem dritten Erfolg bist du stabil. Bei deinem dritten Misserfolg stirbst du.",
-			"Eine gewürfelte 1 wird als zwei Misserfolge gewertet. Bei einer gewürfelten 20 erhältst du sofort einen Trefferpunkt.",
-			"Wenn du Schaden erleidest während du 0 Trefferpunkte hast, erleidest du einen Misserfolg. Bei einem kritischen Treffer, erleidest zu zwei Misserfolge.",
-			"Angriffe gegen dich sind im Vorteil (siehe <i>bewusstlos</i>).",
-			"Jeder Angriff, der dich trifft, ist ein kritischer Treffer, wenn der Angreifer innerhalb von 5 Fuß von dir ist (siehe <i>bewusstlos</i>).",
+            "Du stirbst, wenn der verbleibende Schaden dein Trefferpunkte-Maximum erreicht oder überschreitet.",
+            "Wenn du nicht sofort stirbst, bist du <i>bewusstlos</i>.",
+            "Bis du mindestens 1 Trefferpunkt wiedererlangst, musst du zu Beginn deines Zuges Rettungswürfe für den Tod ablegen.",
+            "Bei deinem dritten Erfolg wirst du stabil.",
+            "Bei deinem dritten Fehlschlag stirbst du.",
+            "Du kannst durch einen Verbündeten stabilisiert werden, der die Aktion „Hilfe“ ausführt und einen Wurf auf Weisheit (Medizin) mit DC 10 besteht.",
+            "Sobald du stabil bist, erhältst du nach 1d4 Stunden 1 Trefferpunkt zurück."
         ]
     }
 ]
