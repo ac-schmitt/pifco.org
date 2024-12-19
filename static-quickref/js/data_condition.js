@@ -278,8 +278,8 @@ data_condition = [
     },
     {
         title: "Bloodied",
-        icon: "dead-head",
-        subtitle: "0 Trefferpunkte",
+        icon: "bleeding-heart",
+        subtitle: "1/2 Max-Trefferpunkte",
         description: "You half half of your Hit Points or fewer remaining | Du hast nur noch die Hälfte oder weniger deiner Trefferpunkte übrig",
         reference: "<a href='https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#Bloodied'>Bloodied in Free Rules</a>"
     },
