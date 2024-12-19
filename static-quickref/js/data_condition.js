@@ -304,7 +304,7 @@ data_condition = [
             "Bis du mindestens 1 Trefferpunkt wiedererlangst, musst du zu Beginn deines Zuges Rettungswürfe für den Tod ablegen.",
             "Bei deinem dritten Erfolg wirst du stabil.",
             "Bei deinem dritten Fehlschlag stirbst du.",
-            "Du kannst durch einen Verbündeten stabilisiert werden, der die Aktion „Hilfe“ ausführt und einen Wurf auf Weisheit (Medizin) mit DC 10 besteht.",
+            "Du kannst durch einen Verbündeten stabilisiert werden, der die Aktion „Hilfe“ ausführt und eine Probe auf Weisheit (Medizin) mit SG 10 besteht.",
             "Sobald du stabil bist, erhältst du nach 1d4 Stunden 1 Trefferpunkt zurück."
         ]
     }
