@@ -1,6 +1,7 @@
 ---
 title: "Regeln des Hauses"
 date: 2024-10-30T00:00:00+01:00
+draft: true
 ---
 
 ## Inspiration
@@ -27,14 +28,17 @@ ___
 
 ## Fading Spirits
 
-[Revivify](https://www.dndbeyond.com/spells/2618956-revivify), [Raise Dead]https://www.dndbeyond.com/spells/2618922-raise-dead), [Reincarnate]https://www.dndbeyond.com/spells/2618941-reincarnate) oder [Resurrection](https://www.dndbeyond.com/spells/2618953-resurrection) funktionieren nicht automatisch. Der Caster muss einen Skill Check mit der Spellcasting Ability machen. Der DC ist 10 plus 1 für jeden vergangenen Fehlschlag oder erfolgreichen Wiedererweckung des Characters. 
+_Inspiriert von [Matthew Mercers](https://critrole.com/members/matthew-mercer/) gleichnamigen Homebrew-Rules [The Fading Spirit - Alternative Ressurrection Rules (Screenshot)](https://i.imgur.com/bjUbbaB.png), die er seinerzeit auf [Xitter](https://x.com/matthewmercer/status/824054305355247616) veröffentlicht hat._
 
-Dem Caster darf geholfen werden, z.B. mittels Gebeten oder einer Herzmassage. Bei einem Fehlschlag bleibt das Ziel tot, aber man kann es gleich wieder probieren. Der DC steigt für das Ziel jeweils um 1 für jeden Fehlschlag an.
+[Revivify](https://www.dndbeyond.com/spells/2618956-revivify), [Raise Dead](https://www.dndbeyond.com/spells/2618922-raise-dead), [Reincarnate](https://www.dndbeyond.com/spells/2618941-reincarnate) oder [Resurrection](https://www.dndbeyond.com/spells/2618953-resurrection) funktionieren nicht automatisch. Der Caster muss einen Skill Check mit der Spellcasting Ability machen. Der DC ist 10 plus 1 für jeden vergangenen Fehlschlag oder erfolgreichen Wiedererweckung des Characters. 
+
+Dem Caster darf mit einer [Help Action](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HelpAction) geholfen werden, z.B. mittels Gebeten (Religion) oder einer Herzmassage (Medicine, vielleicht eher passend bei Revivify). Bei einem Fehlschlag bleibt das Ziel tot, aber man kann es gleich wieder probieren. Der DC steigt für das Ziel jeweils um 1 für jeden Fehlschlag an.
 
 [True Resurrection](https://www.dndbeyond.com/spells/2619199-true-resurrection) funktioniert wie in den Basic Rules beschrieben.
 
 ## 2024 Change Log
 
+- Offenbar braucht es eine Regel für Conjure Minor Elementals.
 - Magic Initiate wurde überarbeitet, daher benötigt es auch keine eigene Spell Scroll Usage Regel mehr.
 - Keine Home-Brew-Regel mehr zum Ausgeben von [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration), das folgt den 2024er Regeln.
 - Kein eigener Simulacrum Spell mehr, die Randbedingungen wurden klargestellt.
