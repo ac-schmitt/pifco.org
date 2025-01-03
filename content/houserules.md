@@ -1,7 +1,6 @@
 ---
 title: "Regeln des Hauses"
-date: 2024-10-30T00:00:00+01:00
-draft: true
+date: 2025-01-01T00:00:00+01:00
 ---
 
 ## Inspiration
@@ -16,7 +15,7 @@ ___
 
 ## Spells | Zauber
 
-Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charakterbögen in meinen Kampagnen auf D&D Beyond finden.
+Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charakterbögen in PIF & Co Kampagnen auf D&D Beyond finden.
 
 | Spell | Homebrew Version | Anmerkung |
 | ----- | ---------------- | --------- |

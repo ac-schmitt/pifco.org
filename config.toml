@@ -78,8 +78,8 @@ staticDir = ["static", "static-quickref"]
     weight = 15
 
   [[menu.main]]
-    name = "Die Kanzeley"
-    url = "pifco/"
+    name = "Regeln des Hauses"
+    url = "houserules/"
     weight = 20
 
   [[menu.main]]
