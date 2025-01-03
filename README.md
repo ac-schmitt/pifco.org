@@ -27,7 +27,7 @@ The content of the articles of the pifco.org website is licensed unter [Creative
 
 ### RSS Feed
 
-I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](layouts/posts/rss.xml) to get a full content feed.
+I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](layouts/posts/rss.xml) to get a full content feed for the [post section](https://pifco.org/posts/index.xml).
 
 ### Images
 
