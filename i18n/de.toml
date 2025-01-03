@@ -18,7 +18,7 @@ other = "Postsachen"
 other = "Siehe auch"
 
 [wordCount]
-other = "{{ .WordCount }} Wörter"
+other = "Wörter"
 
 [tableOfContents]
 other = "Inhalt"

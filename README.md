@@ -8,12 +8,9 @@ Please use `git clone --recurse-submodules` to clone the repository to include t
 
 ## Template
 
-pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule.
+pifco.org is based on the [Hermit V2 Theme](https://themes.gohugo.io/themes/hermit-v2/) and uses it as a git submodule.
 
-Customizations:
-* Changed font in own [_predefined.scss](assets/scss/_predefined.scss)
-* Added `noPrint` class in own [_predefined.scss](assets/scss/_predefined.scss)
-* Added class `noPrint` to elements in the partials [header](layouts/partials/header.html) and [footer](layouts/partials/footer.html)
+Customizations in [userstyles.scss](assets/scss/userstyles.scss).
 
 ## License
 
