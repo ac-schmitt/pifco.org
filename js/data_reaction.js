@@ -4,18 +4,16 @@ data_reaction = [
         icon: "crossed-swords",
         subtitle: "Gelegenheitsangriff",
         description: "You can rarely move heedlessly past your foes without putting yourself in danger | Man kommt selten einfach so an seinen Feinden vorbei ohne sich in Gefahr zu bringen",
-        reference: "PHB, pg. 195.",
+        reference: "Free Rules: <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#OpportunityAttacks'>Opportunity Attacks</a>",
         bullets: [
-            "Trigger: enemy creature you can see leaves your reach.",
-            "Make one melee attack against the provoking creature.",
-            "The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.",
-            "Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction."
+            "Trigger: a creature you can see leaves your reach using its action, its Bonus Action, its Reaction, or one of its speeds.",
+            "Make one melee attack with a weapon or an Unarmed Strike against the provoking creature.",
+            "The attack occurs right before the creature leaves your reach."
         ],
         bullets_de: [
-            "Auslöser: Eine feindliche Kreatur, die du sehen kannst, verlässt den Bereich deiner Nahkampfreichweite",
+            "Auslöser: Eine Kreatur, die du sehen kannst, verlässt den Bereich deiner Nahkampfreichweite",
             "Führe einen Nahkampfangriff gegen die provozierende Kreatur aus.",
-			"Der Angriff unterbricht die Bewegung der provozierenden Kreatur in dem Moment, wo sie den Bereich deiner Nahkampfreichweite verlässt.",
-            "Kreaturen provozieren keinen Gelegenheitsangriff, wenn sie teleportieren oder wenn jemand oder etwas sie bewegt ohne ihre Bewegung, Aktion oder Reaktion zu nutzen."
+			"Der Angriff erfolgt kurz bevor die Kreatur deine Reichweite verlässt."
         ]
     },
     {
@@ -23,7 +21,7 @@ data_reaction = [
         icon: "stopwatch",
         subtitle: "Vorbereitete Aktion",
         description: "Execute the reaction specified by your Ready action | Führe die Aktion aus, die du in deiner Vorbereiten-Aktion festgelegt hast",
-        reference: "PHB, pg. 193.",
+        reference: "Free Rules: <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ReadyAction'>Part of Ready-Action</a>",
         bullets: [
             "Trigger: specified by your <i>Ready</i> action."
         ],
@@ -36,14 +34,14 @@ data_reaction = [
         icon: "magic-swirl",
         subtitle: "Zauberwirken",
         description: "Cast a spell with a casting time of 1 reaction | Wirke einen Zauberspruch mit einer Zauberzeit von 1 Reaktion",
-        reference: "PHB, pg. 192.",
+        reference: "Free Rules: <a href='https://www.dndbeyond.com/sources/dnd/free-rules/spells#CastingTime'>Casting Time</a>",
         bullets: [
             "Trigger: specified by the spell.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Remember: on a turn, you can expend only one spell slot to cast a spell. Mostly not relevant for reactions."
         ],
         bullets_de: [
             "Auslöser: vom Zauberspruch festgelegt",
-            "Für Details siehe die <i>Zauberwirken</i> Aktion."
+            "Denke daran: in einem Zug kannst du nur einen Zauberslot ausgeben, um einen Zauber zu wirken. Ist aber für eine Reaktion häufig nicht relevant."
         ]
     },
     {
@@ -51,12 +49,12 @@ data_reaction = [
         icon: "embrassed-energy",
         subtitle: "Nutze ein Merkmal",
         description: "",
-        reference: "See class page for more information. | Siehe die Beschreibung des Merkmals",
+        reference: "Free Rules: <a href='https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Reaction'>Reaction</a>",
         bullets: [
-            "Use a racial or class feature that uses an reaction."
+            "Use a feature that uses an reaction."
         ],
         bullets_de: [
-            "Nutze ein Rassen- oder Klassenmerkmal, das eine Reaktion verbraucht."
+            "Nutze ein Merkmal, das eine Reaktion verbraucht."
         ]
     }    
 ]
