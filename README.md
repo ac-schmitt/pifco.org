@@ -8,19 +8,16 @@ Please use `git clone --recurse-submodules` to clone the repository to include t
 
 ## Template
 
-pifco.org is based on the [Hermit Theme](https://themes.gohugo.io/hermit/) and uses it as a git submodule.
+pifco.org is based on the [Hermit V2 Theme](https://themes.gohugo.io/themes/hermit-v2/) and uses it as a git submodule.
 
-Customizations:
-* Changed font in own [_predefined.scss](assets/scss/_predefined.scss)
-* Added `noPrint` class in own [_predefined.scss](assets/scss/_predefined.scss)
-* Added class `noPrint` to elements in the partials [header](layouts/partials/header.html) and [footer](layouts/partials/footer.html)
+Customizations in [_fonts.scss](assets/scss/_fonts.scss) and [userstyles.scss](assets/scss/userstyles.scss).
 
 ## License
 
 The code and structures in this repository are licensed under [MIT License](LICENSE).
 
 Acknowledgment to the upstream projects:
-* [Hermit Theme](https://github.com/Track3/hermit)
+* [Hermit V2 Theme](https://github.com/1bl4z3r/hermit-V2)
 * [dnd5e-quickref](https://github.com/crobi/dnd5e-quickref)
 * [dnd5e-quickref deutsch](https://github.com/nesges/dnd5e-quickref)
 
@@ -30,7 +27,7 @@ The content of the articles of the pifco.org website is licensed unter [Creative
 
 ### RSS Feed
 
-I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](layouts/posts/rss.xml) to get a full content feed.
+I've overriden the theme template for the rss feed in [layouts/posts/rss.xml](layouts/posts/rss.xml) to get a full content feed for the [post section](https://pifco.org/posts/index.xml).
 
 ### Images
 
