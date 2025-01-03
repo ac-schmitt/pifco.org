@@ -10,14 +10,14 @@ Please use `git clone --recurse-submodules` to clone the repository to include t
 
 pifco.org is based on the [Hermit V2 Theme](https://themes.gohugo.io/themes/hermit-v2/) and uses it as a git submodule.
 
-Customizations in [userstyles.scss](assets/scss/userstyles.scss).
+Customizations in [_fonts.scss](assets/scss/_fonts.scss) and [userstyles.scss](assets/scss/userstyles.scss).
 
 ## License
 
 The code and structures in this repository are licensed under [MIT License](LICENSE).
 
 Acknowledgment to the upstream projects:
-* [Hermit Theme](https://github.com/Track3/hermit)
+* [Hermit V2 Theme](https://github.com/1bl4z3r/hermit-V2)
 * [dnd5e-quickref](https://github.com/crobi/dnd5e-quickref)
 * [dnd5e-quickref deutsch](https://github.com/nesges/dnd5e-quickref)
 
