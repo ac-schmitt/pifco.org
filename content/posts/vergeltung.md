@@ -2,7 +2,7 @@
 title: "Vergeltung"
 date: 2025-01-04T09:56:08+01:00
 author: huffletooth
-draft: true
+draft: false
 toc: false
 images:
   - https://i.imgur.com/wQApdlb.jpg
@@ -36,3 +36,9 @@ Ich zittere am ganzen Körper und verstehe jetzt etwas besser, warum es den Leut
 Die anderen sind da. Trägerzwerg, Finsterelf, Hibbelgnom und Silberdrachling. Und ein Engel. Schön. Der Engel fliegt zur Muskelfrau, bestimmt um sie zu unterstützen. Die anderen werfen mit ätzenden Zaubern auf die Wache, die Zauber geschleudert hat. Diese Wache springt wie Flummi von Ast zu Ast und flüchtet. Der Trägerzwerg beschwört ein glühendes Geschoss und zielt auf die kleine Gefangene in dem Käfig. Ich bin komplett verwirrt. Wer ist Freund und wer ist Feind?
  
 Wenn ich nicht schon Kopfschmerzen hätte, dann würde ich welche bekommen. Ich versuche es auf die schnelle mal mit einfachen Grundsätzen. Die Muskelfrau hat die schändliche Drachenschlampe in Richtung Erdboden geschleudert. Ich laufe zur Muskelfrau, da erscheint es mir erstmal am sichersten zu sein.
+
+---
+
+## Anhang
+
+- [Homebrewery Version](https://homebrewery.naturalcrit.com/share/Y9gtX24jA8yu)
