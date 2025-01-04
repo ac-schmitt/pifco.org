@@ -8,7 +8,7 @@ images:
     - https://i.imgur.com/FVIJxbV.png
 tags: 
   - Savage Frontier
-  - Hintergrund
+  - Encyclopaedia
 ---
 
 >Geliebter Neffe,

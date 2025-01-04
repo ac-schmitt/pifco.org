@@ -8,7 +8,7 @@ images:
     - https://i.imgur.com/FVIJxbV.png
 tags: 
   - Savage Frontier
-  - Hintergrund
+  - Encyclopaedia
 ---
 
 Zu den Ereignissen in den wilden Grenzlanden nach dem Krieg der Silbermarschen erreichten mich eine Reihe von Briefen von Finufaranell aus dem Hause Durothil.
