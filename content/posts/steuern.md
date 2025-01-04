@@ -8,7 +8,7 @@ images:
   - https://i.imgur.com/bnkGn51.jpg
 tags:
   - Encyclopaedia
-  - Waterdeep
+  - Homebrew
 ---
 
 Mit einer seiner wesentlichen Amtshandlung als Offener Lord von Waterdeep gleich zu Beginn seiner Amtstzeit, hat Lord Dagult Neverember die Allgemeine Kopfsteuer eingeführt. Sie beträgt 1 Shard pro Person über 10 Jahre jeden Monat und wird von Stadtwache eingetrieben, die am letzten Tag des Monats von Tür zu Tür geht.

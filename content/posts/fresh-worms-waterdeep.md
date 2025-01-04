@@ -9,7 +9,6 @@ images:
 tags: 
   - Encyclopaedia
   - Homebrew
-  - Waterdeep
 ---
 
 Es sind nicht immer nur die großen Villen und Türme in der Stadt der Prächtigen, die das Vermögen einer Person ausmachen. Viel Bedeutender ist häufig der Besitz von Kleinodien, die, von fleissigen Menschen bewirtschaftet, kleine aber zuverlässige Erträge einbringen. Es ist mir eine Freude derlei Geschäfte zu machen, die mit Fug und Recht _Ehrlich_ genannt werden dürfen.

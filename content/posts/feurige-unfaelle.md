@@ -8,7 +8,6 @@ images:
   - https://i.imgur.com/Bw2AXvc.jpg
 tags: 
   - Encyclopaedia
-  - Waterdeep
 ---
 
 Zuletzt haben wir die leider erneut Streitigkeit rund um den Schadenersatz für Unfälle mit Feuer und Feuerelementaren schlichten müssen. Es sei angemerkt, dass unsere Kanzeley als Advokati nur für die privaten Verhandlungen zwischen Streitparteien zu Diensten ist. Die Prokurati der Stadt kümmern sich um Strafen und Verurteilungen gegen das Stadtrecht, die für das schuldhafte Legen eines Feuers äußerst empfindlich sind.
