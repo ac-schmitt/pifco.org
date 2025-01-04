@@ -10,18 +10,18 @@ data_movement = [
             "Your movement can include climbing, crawling, jumping, swimming or even flying.",
             "These different modes of movement can be combined with your regular movement, or they can constitute your entire move.",
             "You can break up your move, using some of its movement before and after any action, Bonus Action, or Reaction you take on the same turn.",
-            "TODO: move",
-            "You can move through a nonhostile creature's space.",
-            "You can move through a hostile creature's space only if the creature is at least two sizes larger or smaller than you.",
+            "During your move, you can pass through the space of an ally, a creature that has the Incapacitated condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.",
             "Another creature's space is difficult terrain for you.",
-            "Whether a creature is a friend or an enemy, you can't willingly end your move in its space."
+            "You can’t willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the Prone condition unless you are Tiny or are of a larger size than the other creature."
         ],
         bullets_de: [
-            "Wenn du mehr als eine Bewegungsrate hast, so wie deine herkömmliche und eine Flugbewegungsrate, kannst du während deiner Bewegung zwischen ihnen hin und her wechseln. Wann immer du wechselst, zieh die Gesamtdistanz, die du dich bisher bewegt hast, von der aktiven Bewegungsrate ab",
-			"Du kannst dich durch den Bereich einer nicht-feindlichen Kreatur bewegen",
-			"Du kannst dich nur dann durch den Bereich einer feindlichen Kreatur bewegen, wenn sie mindestens zwei Größenkategorien größer oder kleiner als du ist",
+            "Wenn du am Zug bist, kannst du dich um eine Entfernung bewegen, die deiner Geschwindigkeit oder weniger entspricht. Oder du kannst dich entscheiden, dich nicht zu bewegen.",
+			"Deine Bewegung kann Klettern, Krabbeln, Springen, Schwimmen oder sogar Fliegen beinhalten.",
+			"Diese verschiedenen Bewegungsarten können mit der normalen Bewegung kombiniert werden oder sie können die gesamte Bewegung ausmachen.",
+            "Du kannst deine Bewegung aufteilen, indem du einen Teil der Bewegung vor und nach einer Aktion, Bonusaktion oder Reaktion verwendest, die du im selben Zug ausführst.",
+            "Während deiner Bewegung kannst du den Bereich eines Verbündeten, einer Kreatur, die den Zustand „Kampfunfähig“ hat, einer Winzigen Kreatur oder einer Kreatur, die zwei Größen größer oder kleiner ist als du, durchqueren.",
 			"Der Bereich einer anderen Kreatur ist für dich <i>Schwieriges Gelände</i>",
-            "Du kannst deinen Zug nicht willentlich im Bereich einer Kreatur beenden, egal ob sie Freund oder Feind ist."
+            "Du kannst deinen Zug nicht willentlich im Bereich einer Kreatur beenden. egal ob sie Freund oder Feind ist. Wenn du deinen Zug doch irgendwie in dem Bereich einer anderen Kreatur beendest, hast du den Zustand „Liegend“, es sei denn, du bist winzig oder hast eine größere Größe als die andere Kreatur."
         ]
     },
     {
