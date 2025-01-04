@@ -16,7 +16,7 @@ data_movement = [
         ],
         bullets_de: [
             "Wenn du am Zug bist, kannst du dich um eine Entfernung bewegen, die deiner Geschwindigkeit oder weniger entspricht. Oder du kannst dich entscheiden, dich nicht zu bewegen.",
-			"Deine Bewegung kann Klettern, Krabbeln, Springen, Schwimmen oder sogar Fliegen beinhalten.",
+			"Deine Bewegung kann Klettern, Kriechen, Springen, Schwimmen oder sogar Fliegen beinhalten.",
 			"Diese verschiedenen Bewegungsarten können mit der normalen Bewegung kombiniert werden oder sie können die gesamte Bewegung ausmachen.",
             "Du kannst deine Bewegung aufteilen, indem du einen Teil der Bewegung vor und nach einer Aktion, Bonusaktion oder Reaktion verwendest, die du im selben Zug ausführst.",
             "Während deiner Bewegung kannst du den Bereich eines Verbündeten, einer Kreatur, die den Zustand „Kampfunfähig“ hat, einer Winzigen Kreatur oder einer Kreatur, die zwei Größen größer oder kleiner ist als du, durchqueren.",
