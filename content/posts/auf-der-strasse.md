@@ -1,7 +1,10 @@
 ---
 title: "Auf der Strasse"
 date: 2017-08-09T10:41:33+02:00
-author: "Flamerule in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Flamerule
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

@@ -1,11 +1,15 @@
 ---
 title: "Mord in Silbrigmond"
 date: 2023-10-14T21:50:02+02:00
-author: "Kythorn in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/pdpOi68.jpg
+categories:
+  - Kythorn
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

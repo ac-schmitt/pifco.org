@@ -1,7 +1,10 @@
 ---
 title: "In den Norden"
 date: 2019-07-06T15:55:00+02:00
-author: "Mirtul in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Mirtul
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

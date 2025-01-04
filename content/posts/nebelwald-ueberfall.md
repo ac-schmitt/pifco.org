@@ -1,7 +1,10 @@
 ---
 title: "Der Nebelwald-Überfall"
 date: 2019-11-09T12:23:20+01:00
-author: "Eleint in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleint
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

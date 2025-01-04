@@ -1,7 +1,10 @@
 ---
 title: "Immobilien"
 date: 2018-12-31T19:51:27+02:00
-author: "Marpenoth in the Year of the Rune Lords Triumphant, DR 1487"
+categories:
+  - Marpenoth
+  - Year of the Rune Lords Triumphant
+  - DR 1487
 draft: false
 toc: false
 images:

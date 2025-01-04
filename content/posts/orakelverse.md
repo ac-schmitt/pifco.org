@@ -1,11 +1,15 @@
 ---
 title: "Orakelverse"
 date: 2024-07-07T18:13:18+02:00
-author: "Flamerule in the Year of the Scarlet Witch, DR 1491"
+author: P
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/1/979/skt04-03.png
+categories:
+  - Flamerule
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

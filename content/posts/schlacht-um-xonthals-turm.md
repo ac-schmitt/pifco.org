@@ -1,7 +1,10 @@
 ---
 title: "Schlacht um Xonthal's Turm"
 date: 2020-11-01T19:32:34+01:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

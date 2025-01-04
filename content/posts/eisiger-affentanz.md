@@ -1,7 +1,10 @@
 ---
 title: "Eisiger Affentanz"
 date: 2019-08-20T22:19:00+02:00
-author: "Kythorn in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Kythorn
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

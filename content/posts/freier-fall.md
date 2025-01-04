@@ -1,11 +1,15 @@
 ---
 title: "Freier Fall"
 date: 2023-05-13T13:51:29+02:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/7tIatPu.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

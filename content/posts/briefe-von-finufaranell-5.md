@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell V"
 date: 2021-04-09T20:37:27+02:00
-author: "Eleint im Jahr des Triumphes des Runenfürsten, 1387 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Eleint
+  - Year of the Rune Lords Triumphant
+  - DR 1487
 tags: 
   - Savage Frontier
   - Encyclopaedia

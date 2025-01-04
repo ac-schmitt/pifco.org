@@ -1,11 +1,15 @@
 ---
 title: "Rückkehr"
 date: 2023-07-08T14:31:36+02:00
-author: "Kythorn in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/IqlJCXi.jpg
+categories:
+  - Kythorn
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

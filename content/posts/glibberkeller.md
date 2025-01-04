@@ -1,11 +1,15 @@
 ---
 title: "Glibberkeller"
 date: 2021-10-03T17:57:54+02:00
-author: "Alturiak in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/2/278/ooa02-04.png
+categories:
+  - Alturiak
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

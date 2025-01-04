@@ -1,7 +1,10 @@
 ---
 title: "Moor der toten Männer"
 date: 2017-10-15T11:33:22+02:00
-author: "Eleint in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Eleint
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

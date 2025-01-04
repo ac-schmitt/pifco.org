@@ -1,11 +1,15 @@
 ---
 title: "Ostwärts"
 date: 2023-02-08T20:12:50+01:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/05icHV6.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

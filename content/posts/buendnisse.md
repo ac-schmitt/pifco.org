@@ -1,7 +1,10 @@
 ---
 title: "Bündnisse"
 date: 2020-07-05T19:40:09+02:00
-author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Marpenoth
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

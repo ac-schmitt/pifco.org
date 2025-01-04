@@ -1,11 +1,15 @@
 ---
 title: "Zum Auge"
 date: 2024-03-17T14:15:01+01:00
-author: "Flamerule in the Year of the Scarlet Witch, DR 1491"
+author: P
 draft: false
 toc: false
 images:
   - https://i.imgur.com/JoIrHu5.jpg
+categories:
+  - Flamerule
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

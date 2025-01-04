@@ -1,7 +1,10 @@
 ---
 title: "Beute"
 date: 2020-12-20T11:02:32+01:00
-author: "Nightal in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Nightal
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

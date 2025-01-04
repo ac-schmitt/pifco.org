@@ -1,7 +1,10 @@
 ---
 title: "Die Rückkehr"
 date: 2019-09-19T21:37:08+02:00
-author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Flamerule
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

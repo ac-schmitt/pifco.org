@@ -1,11 +1,15 @@
 ---
 title: "Immer noch eingeschlossen"
 date: 2023-04-18T20:18:47+02:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/P2CpFZL.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

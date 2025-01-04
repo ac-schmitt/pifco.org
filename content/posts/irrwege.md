@@ -1,7 +1,10 @@
 ---
 title: "Irrwege"
 date: 2020-07-19T21:31:56+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

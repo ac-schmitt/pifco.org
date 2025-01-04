@@ -1,11 +1,15 @@
 ---
 title: "Beerdigung"
 date: 2022-05-08T10:22:34+02:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/foqUzmX.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

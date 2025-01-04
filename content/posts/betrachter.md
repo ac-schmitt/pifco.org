@@ -1,11 +1,15 @@
 ---
 title: "Betrachter"
 date: 2023-03-01T19:27:57+01:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/foqUzmX.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

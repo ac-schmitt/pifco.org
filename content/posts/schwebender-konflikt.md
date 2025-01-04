@@ -1,11 +1,15 @@
 ---
 title: "Schwebender Konflikt"
 date: 2024-05-01T18:29:01+02:00
-author: "Flamerule in the Year of the Scarlet Witch, DR 1491"
+author: P
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/1/978/skt04-01.png
+categories:
+  - Flamerule
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

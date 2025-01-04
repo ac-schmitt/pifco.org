@@ -1,7 +1,10 @@
 ---
 title: "Verhandlungssache"
 date: 2020-03-22T23:05:29+01:00
-author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Marpenoth
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

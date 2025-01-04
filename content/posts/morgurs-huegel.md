@@ -1,11 +1,15 @@
 ---
 title: "Morgurs Hügel"
 date: 2024-10-25T21:29:54+02:00
-author: "Eleasis in the Year of the Scarlet Witch, DR 1491"
+author: P
 draft: false
 toc: false
 images:
   - https://i.imgur.com/KlYdU24.jpg
+categories:
+  - Eleasis
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

@@ -1,7 +1,6 @@
 ---
 title: "Utensilien"
 date: 2021-03-20T13:59:50+01:00
-author: "Hammer in the Year of the Scarlet Witch, DR 1491"
 ---
 
 ## Schnellreferenz

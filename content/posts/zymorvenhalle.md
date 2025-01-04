@@ -1,10 +1,14 @@
 ---
 title: "Zymorvenhalle"
 date: 2023-10-27T23:03:31+01:00
-author: "Kythorn in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
+categories:
+  - Kythorn
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

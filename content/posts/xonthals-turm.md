@@ -1,7 +1,10 @@
 ---
 title: "Xonthal's Turm"
 date: 2020-08-26T16:38:02+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

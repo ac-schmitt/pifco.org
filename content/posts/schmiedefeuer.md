@@ -1,11 +1,15 @@
 ---
 title: "Schmiedefeuer"
 date: 2022-03-02T20:14:02+01:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/DnYeAz7.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

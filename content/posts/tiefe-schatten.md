@@ -1,11 +1,15 @@
 ---
 title: "Tiefe Schatten"
 date: 2022-09-13T21:26:45+02:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/0/818/c2-06.png
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

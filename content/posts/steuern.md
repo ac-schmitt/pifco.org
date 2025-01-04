@@ -1,7 +1,10 @@
 ---
 title: "Steuern"
 date: 2018-12-30T20:30:49+02:00
-author: "Hammer in the Year of the Rune Lords Triumphant, DR 1487"
+categories:
+  - Hammer
+  - Year of the Rune Lords Triumphant
+  - DR 1487
 draft: false
 toc: false
 images:

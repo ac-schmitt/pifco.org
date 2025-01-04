@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell VI"
 date: 2021-04-10T22:12:58+02:00
-author: "Kythorn im Jahr der Wiedergeburt der Zwergenheit, 1488 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Kythorn
+  - Year of Dwarvenkind Reborn
+  - DR 1488
 tags: 
   - Savage Frontier
   - Encyclopaedia

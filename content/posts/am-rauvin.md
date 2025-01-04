@@ -1,10 +1,14 @@
 ---
 title: "Am Rauvin"
 date: 2023-12-09T19:14:49+01:00
-author: "Kythorn in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
+categories:
+  - Kythorn
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

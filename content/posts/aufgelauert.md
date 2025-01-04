@@ -1,11 +1,15 @@
 ---
 title: "Aufgelauert"
 date: 2024-11-23T17:38:31+01:00
-author: "Eleasis in the Year of the Scarlet Witch, DR 1491"
+author: huffletooth
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/2/15/skt11-08.png
+categories:
+  - Eleasis
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

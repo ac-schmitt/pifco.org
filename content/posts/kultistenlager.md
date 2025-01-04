@@ -1,7 +1,10 @@
 ---
 title: "Kultistenlager"
 date: 2017-04-09T20:42:15+02:00
-author: "Kythorn in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Kythorn
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

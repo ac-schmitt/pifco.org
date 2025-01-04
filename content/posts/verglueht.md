@@ -1,11 +1,15 @@
 ---
 title: "Verglüht"
 date: 2024-02-17T19:52:54+01:00
-author: "Flamerule in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/mZ1Oiav.png
+categories:
+  - Flamerule
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

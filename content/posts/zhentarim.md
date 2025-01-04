@@ -1,7 +1,10 @@
 ---
 title: "Zhentarim"
 date: 2020-04-14T19:18:35+02:00
-author: "Eleint in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleint
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

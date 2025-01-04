@@ -1,11 +1,15 @@
 ---
 title: "Hügelspitze"
 date: 2024-01-15T20:19:18+01:00
-author: "Flamerule in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/mZ1Oiav.png
+categories:
+  - Flamerule
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

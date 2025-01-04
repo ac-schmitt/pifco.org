@@ -17,9 +17,8 @@ publishDir = "public"
 staticDir = ["static", "static-quickref"]
 
 [params.author]
-  name = "PIF & Co."
-  #about = "CHANGE SITE AUTHOR ABOUT"
-
+  name = "fohleireih"
+  about = "about"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -28,13 +27,13 @@ staticDir = ["static", "static-quickref"]
 
 [taxonomies]
   tag = "tags"
-  # Categories are disabled by default.
+  category = "categories"
 
 [params]
   dateform        = "2. 1. 2006"
   dateformShort   = "2. 1."
   dateformNum     = "02.01.2006"
-  dateformNumTime = "02.01.2006 15:04 -0700"
+  dateformNumTime = "02.01.2006 15:04"
 
   # Metadata mostly used in document's head
   # description = ""
@@ -43,6 +42,7 @@ staticDir = ["static", "static-quickref"]
 
   homeSubtitle = "Advocati - Campagneri - Arbitracisti"
   footerCopyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerHideThemeName = true
   bgImg = "https://i.imgur.com/NKrDRU9.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -52,8 +52,10 @@ staticDir = ["static", "static-quickref"]
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
   relatedPosts = false  # Add a related content section to all single posts page
-
   code_copy_button = true # Turn on/off the code-copy-button for code-fields  
+
+  legacyLayout = true
+  pinned = "Angeheftetes"
   
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
@@ -61,7 +63,7 @@ staticDir = ["static", "static-quickref"]
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
 
-  [[params.social]]
+  [[params.socialLinks]]
     name = "email"
     url = "mailto:fohleireih@pifco.org"
 

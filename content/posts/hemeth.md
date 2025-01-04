@@ -1,11 +1,15 @@
 ---
 title: "Hemeth"
 date: 2021-12-22T11:13:05+01:00
-author: "Ches in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://i.imgur.com/3os85qB.jpg
+categories:
+  - Ches
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

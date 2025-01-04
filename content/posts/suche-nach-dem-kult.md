@@ -1,7 +1,10 @@
 ---
 title: "Suche nach dem Kult"
 date: 2019-01-13T17:12:00+01:00
-author: "Tarsakh in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Tarsakh
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

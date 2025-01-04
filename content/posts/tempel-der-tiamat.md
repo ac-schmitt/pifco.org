@@ -1,7 +1,10 @@
 ---
 title: "Tempel der Tiamat"
 date: 2021-03-14T13:23:17+01:00
-author: "Hammer in the Year of the Scarlet Witch, DR 1491"
+categories:
+  - Hammer
+  - Year of the Scarlet Witch
+  - DR 1491
 draft: false
 toc: false
 images:

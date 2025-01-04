@@ -1,7 +1,10 @@
 ---
 title: "Jadetänzer"
 date: 2019-07-23T22:18:15+02:00
-author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Flamerule
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

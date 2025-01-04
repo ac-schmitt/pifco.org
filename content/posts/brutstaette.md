@@ -1,7 +1,10 @@
 ---
 title: "Brutstätte"
 date: 2017-06-11T16:06:22+02:00
-author: "Kythorn in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Kythorn
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

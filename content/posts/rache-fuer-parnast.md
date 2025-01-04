@@ -1,11 +1,15 @@
 ---
 title: "Rache für Parnast"
 date: 2022-10-08T20:43:46+02:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
     - https://i.imgur.com/A5dVXFl.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

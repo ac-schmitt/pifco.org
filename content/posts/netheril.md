@@ -1,11 +1,15 @@
 ---
 title: "Netheril"
 date: 2021-08-13T14:35:58+02:00
-author: "Alturiak  in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://i.imgur.com/gb239tl.jpg
+categories:
+  - Alturiak
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Encyclopaedia
 ---

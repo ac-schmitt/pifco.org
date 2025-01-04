@@ -1,7 +1,10 @@
 ---
 title: "Turmschleichen"
 date: 2020-09-26T17:07:26+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

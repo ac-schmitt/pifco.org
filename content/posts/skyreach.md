@@ -1,7 +1,10 @@
 ---
 title: "Skyreach"
 date: 2020-05-24T17:35:23+02:00
-author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Marpenoth
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

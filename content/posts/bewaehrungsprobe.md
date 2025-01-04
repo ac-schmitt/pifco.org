@@ -1,11 +1,15 @@
 ---
 title: "Bewährungsprobe"
 date: 2022-05-27T15:40:10+02:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/QG0nKxB.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

@@ -1,11 +1,15 @@
 ---
 title: "Sloobludop"
 date: 2021-11-03T21:46:38+01:00
-author: "Alturiak in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/2/288/ooa03-02.png
+categories:
+  - Alturiak
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

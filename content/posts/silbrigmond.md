@@ -1,11 +1,15 @@
 ---
 title: "Silbrigmond"
 date: 2023-07-31T20:52:47+02:00
-author: "Kythorn in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/hI5VacV.jpg
+categories:
+  - Kythorn
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

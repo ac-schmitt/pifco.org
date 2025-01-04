@@ -1,7 +1,10 @@
 ---
 title: "Feurige Unfälle"
 date: 2019-05-22T17:31:09+02:00
-author: "Flamerule in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Flamerule
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

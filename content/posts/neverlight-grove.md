@@ -1,11 +1,15 @@
 ---
 title: "Neverlight Grove"
 date: 2021-12-28T14:12:19+01:00
-author: "Ches in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/2/306/ooa05-01.png
+categories:
+  - Ches
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

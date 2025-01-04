@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell III"
 date: 2021-04-07T16:24:45+02:00
-author: "Eleasis im Jahr der Netherberg-Schriftrollen, 1386 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Eleasis
+  - Year of the Nether Mountain Scrolls
+  - DR 1486
 tags: 
   - Savage Frontier
   - Encyclopaedia

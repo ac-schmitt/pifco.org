@@ -1,11 +1,15 @@
 ---
 title: "Ausbruch"
 date: 2021-06-11T17:40:30+02:00
-author: "Marpenoth in the Year of the Star Walker's Return, DR 1490"
+author: ným
 draft: false
 toc: false
 images:
   - https://i.imgur.com/15EANli.png
+categories:
+  - Marpenoth
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

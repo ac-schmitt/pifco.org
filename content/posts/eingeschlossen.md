@@ -1,11 +1,15 @@
 ---
 title: "Eingeschlossen"
 date: 2023-04-02T12:09:13+02:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/P2CpFZL.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

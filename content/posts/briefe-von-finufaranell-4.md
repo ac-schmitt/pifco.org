@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell IV"
 date: 2021-04-08T12:55:22+02:00
-author: "Mirtul im Jahr des Triumphes des Runenfürsten, 1387 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Mirtul
+  - Year of the Rune Lords Triumphant
+  - DR 1487
 tags: 
   - Savage Frontier
   - Encyclopaedia

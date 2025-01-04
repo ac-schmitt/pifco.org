@@ -1,7 +1,10 @@
 ---
 title: "Viktoria"
 date: 2021-04-04T12:52:43+02:00
-author: "Hammer in the Year of the Scarlet Witch, DR 1491"
+categories:
+  - Hammer
+  - Year of the Scarlet Witch
+  - DR 1491
 draft: false
 toc: false
 images:

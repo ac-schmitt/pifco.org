@@ -1,7 +1,10 @@
 ---
 title: "Geheimnisvolles Portal"
 date: 2017-12-02T00:00:00+01:00
-author: "Eleint in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Eleint
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

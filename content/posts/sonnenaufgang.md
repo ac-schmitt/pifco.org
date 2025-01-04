@@ -1,11 +1,15 @@
 ---
 title: "Sonnenaufgang"
 date: 2022-01-23T14:01:43+01:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: ným
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/attachments/2/310/ooa05-05.png
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

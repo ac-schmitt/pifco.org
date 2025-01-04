@@ -1,11 +1,15 @@
 ---
 title: "Netzlaufen"
 date: 2021-08-08T17:35:58+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+author: ným
 draft: false
 toc: false
 images:
   - https://i.imgur.com/Pfq6Z9d.jpg
+categories:
+  - Uktar
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

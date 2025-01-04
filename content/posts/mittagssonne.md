@@ -1,11 +1,15 @@
 ---
 title: "Mittagssonne"
 date: 2022-02-13T14:28:01+01:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/m6fnZPQ.png
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

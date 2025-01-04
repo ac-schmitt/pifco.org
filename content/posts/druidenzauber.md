@@ -1,11 +1,15 @@
 ---
 title: "Druidenzauber"
 date: 2024-12-21T15:00:58+01:00
-author: "Eleasis in the Year of the Scarlet Witch, DR 1491"
+author: huffletooth
 draft: false
 toc: false
 images:
   - https://i.imgur.com/wQApdlb.jpg
+categories:
+  - Eleasis
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

@@ -1,11 +1,15 @@
 ---
 title: "Meilensteine"
 date: 2022-12-11T14:26:16+01:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/3ORICgZ.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags:
   - Savage Frontier
   - Wildes Grenzland

@@ -1,11 +1,15 @@
 ---
 title: "Schatten und Tentakel"
 date: 2023-04-30T19:16:34+02:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://www.dndbeyond.com/avatars/thumbnails/25746/113/1000/1000/637880557094360609.jpeg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

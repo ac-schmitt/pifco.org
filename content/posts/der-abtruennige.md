@@ -1,7 +1,10 @@
 ---
 title: "Der Abtrünnige"
 date: 2020-02-09T11:05:48+01:00
-author: "Eleint in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleint
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

@@ -1,7 +1,10 @@
 ---
 title: "Kultgeschichte"
 date: 2020-01-26T13:05:15+01:00
-author: "Eleasis in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleasis
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

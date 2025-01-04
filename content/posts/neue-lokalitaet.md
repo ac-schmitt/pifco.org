@@ -1,7 +1,10 @@
 ---
 title: "Neue Lokalität"
 date: 2018-12-28T21:24:28+02:00
-author: "Alturiak in the Year of the Nether Mountain Scrolls, DR 1486"
+categories:
+  - Alturiak
+  - Year of the Nether Mountain Scrolls
+  - DR 1486
 draft: false
 toc: false
 images:

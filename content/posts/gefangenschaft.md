@@ -1,7 +1,10 @@
 ---
 title: "Gefangenschaft"
 date: 2019-12-23T21:42:57+01:00
-author: "Eleint in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleint
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

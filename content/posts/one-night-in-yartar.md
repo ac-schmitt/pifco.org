@@ -1,11 +1,15 @@
 ---
 title: "One Night in Yartar"
 date: 2022-04-15T18:52:21+02:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://static.wikia.nocookie.net/forgottenrealms/images/0/04/Smuggler.png
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

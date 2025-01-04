@@ -1,7 +1,10 @@
 ---
 title: "Wandelnde Statuen"
 date: 2019-12-08T11:18:54+01:00
-author: "Eleasis in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Eleasis
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: true
 toc: false
 images:

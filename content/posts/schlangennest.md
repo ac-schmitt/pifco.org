@@ -1,7 +1,10 @@
 ---
 title: "Schlangennest"
 date: 2019-05-20T21:27:00+02:00
-author: "Tarsakh in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Tarsakh
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

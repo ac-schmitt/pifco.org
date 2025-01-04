@@ -1,11 +1,15 @@
 ---
 title: "Bonding"
 date: 2022-03-27T00:05:17+01:00
-author: "Tarsakh in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
     - https://i.imgur.com/tBnygQZ.jpg
+categories:
+  - Tarsakh
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

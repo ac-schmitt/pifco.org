@@ -1,7 +1,10 @@
 ---
 title: "Rat von Waterdeep"
 date: 2018-12-22T13:07:00+01:00
-author: "Ches in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Ches
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

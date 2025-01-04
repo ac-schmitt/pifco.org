@@ -1,7 +1,10 @@
 ---
 title: "Elturgard"
 date: 2020-10-03T20:35:00+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

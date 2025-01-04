@@ -1,11 +1,15 @@
 ---
 title: "Gnollhöhlen"
 date: 2021-07-11T17:18:19+02:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+author: ným
 draft: false
 toc: false
 images:
   - https://i.imgur.com/8hV35UY.png
+categories:
+  - Uktar
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland

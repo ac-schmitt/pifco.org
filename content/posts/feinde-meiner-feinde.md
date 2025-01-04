@@ -1,7 +1,10 @@
 ---
 title: "Feinde meiner Feinde"
 date: 2021-01-17T20:25:00+01:00
-author: "Nightal in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Nightal
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

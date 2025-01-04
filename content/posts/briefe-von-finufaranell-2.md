@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell II"
 date: 2021-04-06T17:05:45+02:00
-author: "Nightal im Jahr der Vergeltung des Eisernen Zwerges, 1385 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Nightal
+  - Year of the Iron Dwarf's Vengeance
+  - DR 1485
 tags: 
   - Savage Frontier
   - Encyclopaedia

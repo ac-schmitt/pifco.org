@@ -1,7 +1,10 @@
 ---
 title: "Brandbekämpfung"
 date: 2020-11-22T16:59:44+01:00
-author: "Uktar in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Uktar
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

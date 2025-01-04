@@ -1,11 +1,15 @@
 ---
 title: "Blanke Faust"
 date: 2022-12-21T16:51:29+01:00
-author: "Mirtul in the Year of the Scarlet Witch, DR 1491"
+author: dawnbringer
 draft: false
 toc: false
 images:
   - https://i.imgur.com/UF8hH1z.jpg
+categories:
+  - Mirtul
+  - Year of the Scarlet Witch
+  - DR 1491
 tags:
   - Savage Frontier
   - Wildes Grenzland

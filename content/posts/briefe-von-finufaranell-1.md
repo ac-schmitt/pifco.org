@@ -1,11 +1,15 @@
 ---
 title: "Briefe von Finufaranell I"
 date: 2021-04-05T08:40:14+02:00
-author: "Eleasis im Jahr der Vergeltung des Eisernen Zwerges, 1385 DR"
+author: finufaranell
 draft: false
 toc: false
 images:
     - https://i.imgur.com/FVIJxbV.png
+categories:
+  - Eleasis
+  - Year of the Iron Dwarf's Vengeance
+  - DR 1485
 tags: 
   - Savage Frontier
   - Encyclopaedia

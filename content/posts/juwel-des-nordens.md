@@ -1,7 +1,10 @@
 ---
 title: "Juwel des Nordens"
 date: 2021-01-01T19:54:37+01:00
-author: "Nightal in the Year of the Star Walker's Return, DR 1490"
+categories:
+  - Nightal
+  - Year of the Star Walker's Return
+  - DR 1490
 draft: false
 toc: false
 images:

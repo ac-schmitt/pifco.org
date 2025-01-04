@@ -1,7 +1,10 @@
 ---
 title: "Fliegendes Blatt über Waterdeep"
 date: 2018-12-29T12:51:12+02:00
-author: "Tarsakh in the Year of the Nether Mountain Scrolls, DR 1486"
+categories:
+  - Tarsakh
+  - Year of the Nether Mountain Scrolls
+  - DR 1486
 draft: false
 toc: false
 images:

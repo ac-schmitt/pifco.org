@@ -1,7 +1,10 @@
 ---
 title: "Wolkenfestung"
 date: 2018-02-11T00:00:00+01:00
-author: "Marpenoth in the Year of the Warrior Princess, DR 1489"
+categories:
+  - Marpenoth
+  - Year of the Warrior Princess
+  - DR 1489
 draft: false
 toc: false
 images:

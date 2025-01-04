@@ -1,11 +1,15 @@
 ---
 title: "Mit leeren Händen"
 date: 2024-10-03T19:10:18+02:00
-author: "Eleasis in the Year of the Scarlet Witch, DR 1491"
+author: P
 draft: false
 toc: false
 images:
   - https://i.imgur.com/7WokdLj.jpg
+categories:
+  - Eleasis
+  - Year of the Scarlet Witch
+  - DR 1491
 tags: 
   - Savage Frontier
   - Wildes Grenzland
