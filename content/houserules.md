@@ -21,7 +21,7 @@ Die "Homebrew Version" von jedem angepassten Zauber könnt ihr über eure Charak
 | ----- | ---------------- | --------- |
 | Aid        | [Fohleireih's Aid](https://www.dndbeyond.com/spells/1889781-fohleireihs-aid) | Keine Änderung nur Klärung: nur "überschüssige" Hit Points gehen am Ende der Wirkungsdauer verloren.
 | Alter Self | [Fohleireih's Alter Self](https://www.dndbeyond.com/spells/1889771-fohleireihs-alter-self) | Erlaubt sich in eine kleine oder mittelgroße Kreatur zu verwandeln, wenn man selbst entweder klein oder mittelgroß ist.
-| Conjure Minor Elementals |  [Fohleireih's Conjure Minor Elementals](https://www.dndbeyond.com/spells/2742112-fohleireihs-conjure-minor-elementals) | Upcasting reduziert auf 1d8 jedes zweite Level über dem 4. Level analog zu Spirit Shroud.
+| ~~Conjure Minor Elementals~~ |  ~~[Fohleireih's Conjure Minor Elementals](https://www.dndbeyond.com/spells/2742112-fohleireihs-conjure-minor-elementals)~~ | ~~Upcasting reduziert auf 1d8 jedes zweite Level über dem 4. Level analog zu Spirit Shroud.~~
 | Conjure Woodland Beings |  [Fohleireih's Conjure Woodland Beings](https://www.dndbeyond.com/spells/2769848-fohleireihs-conjure-woodland-beings) | Klarstellung: Das Bewegen der Emanation um den Trigger für den Schaden auszulösen funktioniert nur im Turn des Casters. Kein "Grapple den Caster" um rumreichen während des Turns des Grapplers.
 
 ___
