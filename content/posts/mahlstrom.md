@@ -1,5 +1,5 @@
 ---
-title: "Malstrom"
+title: "Mahlstrom"
 date: 2025-08-24T19:09:36+02:00
 draft: false
 toc: false
