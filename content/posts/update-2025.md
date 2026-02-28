@@ -8,7 +8,6 @@ images:
 tags: 
   - Homebrew
   - Behind the Scenes
-pin: true
 ---
 
 > Frohes neues Jahr!

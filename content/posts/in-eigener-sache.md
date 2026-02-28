@@ -11,7 +11,6 @@ categories:
   - DR 1491
 tags: 
   - Encyclopaedia
-pin: true
 ---
 
 Nachdem der Kult der Drachen besiegt worden ist und damit eine unmittelbare Bedrohung auch für _Waterdeep_ abgewendet wurde, waren sie wieder da, die Halunken und Halsabschneider der Stadt.
