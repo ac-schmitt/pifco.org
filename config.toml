@@ -30,11 +30,6 @@ staticDir = ["static", "static-quickref"]
   category = "categories"
 
 [params]
-  dateform        = "2. 1. 2006"
-  dateformShort   = "2. 1."
-  dateformNum     = "02.01.2006"
-  dateformNumTime = "02.01.2006 15:04"
-
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
@@ -66,6 +61,13 @@ staticDir = ["static", "static-quickref"]
   [[params.socialLinks]]
     name = "email"
     url = "mailto:fohleireih@pifco.org"
+
+[params.dateform]
+  CopyrightDate = "2006"
+  LongDate = "2. 1. 2006"
+  ShortDate = "2. 1."
+  NumDateShort = "02.01.2006"
+  NumDateLong = "02.01.2006 15:04"
 
 [menu]
 
