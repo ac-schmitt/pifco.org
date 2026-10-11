@@ -49,5 +49,8 @@
     "Yggmorgus",
     "Zuggtmoy",
     "Zurkhwood"
-  ]
+  ],
+  "chat.tools.terminal.autoApprove": {
+    "hugo": true
+  }
 }
