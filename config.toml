@@ -90,3 +90,6 @@ staticDir = ["static", "static-quickref"]
     name = "Erscheinungsvermerk"
     url = "about/"
     weight = 30
+
+[frontmatter]
+  lastmod = ["lastmod", "date"]

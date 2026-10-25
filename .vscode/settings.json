@@ -51,6 +51,7 @@
     "Zurkhwood"
   ],
   "chat.tools.terminal.autoApprove": {
-    "hugo": true
+    "hugo": true,
+    "git": true
   }
 }
