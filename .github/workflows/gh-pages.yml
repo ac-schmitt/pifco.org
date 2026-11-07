@@ -21,6 +21,15 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install Dart Sass
+        run: |
+          curl --fail --location --silent --show-error \
+            https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-linux-x64.tar.gz \
+            --output /tmp/dart-sass.tar.gz
+          echo "597188ea27a726b94a3b669e617c666dd0b8665c62c70bfab64dacf862dd4b0d  /tmp/dart-sass.tar.gz" | sha256sum --check
+          tar -xzf /tmp/dart-sass.tar.gz -C /tmp
+          echo "/tmp/dart-sass" >> "$GITHUB_PATH"
+
       - name: Build
         run: hugo --minify
 
