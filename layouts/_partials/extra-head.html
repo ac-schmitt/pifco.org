@@ -1,0 +1,4 @@
+{{- if and (eq .Type "posts") (not .Params.print) -}}
+  {{- $printCSS := resources.Get "custom_css/print.scss" | resources.ExecuteAsTemplate "css/print.css" . | toCSS | minify | fingerprint -}}
+  <link rel="stylesheet" media="print" href="{{ $printCSS.Permalink }}" {{ printf "integrity=%q" $printCSS.Data.Integrity | safeHTMLAttr }} crossorigin="anonymous">
+{{- end -}}
